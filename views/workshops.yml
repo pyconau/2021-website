@@ -1,0 +1,5 @@
+path: /sponsor/workshops
+context:
+  dynamic:
+    workshops: session.query(Workshop).all()
+template: workshops

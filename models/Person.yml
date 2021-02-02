@@ -1,0 +1,7 @@
+title: String
+name: String
+pronouns: String
+role: String
+twitter: String
+bio: String
+has_pic: Boolean

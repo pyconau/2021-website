@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "pyconau-2021-website"
+version = "0.2.0"
+description = ""
+authors = ["Leigh Brenecki <leigh@brenecki.id.au>", "Katie McLaughlin <katie@glasnt.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+statik = "^0.23.0"
+sqlalchemy = {version = "*", extras = []}
+"ruamel.yaml" = "^0.16.10"
+parse = "^1.17.0"
+bleach = "^3.1.5"
+pillow = "^7.2.0"
+
+[tool.poetry.dev-dependencies]
+supervisor = "^4.2.1"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
