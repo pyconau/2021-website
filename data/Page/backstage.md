@@ -16,7 +16,7 @@ There are three systems you'll have access to throughout the course of the event
 
 You'll gain access to both Discord and Venueless through your ticket! The order confirmation screen has all the links you need to get in.
 
-* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2020] Your speaker ticket for PyConline AU 2020*, sent around <time datetime="2020-08-19T23:00:00+0930">Wednesday 19 August, 11pm ACST</time>. Then, follow the prompts to redeem your ticket.
+* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2020] Your speaker ticket for PyConline AU 2020*, sent around TODO ADD DATE>. Then, follow the prompts to redeem your ticket.
 * **If you have redeemed your ticket already**, look for an email with the subject *[PyConline AU 2020] Your order*, sent around the time you redeemed it.
 
 
