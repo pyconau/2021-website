@@ -23,20 +23,20 @@ const TIME_COMPACT = {
   timeZoneName: "short",
   hour12: false,
 }
-const TIME_COMPACT_ADL = { ...TIME_COMPACT, timeZone: "Australia/Adelaide" }
+const TIME_COMPACT_MEL = { ...TIME_COMPACT, timeZone: "Australia/Melbourne" }
 const TIME_HRMIN = {
   hour: "2-digit",
   minute: "2-digit",
   timeZoneName: "short",
   hour12: false,
 }
-const TIME_HRMIN_ADL = { ...TIME_HRMIN, timeZone: "Australia/Adelaide" }
+const TIME_HRMIN_MEL = { ...TIME_HRMIN, timeZone: "Australia/Melbourne" }
 
 function clockTick(output: HTMLElement) {
   const now = DateTime.local()
   output.innerText = now
-    .setZone("Australia/Adelaide")
-    .toLocaleString(TIME_COMPACT_ADL)
+    .setZone("Australia/Melbourne")
+    .toLocaleString(TIME_COMPACT_MEL)
   setTimeout(clockTick.bind(null, output), 1000 - (now.toMillis() % 1000))
 }
 
@@ -73,7 +73,7 @@ export default function () {
         true,
       ) as HTMLElement
       rtt.querySelector(".reltime-fixed")!.innerHTML = `${dt.toLocaleString(
-        TIME_HRMIN_ADL,
+        TIME_HRMIN_MEL,
       )} (${dt.toLocaleString(TIME_HRMIN)})`
       const relative = rtt.querySelector(".reltime-relative")
       setInterval(() => {

@@ -1,13 +1,13 @@
 import { DateTime, LocalZone, DateTimeFormatOptions } from "luxon"
 
-const ZONE = "Australia/Adelaide"
+const ZONE = "Australia/Melbourne"
 const TIME_ONLY: DateTimeFormatOptions = {
   hour: "numeric",
   minute: "numeric",
 }
 const TIME_ONLY_DIFF_DAY = { ...TIME_ONLY, weekday: "short" }
 const TIME_ONLY_TZ = { ...TIME_ONLY, timeZoneName: "short" }
-const TIME_ONLY_ACST = { ...TIME_ONLY, timeZone: "Australia/Adelaide" }
+const TIME_ONLY_AEST = { ...TIME_ONLY, timeZone: "Australia/Melbourne" }
 
 const HOUR_MARKER = { hour: "numeric" }
 const HOUR_MARKER_DIFF_DAY = { ...HOUR_MARKER, weekday: "short" }
@@ -26,8 +26,8 @@ export default function scheduleInit(schedule: HTMLElement) {
     const startLocal = start.toLocal()
     const startLocalIsDiffDay = startLocal.weekday !== start.weekday
     time.innerText = `${start.toLocaleString(
-      TIME_ONLY_ACST,
-    )}\u2013${end.toLocaleString(TIME_ONLY_ACST)} (${startLocal.toLocaleString(
+      TIME_ONLY_AEST,
+    )}\u2013${end.toLocaleString(TIME_ONLY_AEST)} (${startLocal.toLocaleString(
       startLocalIsDiffDay ? TIME_ONLY_DIFF_DAY : TIME_ONLY,
     )}\u2013${end.toLocal().toLocaleString(TIME_ONLY_TZ)})`
     console.log(start, end)
@@ -77,7 +77,7 @@ export default function scheduleInit(schedule: HTMLElement) {
     schedule.appendChild(newRule)
   })
   const acstLabel = document.createElement("s-tz-header")
-  acstLabel.innerText = "ACST"
+  acstLabel.innerText = "AEST"
   schedule.appendChild(acstLabel)
   const localLabel = document.createElement("s-tz-header")
   localLabel.classList.add("local")
