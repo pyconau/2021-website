@@ -15,7 +15,7 @@ If your change is larger and you require a local development environment you wil
 Links provided favour macOS using [Homebrew](https://brew.sh/), but will refer to general download information as well. 
 
 * **[Python 3.7](https://www.python.org/downloads/)** minimum
- * we recommend installing via [pyenv](https://github.com/pyenv/pyenv) ([brew](https://formulae.brew.sh/formula/pyenv) or [download](https://github.com/pyenv/pyenv#installation))
+  * we recommend installing via [pyenv](https://github.com/pyenv/pyenv) ([brew](https://formulae.brew.sh/formula/pyenv) or [download](https://github.com/pyenv/pyenv#installation))
 * **[Node.js](https://nodejs.org/en/)** ([brew](https://formulae.brew.sh/formula/node) or [download](https://nodejs.org/en/download/))
 * **[Poetry](https://python-poetry.org)** ([brew](https://formulae.brew.sh/formula/poetry) or [downoad](https://python-poetry.org/docs/#installation))
 
