@@ -3,7 +3,7 @@ title: Stay tuned for 2021
 published: 2021-02-16
 ---
 
-Following the success of PyConline AU 2021, and with the lack of certainty in
+Following the success of PyConline AU 2020, and with the lack of certainty in
 the world, PyCon AU is again running virtually in 2021 as PyConline AU, in
 UTC+10 (Australian Eastern Standard Time). We intend to run in late Q3 (~
 September), but we have yet to confirm the exact date. 
