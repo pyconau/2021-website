@@ -11,7 +11,7 @@ sqlalchemy = {version = "*", extras = []}
 "ruamel.yaml" = "^0.16.10"
 parse = "^1.19.0"
 bleach = "^3.3.0"
-pillow = "^8.1.0"
+pillow = "^8.1.2"
 
 [tool.poetry.dev-dependencies]
 supervisor = "^4.2.2"
