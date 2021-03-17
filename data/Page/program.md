@@ -4,7 +4,9 @@ order: 2
 ---
 # Program
 
-**Watch this space**
+Our program consists of two major sections: Friday, our [specialist tracks](/tracks), and Saturday/Sunday, our general program. 
+
+## Watch this space
 
 If you'd like to hear more about PyCon AU 2021 as it's announced, you can <a href="https://twitter.com/PyConAU">follow us on Twitter</a>, or sign up to the mailing list:
 
