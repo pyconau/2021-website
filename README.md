@@ -68,3 +68,20 @@ If you are running macOS Catalina and getting hundreds of `API_UNAVAILABLE`/`cla
   ```
 
 - Then try `poetry install` again.
+
+### macOS issues with `invalid active developer path`
+
+If you've upgraded to Big Sur, you may need to re-install your developer tools. 
+
+Try [this tip](https://apple.stackexchange.com/a/254381/191618):
+
+- (Re-)install your developer tools: 
+ 
+  ```
+  xcode-select --install
+  ```
+- (Optional) if the above doesn't work, also try: 
+
+  ```
+  xcode-select --reset
+  ```
