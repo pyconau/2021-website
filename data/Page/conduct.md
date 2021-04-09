@@ -7,11 +7,11 @@ order: 999 # always rightmost link
 
 All attendees of PyConline AU agree to be bound by the Linux Australia code of conduct.
 
-Linux Australia aims to provide fun, welcoming and professional environments so
-that diverse groups of people&mdash;regardless of age, race, gender identity or
-expression, background, disability, appearance, sexuality, walk of life, or
-religion&mdash;can get together to learn from and be inspired by each other about
-all things Free and Open Source.
+All Linux Australia events are intended to be environments where delegates 
+can get together to learn from and be inspired by each other about all things 
+Free and Open Source. Linux Australia aims to foster an atmosphere of trust, 
+openness, and safety where all delegates respect the diversity of each 
+other’s talents, abilities and experiences and value the input of others.
 
 Linux Australia is committed to the ideals expressed in our [Values
 Statement](http://linux.org.au/values) and ask all our members, speakers,
@@ -35,9 +35,9 @@ considerate to all patrons of these locations.
 
 All presentation material should be suitable for people aged 12 and above.
 
-Any public presentation which is part of any event, including but not limited
-to keynotes, presentations, lightning talks, addresses, mailing list posts and
-forums, is subject to this code of conduct and thus may not contain:
+Any public presentation or communication which is part of any event and/or 
+other spaces associated with the conference, is subject to this code of 
+conduct and thus may not contain:
 
 * sexual or violent imagery;
 * exclusionary language;
@@ -84,8 +84,9 @@ any intimidation, harassment, or abusive or discriminatory behaviour.
 Here are some examples of behaviours that have occurred at past events which
 are not appropriate:
 
-* offensive verbal or written remarks related to gender, sexual orientation,
-  disability, physical appearance, body size, race or religion;
+* offensive verbal or written remarks related but not limited to
+  gender, sex, sexual orientation, disability, physical appearance, body
+  size, race or religion;
 * sexual or violent images in public spaces (including presentation slides);
 * deliberate intimidation;
 * stalking or following;
@@ -95,9 +96,9 @@ are not appropriate:
 * inappropriate physical contact;
 * unwelcome sexual attention;
 * sexist, racist, or other exclusionary jokes;
-* unwarranted exclusion from conference or related events based on
-  age, gender, sexual orientation, disability, physical appearance, body size,
-  race, religion;
+  attributes such as (but not limited to) age, gender, sex, sexual
+  orientation, disability, physical appearance, body size, race,
+  religion;
 
 We want everyone to have a good time at our events.
 
