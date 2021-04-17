@@ -1,8 +1,5 @@
-path:
-  template: /program/{{track.slug}}
-  for-each:
-    track: session.query(Track).all()
-template: track
+path: /tracks
 context:
   dynamic:
-    sessions: session.query(Session).filter(Session.track == track.pk).order_by(Session.start).all()
+    tracks: session.query(Track).all()
+template: tracks-index

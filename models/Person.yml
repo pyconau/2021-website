@@ -5,3 +5,5 @@ role: String
 twitter: String
 bio: String
 has_pic: Boolean
+affiliation: String
+is_core: Boolean

@@ -30,6 +30,11 @@ If you're new to Python or PyCon AU, here's some things we will probably mention
 
 The may include, but are not limited to:
 
+### Snakeoil Academy
+
+<a name="snakeoil-academy"></a>
+Our speicalist track [Snakeoil Academy](/snakeoil-academy) is now in it's fourth year in 2021, having previously run as the "Security and Privacy track" in [2018](https://2018.pycon-au.org/security-and-privacy-track/), [2019](https://2019.pycon-au.org/security-and-privacy-track/) and [2020](https://2020.pycon.org.au/program/security-and-privacy/). The tinfoil hat snake associated with this track has origins from it's [inaugural year](https://twitter.com/_ulternate/status/1032863179406077952). 
+
 ### Lines from the "Zen of Python"
 
 This is an easter egg in Python itself, where if you type "import this" you get "The Zen of Python, by Tim Peters". [Read more about PEP 20](https://www.python.org/dev/peps/pep-0020/)
@@ -37,6 +42,10 @@ This is an easter egg in Python itself, where if you type "import this" you get 
 ### curlyboi
 
 curlyboi is our multicoloured snake graphic, lovingly designed by [Tania Walker](http://taniawalker.com/pyconau/) as part of our conference branding redesign in 2018. The name originates from the meme: "Who would win: (computer reference) or one curly boi (a right parenthesis)".
+
+### snek
+
+'snek' is a cute name for a snake, as seen in many snek-based memes ([example](https://raw.githubusercontent.com/glasnt/talks/gh-pages/2017_05_PyConUS_Snek/pictures/snek.png)).
 
 ### Lightning talk references
 

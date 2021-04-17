@@ -4,3 +4,4 @@ context:
   dynamic:
     news: session.query(News).order_by(News.published.desc()).all()
     page: session.query(Page).filter(Page.pk == 'about').one()
+    organisers: session.query(Person).filter(Person.is_core).all()
