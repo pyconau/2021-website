@@ -3,7 +3,7 @@ title: Announcing the Specialist Trcks
 published: 2021-04-18
 ---
 
-We're please to announce that the following specialist tracks have been selected to run in 2021 as part of PyCon AU: 
+We're pleased to announce that the following specialist tracks have been selected to run in 2021 as part of PyCon AU: 
 
  * [Education](/education)
  * [Snakeoil Academy](/snakeoil-academy)
