@@ -39,9 +39,8 @@ There are some other folders of stuff:
  * `assets/`:
    * `people/`: avatars of instances of `Person`
    * `sponsor-logos`: logos of instances of `Sponsor`
-   * `diagrams/`, misc: misc images
+   * `diagrams/`, misc images
 * `frontend/`: sass (high level CSS) and typescript (high level javascript) things that power the pretty. 
-* 
 
 
 ## Redirects and config as code
@@ -60,7 +59,9 @@ Some of these files are important. Of important note:
    
 ## Local Infrastructure
 
-If you are developing locally a number of other folders will appear. These are explicitly defined in `.gitignore` and *should not be committed to the repository*. 
+If you are developing locally a number of other folders will appear. 
+
+These are explicitly defined in `.gitignore` and *should not be committed to the repository*. 
 
 * `node_modules/`: local JavaScript packages
 * `public/`: the locally built version of the website
