@@ -33,6 +33,7 @@ Our CFP process also encompasses submissions to the four specialist tracks: Educ
 </div>
 <br>
 
+We are also accepting **Expressions of Interest** for social events from now until the end of July! [Submit your ideas today!](https://docs.google.com/forms/d/e/1FAIpQLScjoy_76xYhsiljkt4fmfsf4t5l2TBGS5CiH8Qt31EBWNIVXw/viewform)
 
 See you online!
 
