@@ -18,6 +18,9 @@ If you are looking for how to submit a talk, mentoring, or speaker benefits, you
         Submit to PyCon AU
     </a>
 </div>
+<br>
+
+We are also interested in your ideas for [social events](/social)!
 
 <hr>
 
