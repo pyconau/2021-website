@@ -19,6 +19,10 @@ If you are looking for how to submit a talk, mentoring, or speaker benefits, you
     </a>
 </div>
 
+
+We are also accepting **Expressions of Interest** for social events from now until the end of July! [Submit your ideas today!](https://docs.google.com/forms/d/e/1FAIpQLScjoy_76xYhsiljkt4fmfsf4t5l2TBGS5CiH8Qt31EBWNIVXw/viewform)
+
+
 <hr>
 
 Go to: [Anonymity guidelines](#anonymity-guidelines), [Content Warnings](#content-warnings)
