@@ -15,4 +15,9 @@
     {{ super() }}
   </div>
 </header>
-{% endblock %} {% block main %} {{ m.news(latest_news) }} {% endblock %}
+{% endblock %}
+{% block main %}
+{{ m.news(latest_news) }}
+<br>
+<a href="/news">Read more news posts</a>
+{% endblock %}
