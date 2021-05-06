@@ -12,7 +12,7 @@ We are thrilled to announce for call for proposals (CFP) is now open!
 </div>
 <hr>
 
-Submissions to speak at PyConline AU 2020 will be accepted from now until **10 June, anywhere on earth (UTC+12)**. 
+Submissions to speak at PyConline AU 2020 will be accepted from now until **10 June, anywhere on earth (UTC-12)**. 
 
 We welcome submissions from everybody, including those:
 
