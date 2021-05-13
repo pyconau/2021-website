@@ -3,3 +3,5 @@ template: home
 context:
   dynamic:
     latest_news: session.query(News).order_by(News.published.desc()).first()
+    pinned_item: session.query(News).filter(News.pinned == True).order_by(News.published.desc()).first()
+
