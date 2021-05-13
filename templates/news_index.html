@@ -8,7 +8,7 @@
         <p>
             <a href="{% url "news_post", post %}">{{ post.title }}</a>
             <br />
-            {%- if loop.first -%}<b>Latest News</b> &mdash; {% endif %}<small>Published {{ post.published.strftime("%d %B, %Y") }}</small>
+            {%- if loop.first -%}<b>Latest News</b> &mdash; {% endif %}{% if post.pinned %}📌 &mdash; {%endif%}<small>Published {{ post.published.strftime("%d %B, %Y") }}</small>
         </p>
     </li>
     {% endfor %}

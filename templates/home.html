@@ -17,7 +17,7 @@
 </header>
 {% endblock %}
 {% block main %}
-{{ m.news(latest_news) }}
+{% if pinned_item %}{{m.news(pinned_item)}}{%else%}{{ m.news(latest_news) }}{%endif%}
 <br>
 <a href="/news">Read more news posts</a>
 {% endblock %}
