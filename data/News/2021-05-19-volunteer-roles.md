@@ -29,7 +29,7 @@ The Producer ultimately makes sure the show goes on. The Producer ensures that t
 
 Extensive support and mentorship will be provided for our show producer. We're asking a producer to be part of our core team early, so that they have experience of the inner workings prior to the conference event/stream.
 
-This role is part of the core organiser team and should be availabile for weekly co-ordination syncs with the core team, and asynchronously by the organiser discord. 
+This role is part of the core organiser team and should be available for weekly coordination syncs with the core team, and asynchronously by the organiser discord. 
 
  * Responsible for run-lists, user moderation of backstage.
  * Point of contact and volunteer wrangler for session hosts and speaker wranglers.
