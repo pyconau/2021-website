@@ -1,6 +1,6 @@
 ---
 title: Seeking event volunteers
-published: 2021-05-18
+published: 2021-05-19
 ---
 
 As we start thinking ahead to our on the day event logistics, PyConline is actively seeking volunteers for the following roles: Green Room Tech Checker, and Show Producer. 
