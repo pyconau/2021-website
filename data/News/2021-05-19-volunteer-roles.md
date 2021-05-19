@@ -27,6 +27,8 @@ Availability: immediate, through event date.
 
 The Producer ultimately makes sure the show goes on. The Producer ensures that the program selected and scheduled by the Program Chair actually happens!
 
+Extensive support and mentorship will be provided for our show producer. We're asking a producer to be part of our core team early, so that they have experience of the inner workings prior to the conference event/stream.
+
 This role is part of the core organiser team and should be availabile for weekly co-ordination syncs with the core team, and asynchronously by the organiser discord. 
 
  * Responsible for run-lists, user moderation of backstage.
