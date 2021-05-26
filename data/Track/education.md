@@ -19,5 +19,6 @@ Applications close 23rd of July
         Submit to the PyConline AU Student Showcase
     </a>
 </div>
+<br>
 
 Python programming is becoming more common in education settings, whether taught as part of the Digital Technologies classrooms, integrated across the curriculum, or embedded in coding clubs. The Education Track brings together teachers, programmers, educators, creators of education tools, students and folks who are keen to learn to discuss ideas to help the next generation of programmers.
