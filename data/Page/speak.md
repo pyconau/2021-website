@@ -49,7 +49,7 @@ Once reviewing is finished, all proposals will be de-anonymised.
 
 PyCon AU proposal reviewers are then joined by the remaining members of the PyCon AU core organising team in order to curate the program. This group will use the reviewed proposals, in conjunction with speaker profiles, to rank and organise a program that meets our goals for diversity of speakers and topics.
 
-Once curation is complete, we then start to notify speakers, allowing for speakers to decline if required, until we fill our entire conference schedule, including idenitifying several backup speakers. 
+Once curation is complete, we then start to notify speakers, allowing for speakers to decline if required, until we fill our entire conference schedule, including identifying several backup speakers. Emails are generally sent via pretalx, and the status of each submission will eventually be updated in pretalx too. 
 
 We anticipate all CFP submitters to hear back about their submissions within one month of the CFP close, and before the schedule is released publicly. 
 
