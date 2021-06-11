@@ -5,6 +5,16 @@ order: 3
 
 # PyConline AU call for proposals
 
+Our call for proposal is now **closed**. 
+
+We hope to have gotten back to everyone who submitted no later than July 11 2021. 
+
+Best of luck to all who submitted!
+
+---
+
+_The following is our call for proposal information, for historical record._
+
 We’d love you to present at the most online PyCon AU ever!
 
 We’re looking for talks on everything Python, open source, and tech-related. If it would be of interest to someone, anyone, in the Python community, it’s of interest to us!

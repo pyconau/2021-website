@@ -1,7 +1,6 @@
 ---
 title: Call for Sponsors
 published: 2021-05-13
-pinned: False
 ---
 
 G’day everyone!

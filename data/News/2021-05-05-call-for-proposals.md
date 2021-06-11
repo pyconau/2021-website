@@ -1,7 +1,6 @@
 ---
 title: Call for Proposals now open!
 published: 2021-05-05
-pinned: True
 ---
 
 We are thrilled to announce for call for proposals (CFP) is now open!
