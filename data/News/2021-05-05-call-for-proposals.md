@@ -1,16 +1,13 @@
 ---
-title: Call for Proposals now open!
+title: Call for Proposals closed
 published: 2021-05-05
 ---
 
-We are thrilled to announce for call for proposals (CFP) is now open!
+**Call for proposals has now closed, program selection pending. We hope to inform all applicants by July 11 2021**
 
-<div class='center-content'>
-    <a href="https://pretalx.com/pycon-au-2021/cfp" class='btn btn-chonk'>
-        Submit to PyCon AU
-    </a>
-</div>
-<hr>
+Original post follows: 
+
+---
 
 Submissions to speak at PyConline AU 2021 will be accepted from now until **10 June, anywhere on earth (UTC-12)**. 
 
