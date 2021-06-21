@@ -1,7 +1,6 @@
 ---
 title: Call for Proposals closed
 published: 2021-05-05
-pinned: True
 ---
 
 **Call for proposals has now closed, program selection pending. We hope to inform all applicants by July 11 2021**

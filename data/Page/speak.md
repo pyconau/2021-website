@@ -5,9 +5,10 @@ order: 3
 
 # PyConline AU call for proposals
 
+
 **Call for proposals has now closed, program selection pending. We hope to inform all applicants by July 11 2021**
 
-Original page follows:
+_The following is our call for proposal information, for historical record._
 
 ---
 
