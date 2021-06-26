@@ -17,7 +17,7 @@ By far, the best investment is ensuring audio quality is clear and not echo-y.  
 
 In an ideal world; a external USB condenser microphone is your best bet, but you will need to practice with it to ensure you’re getting optimal audio levels, it’s positioned correctly, it doesn’t accidentally pickup your speakers/other sound during your talk, and make sure any gain or volume controls are set so it's loud and clear, without any distortion, even when you're speaking loudly into it.
 
-Many podcasting guides are very useful to read, for example: https://www.buzzsprout.com/blog/mic-technique-podcasting
+Many podcasting guides are very useful to read, for example: [https://www.buzzsprout.com/blog/mic-technique-podcasting](https://www.buzzsprout.com/blog/mic-technique-podcasting)
 
 Dropping down from this, using a USB headset with a microphone is the next best thing.
 

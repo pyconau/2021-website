@@ -2,8 +2,6 @@
 path: speakers/content
 ---
 
-<p><i>This content relates to the 2020 event. It will be updated for 2021</i></p>
-
 # About the content of your talk
 
 ## Updating your talk information
@@ -14,7 +12,7 @@ If you haven't already, we need you to **tick the consent box that says we're al
 
 In addition to that, you can make changes to your title, abstract, bio, and so on.
 
-If you don't let us know that you want to pre-record by updating Pretalx before 15 August, we'll assume that you're presenting live.
+You would have indicated that you will present live or provide a pre-recorded video. Confirm that setting. If you don't provide us a pre-recorded video before 23 August, we'll assume that you're presenting live.
 
 ## Conduct and expectations
 

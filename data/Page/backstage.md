@@ -2,11 +2,9 @@
 path: speakers/backstage
 ---
 
-<p><i>This content relates to the 2020 event. It will be updated for 2021</i></p>
-
 # Backstage @ PyConline AU
 
-*This page outlines the tools, the tech, and the key moments involved in presenting at PyConline AU 2020. It will likely be updated based on your feedback during tech checks so please check back here closer to the conference for more detail.*
+*This page outlines the tools, the tech, and the key moments involved in presenting at PyConline AU 2021. It will likely be updated based on your feedback during tech checks so please check back here closer to the conference for more detail.*
 
 There are three systems you'll have access to throughout the course of the event:
 
@@ -16,8 +14,8 @@ There are three systems you'll have access to throughout the course of the event
 
 You'll gain access to both Discord and Venueless through your ticket! The order confirmation screen has all the links you need to get in.
 
-* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2020] Your speaker ticket for PyConline AU 2020*, sent around TODO ADD DATE>. Then, follow the prompts to redeem your ticket.
-* **If you have redeemed your ticket already**, look for an email with the subject *[PyConline AU 2020] Your order*, sent around the time you redeemed it.
+* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around TODO DATE. Then, follow the prompts to redeem your ticket.
+* **If you have redeemed your ticket already**, look for an email with the subject *[PyConline AU 2021] Your order*, sent around the time you redeemed it.
 
 
 As an outline, these are the key dates, times and locations that are important for presenting at the conference.

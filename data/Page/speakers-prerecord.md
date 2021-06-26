@@ -2,8 +2,6 @@
 path: speakers/pre-record
 ---
 
-<p><i>This content relates to the 2020 event. It will be updated for 2021</i></p>
-
 # Information for pre-recording your talk
 
 ## Your options for pre-recording
@@ -12,8 +10,6 @@ If you want to pre-record, you have two options:
 
 - **Pre-record by yourself**. This is the way to go if you want the best video and audio quality, if you don't want a dodgy Internet connection causing problems, or if you want to do something different and interesting with your video.
 - **Apply for a slot to pre-record with our help**. We'll use roughly the same tools as we use on the day, but we'll record the output earlier and play it back. The quality will be the same as a livestream, and your Internet connection will still need to be up to scratch.  Limited slots are available, so not everyone that wants to do this will be able to.
-
-Either way, **you need to let us know before 15 August** through Pretalx. If you [edit your accepted submission](https://pretalx.com/pycon-au-2020/me/submissions/), you'll see a question you can use to indicate your preference. (This is *not* the same as the question that you were asked during the CFP process.)
 
 With both options, we encourage you to invest time before your talk to ensure your recording setup is optimal (see below).  Clear audio especially will ensure your video is as engaging as possible, holding people’s attention for the duration of the talk.
 
@@ -25,7 +21,7 @@ Some additional support is available for talks scheduled in the **Curlyboi Theat
 
 ## Technical requirements
 
-- Video length: A **maximum** of the duration you selected&mdash;so either **15, 25 or 55 minutes**. It can run a little shorter but it **can not** run longer, even by a second.
+- Video length: A **maximum** of the duration you selected&mdash;so either **30 minutes**. It can run a little shorter but it **can not** run longer, even by a second.
 - Resolution:1080p (1920x1080) or 720p (1280x720)
 - We can handle format re-conversion, but preference for format is below.
 - We will email out upload details to those who opt-in to this.
