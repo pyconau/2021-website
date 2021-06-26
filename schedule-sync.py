@@ -62,13 +62,6 @@ rooms = {
     "The One Obvious Room": 4,
 }
 
-session_types = {
-    720: "L",
-    721: "P",
-    722: "RL",
-    723: "RP",
-}
-
 tracks = {
     "DevOops": "devoops",
     "Science, Data & Analytics": "science",
@@ -79,6 +72,7 @@ tracks = {
 
 seen_speakers = set()
 
+# TODO 
 #yt_resp = requests.get(
 #    "https://veyepar.nextdayvideo.com/main/C/pyconau/S/pyconau_2021.json"
 #)
@@ -94,20 +88,22 @@ for entry in os.listdir("data/Session/"):
     os.unlink(f"data/Session/{entry}")
 
 for session in paginate("https://pretalx.com/api/events/pycon-au-2021/talks/"):
+    breakpoint()
     speakers = [x["code"] for x in session["speakers"]]
     seen_speakers.update(speakers)
     with open(f'data/Session/{session["code"]}.yml', "w") as f:
         start = dateutil.parser.isoparse(session["slot"]["start"])
         end = dateutil.parser.isoparse(session["slot"]["end"])
-        type_answer_id = (
-            "P"
-            if session["internal_notes"]
-            and "*PREREC:ACCEPT" in session["internal_notes"]
-            else "L"
+        type_answer_id = ("X"
+            # TODO
+            #"P"
+            #if session["internal_notes"]
+            #and "*PREREC:ACCEPT" in session["internal_notes"]
+            #else "L"
         )
         try:
             cw = next(
-                x["answer"] for x in session["answers"] if x["question"]["id"] == 547
+                x["answer"] for x in session["answers"] if x["question"]["id"] == 854
             )
         except (StopIteration, IndexError):
             cw = None
@@ -167,7 +163,7 @@ for speaker in paginate("https://pretalx.com/api/events/pycon-au-2021/speakers/"
                     (
                         x["answer"]
                         for x in speaker["answers"]
-                        if x["question"]["id"] == 474
+                        if x["question"]["id"] == 856
                     ),
                     None,
                 ),
