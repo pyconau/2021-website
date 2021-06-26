@@ -57,7 +57,7 @@ def parse_markdown(text):
 
 rooms = {
     "Curlyboi Theatre": 1,
-    "Python 2 Memorial Concert Hall": 2,
+    "Platypus Hall": 2,
     "Flip Floperator Pavillion": 3,
     "The One Obvious Room": 4,
 }
@@ -73,27 +73,27 @@ tracks = {
     "DevOops": "devoops",
     "Science, Data & Analytics": "science",
     "Education": "education",
-    "DjangoCon AU": "djangoconau",
-    "Security & Privacy": "security",
+    "Snakeoil Academy (Security & Privacy)": "security",
     "Main Conference": None,
 }
 
 seen_speakers = set()
 
-yt_resp = requests.get(
-    "https://veyepar.nextdayvideo.com/main/C/pyconau/S/pyconau_2020.json"
-)
-yt_resp.raise_for_status()
-youtube_slugs = {
-    x["conf_key"]: x["host_url"].rsplit("/", 1)[1]
-    for x in yt_resp.json()
-    if x["host_url"] is not None
-}
+#yt_resp = requests.get(
+#    "https://veyepar.nextdayvideo.com/main/C/pyconau/S/pyconau_2021.json"
+#)
+#yt_resp.raise_for_status()
+youtube_slugs = {} 
+#{
+#    x["conf_key"]: x["host_url"].rsplit("/", 1)[1]
+#    for x in yt_resp.json()
+#    if x["host_url"] is not None
+#}
 
 for entry in os.listdir("data/Session/"):
     os.unlink(f"data/Session/{entry}")
 
-for session in paginate("https://pretalx.com/api/events/pycon-au-2020/talks/"):
+for session in paginate("https://pretalx.com/api/events/pycon-au-2021/talks/"):
     speakers = [x["code"] for x in session["speakers"]]
     seen_speakers.update(speakers)
     with open(f'data/Session/{session["code"]}.yml', "w") as f:
@@ -135,7 +135,7 @@ from io import BytesIO
 with open("assets/people/_etags.yml") as f:
     etags = yaml.load(f)
 
-for speaker in paginate("https://pretalx.com/api/events/pycon-au-2020/speakers/"):
+for speaker in paginate("https://pretalx.com/api/events/pycon-au-2021/speakers/"):
     if speaker["code"] not in seen_speakers:
         continue
     has_pic = False
