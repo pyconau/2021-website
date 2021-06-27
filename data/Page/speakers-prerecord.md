@@ -21,7 +21,7 @@ Some additional support is available for talks scheduled in the **Curlyboi Theat
 
 ## Technical requirements
 
-- Video length: A **maximum** of the duration you selected&mdash;so either **30 minutes**. It can run a little shorter but it **can not** run longer, even by a second.
+- Video length: A **maximum** of **30 minutes**. It can run a little shorter but it **can not** run longer, even by a second.
 - Resolution:1080p (1920x1080) or 720p (1280x720)
 - We can handle format re-conversion, but preference for format is below.
 - We will email out upload details to those who opt-in to this.
