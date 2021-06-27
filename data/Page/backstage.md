@@ -88,7 +88,7 @@ You MC will likely double check a few things with you:
  * Talk details and introduction
  * Confirming your session length
  * Confirming if you’ll be accepting questions during your allotted session time
- * _Remember: 25 minutes includes both your talk and questions if you want them - so plan accordingly._
+ * _Remember: 30 minutes includes both your talk and questions if you want them - so plan accordingly._
 
  ![Presenting timeline](/assets/diagrams/presenting.png)
 
