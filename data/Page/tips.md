@@ -7,17 +7,12 @@ path: /speakers/tips
 
 We've prepared a Tech Tips video: How to get the best from your remote presentation; click above to watch.
 
-[This PDF by Kubecon EU is also very useful](https://events.linuxfoundation.org/wp-content/uploads/2020/06/KubeCon_EU_Virtual_2020_WebPresenterDoc_v4.pdf), recommend reading.
-
-If you decide to buy additional hardware (note COVID is making stock levels challenging, order early), please make sure you put the time in to properly test before the event.  It’s unfortunately common to see someone buy an awesome new microphone to have them accidentally not have it set as the active recording audio device during their talk, or not have it placed in front of them correctly.
 
 ## Microphone / audio quality
 
 By far, the best investment is ensuring audio quality is clear and not echo-y.  **This is more important than video quality.** Using your laptop microphone is OK for short talks or video chat, but the echo will get very fatiguing to listen to for a 20+ minute talk.
 
 In an ideal world; a external USB condenser microphone is your best bet, but you will need to practice with it to ensure you’re getting optimal audio levels, it’s positioned correctly, it doesn’t accidentally pickup your speakers/other sound during your talk, and make sure any gain or volume controls are set so it's loud and clear, without any distortion, even when you're speaking loudly into it.
-
-Many podcasting guides are very useful to read, for example: https://www.buzzsprout.com/blog/mic-technique-podcasting
 
 Dropping down from this, using a USB headset with a microphone is the next best thing.
 
@@ -49,7 +44,7 @@ Streaming at 720p ideally requires over 2mbit, with a minimum of 1mbit for OK qu
 
 ## Timer, power & second monitor/device
 
-Having a timer displayed (on a second monitor, device, phone) with a countdown will help you keep on time.
+Having a timer displayed (on a second monitor, device, phone) with a countdown will help you keep on time.  The backstage crew during your talk will help with this too, giving you reminders about the end of your talk in chat.
 
 If you’re streaming, and you’re using speaker notes, keep in mind you’ll also need to keep the relevant chat channel / stream feed back to you open, so you can be communicated with during your talk if required.  It is possible you may need a third monitor or another device if your speaker notes take over the other screen, but testing/practice will reveal this.
 

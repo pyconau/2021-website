@@ -1,9 +1,6 @@
 ---
 ---
 
-
-<p><i>This content relates to the 2020 event. It will be updated for 2021</i></p>
-
 # Information for speakers
 
 * [Backstage guide](/speakers/backstage/), to find out where you need to go for your tech check, and for on the day!
