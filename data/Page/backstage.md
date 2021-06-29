@@ -23,14 +23,15 @@ As an outline, these are the key dates, times and locations that are important f
 ![Speaker timeline](/assets/diagrams/timeline.png)
 
 ## About Discord
-Discord is our ‘back of house’ space. While we’re giving you an early access invitation, the discord will only be active during tech checks, rehearsals and during the conference.
-<p style="float: left; width:40%; padding-right: 1rem; margin: 1rem">![Discord Screenshot](/assets/diagrams/discord.png)</p>
+Discord is our ‘back of house’ space, where we have been organising things leaving up to the event
 
 ### How do I get in to Discord?
 
-* At the end of that process, click the link that says *Log me in to the backstage Discord server!*
 
-If you have already redeemed your speaker ticket voucher, instead search your email for an email with the subject **.
+* Redeem your speaker ticket voucher. You'll have an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around July 14, 2021. 
+* Once you have redeemed your ticket, in the Pretix page, click the link that says *Log me in to the backstage Discord server!*
+
+If you have already redeemed your speaker ticket voucher, instead search your email for an email with the subject *[PyConline AU 2021] Your order*.
 
 ### What do I need to do once I'm in?
 
@@ -77,7 +78,7 @@ As long as you are online (Discord), a conference staff member will talk through
 
  ![Presenting timeline](/assets/diagrams/presenting.png)
 
-Please be mindful of time - your fellow speakers will rely on the 10 minutes between talks to get setup (just as you did). If a talk is running over the scheduled time, the MC may pop back up and politely remind you to wrap up.
+Please be mindful of time - your fellow speakers will rely on the 15 minutes between talks to get setup (just as you did). If a talk is running over the scheduled time, the MC may pop back up and politely remind you to wrap up.
 
 ##  After your talk
 Congratulations! You gave a talk at #PyConlineAU!
