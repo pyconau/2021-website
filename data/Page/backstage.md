@@ -15,7 +15,7 @@ There are four systems you'll have access to throughout the course of the event:
 
 You'll gain access to both Discord and Venueless through your ticket! The order confirmation screen has all the links you need to get in.
 
-* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around TODO DATE. Then, follow the prompts to redeem your ticket.
+* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around July 14 2021. Then, follow the prompts to redeem your ticket.
 * **If you have redeemed your ticket already**, look for an email with the subject *[PyConline AU 2021] Your order*, sent around the time you redeemed it.
 
 As an outline, these are the key dates, times and locations that are important for presenting at the conference.
@@ -48,7 +48,7 @@ You can set these settings per-server by clicking on the server name in the top 
 
 ## Tech Checks
 
-All presenters (pre-recorded and live) require a Tech Check with our AV crew in August.  Exceptions are if you've presented at a Pyconline before (but we'd still encourage it!) or you're submitting a pre-record very early.
+All presenters (pre-recorded and live) require a Tech Check with our AV crew in August.  Exceptions are if you've presented at a PyConline before (but we'd still encourage it!) or you're submitting a pre-record very early.
 
 Tech checks give our AV an opportunity to check our systems work with your setup, and we'll provide feedback about your webcam, audio, lighting, etc. 
 
