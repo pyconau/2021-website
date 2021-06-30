@@ -88,7 +88,6 @@ for entry in os.listdir("data/Session/"):
     os.unlink(f"data/Session/{entry}")
 
 for session in paginate("https://pretalx.com/api/events/pycon-au-2021/talks/"):
-    breakpoint()
     speakers = [x["code"] for x in session["speakers"]]
     seen_speakers.update(speakers)
     with open(f'data/Session/{session["code"]}.yml', "w") as f:
