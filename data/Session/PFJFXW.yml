@@ -1,0 +1,58 @@
+title: 'Accessibility Overlays: A Cautionary Tale'
+start: 2021-09-10 17:00:00+10:00
+end: 2021-09-10 17:30:00+10:00
+room: 4
+track: devoops
+type: X
+abstract: "<p>'Add this one line of code to your website to avoid being sued!'</p>\n\
+  <p>If you think that that statement sounds like a particularly obnoxious ad, or\
+  \ that it must be too good to be true, you're not alone.  However, over the past\
+  \ several years, a number of companies popped up with products which claimed to\
+  \ do just that.  Their solutions were marketed as a quick and easy way to satisfy\
+  \ legislative requirements, and best of all, ensure that your website would be accessible\
+  \ to anyone, anywhere.</p>\n<p>And then the lawsuits started.</p>\n<p>Welcome to\
+  \ the world of accessibility overlays. According to their creators, they're plug-and-play\
+  \ software which remediates accessibility issues on your website, bringing you into\
+  \ compliance with the Web Content Accessibility Guidelines and disability access\
+  \ laws instantly.  However, if you ask the disabled people who should be reaping\
+  \ the benefits, the answer seems paradoxical: accessibility overlays actually make\
+  \ websites <em>less</em> usable for them.</p>\n<p>Why is that?  And how did we get\
+  \ to a point where the most prominently advertised solutions for software accessibility\
+  \ make the problem worse?  Let's examine this cautionary tale, and find out what\
+  \ it can teach us about both accessibility and the principles of good design.</p>"
+description: "<p>In 2010, Donna Jodhan won her case against the Canadian government\
+  \ for failing to make their government jobs website accessible to blind people.\
+  \  Five years later, Coles settled a lawsuit brought by Gisele Mesnage, a screen\
+  \ reader user who was unable to use their online shopping website to order her groceries.\
+  \  And two years ago, the US Supreme Court declined to hear an appeal by Domino's\
+  \ Pizza against a suit by Guillermo Robles arguing that the Domino's website is\
+  \ a place of public accommodation under the Americans with Disabilities Act, sending\
+  \ the case back to the lower courts to be decided.  If Robles wins, it could ultimately\
+  \ result in companies who do business in the US being required to make their websites\
+  \ accessible.</p>\n<p>Against this backdrop, companies who'd never considered the\
+  \ implications of Web accessibility started looking for solutions.  A cottage industry\
+  \ of accessibility overlay companies were ready to provide them.</p>\n<p>I first\
+  \ encountered accessibility overlays when setting up a new machine, before I'd installed\
+  \ my standard ad- and script-blocking software.  As soon as I noticed the wheelchair\
+  \ access symbols on websites, and heard the robotic voices telling me which keys\
+  \ to press to activate screen reader mode, I realised that I'd read about these\
+  \ pieces of software before.  After a couple of hours of research, including reading\
+  \ a comprehensive overview of all the lawsuits that has already been filed against\
+  \ websites using accessibility overlays, I was finally able to make them go away\
+  \ on my new machine once and for all.</p>\n<p>But it's not just the threat of lawsuits\
+  \ that resulted in accessibility overlay companies raising large amounts of venture\
+  \ capital funding despite the fact that their products do the exact opposite of\
+  \ what they claim to.  The way that we architect software and our lack of understanding\
+  \ about how disabled people use technology in the first place have contributed to\
+  \ a situation where quick fixes sometimes seem like the only option.</p>\n<p>In\
+  \ this talk, I'll review the ways that people with disabilities have campaigned\
+  \ for equal access to life online, and the gains made through the courts in Australia\
+  \ and elsewhere.  I'll discuss the reasons why companies use accessibility overlays,\
+  \ and the problems that they do and don't fix.  Then, I'll break down the ways in\
+  \ which we architect systems, and look at where accessibility should fit into the\
+  \ process to make the use of overlays unnecessary.</p>"
+code: PFJFXW
+speakers:
+- VZ79QQ
+cw:
+youtube_slug:

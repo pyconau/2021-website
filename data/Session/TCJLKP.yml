@@ -1,0 +1,36 @@
+title: Classifying Audio into Types using Python
+start: 2021-09-10 11:00:00+10:00
+end: 2021-09-10 11:30:00+10:00
+room: 3
+track: science
+type: X
+abstract: <p>What is audio data? How to build features and classification models on
+  audio? How to solve audio classification problems in python? This talk will answer
+  all those questions and highlight the challenges in classifying using audio, the
+  features that work well with audio and speech data and extracting them, the open-source
+  tools in Python that can be leveraged and some usage examples and applications.</p>
+description: <p>Unlike types of data that are more commonly dealt with in the industry
+  these days, such as numerical data, text or image data, audio signals need a different
+  approach while trying to extract information and building machine learning models.
+  This talk will highlight the challenges with Audio Classification problems starting
+  with what an audio signal is and what its numerical representation means, how it
+  is widely different from other data types, what feature extraction from audio looks
+  like, how to go about it, what it means and the open source tools in Python that
+  can be leveraged for solving an end-to-end audio classification problem. Digital
+  signal processing, that includes audio processing, is a whole separate field to
+  study and leveraging portions of learning from that in order to build successful
+  models on audio data is an interesting and challenging problem. In addition, Matlab
+  is a popular language of choice with great tools for audio signal processing. Python
+  being a popular language of choice for Machine Learning presents another set of
+  challenges to build successful audio and speech classification solutions in Python
+  alone. Focus will then upon how to build classification models from the features
+  representing the unseen information from audio and speech signals and doing it all
+  leveraging different open source tools available to Python users. This will be followed
+  by a few examples of different audio classification and prediction tasks and a solution
+  for attempting to solve them using Python using the different features formation
+  techniques and tools discussed earlier in the talk.</p>
+code: TCJLKP
+speakers:
+- YEPTF3
+cw:
+youtube_slug:

@@ -1,0 +1,30 @@
+title: Doing stupid things with ASTs
+start: 2021-09-11 12:00:00+10:00
+end: 2021-09-11 12:30:00+10:00
+room: 1
+track:
+type: X
+abstract: <p>Abstract Syntax Trees are a tool for analysing and manipulating the structure
+  and function of code. They can be used to do about a million different useful and
+  smart things. This talk is not about those things.</p>
+description: "<p>Did you ever get an idea that is so stupid you couldn't think about\
+  \ anything else until you'd made it real? In this talk I'll show you how I implemented\
+  \ what I think is probably the worst idea I've ever had: Using genetic programming\
+  \ to write code.</p>\n<p>Abstract Syntax Trees allow you to parse code into a tree-like\
+  \ structure, with each node in the tree representing an operation or a variable.\
+  \ They're used for little things like syntax highlighting in your IDE, as well as\
+  \ fundamental things like compiling your code at runtime. Recent releases of Python\
+  \ have included substantial improvements to the core AST library.</p>\n<p>Genetic\
+  \ programming is a slightly unfashionable technique from data science which \"evolves\"\
+  \ solutions to problems by randomly combining and mutating programs until a \"fit\"\
+  \ solution is found. Typically the programs involve a very tightly-controlled set\
+  \ of mathematical operators in a tree-like structure.</p>\n<p>You can see where\
+  \ this is going. Can you use genetic programming techniques to combine and mutate\
+  \ abstract syntax trees? Can you evolve programs that produce working code? Can\
+  \ you actually solve a real-life problem using this approach? The answer to all\
+  \ these questions is \"No, don't be stupid.\" But I gave it a crack anyway.</p>"
+code: MFUNXT
+speakers:
+- 8RYQKL
+cw:
+youtube_slug:

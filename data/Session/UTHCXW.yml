@@ -1,0 +1,42 @@
+title: Graph Data Science
+start: 2021-09-10 13:30:00+10:00
+end: 2021-09-10 14:00:00+10:00
+room: 3
+track: science
+type: X
+abstract: "<p>Graphs are amazing: there's the emerging graph ML work in deep learning,\
+  \ the rise of knowledge graphs in industry, powerful graph algorithms, ginormous\
+  \ graph databases, interactive graph visualizations, and so on. While these might\
+  \ seem to require special platforms and specialized expertise, in fact there's so\
+  \ much that can be done with graph-based technologies in Python. A team of open\
+  \ source developers has been working on <a href=\"https://github.com/DerwenAI/kglab\"\
+  ><code>kglab</code></a> to integrate many different libraries related to graph work\
+  \ into an abstraction that plays well with popular data science tools in Python:\
+  \ pandas, NumPy, scikit-learn, Parquet, spaCy, PyTorch, RAPIDS, etc. This session\
+  \ will introduce <em>Graph Data Science</em>, showing how you can leverage these\
+  \ techniques into your data analytics work.</p>"
+description: "<p>Graphs are amazing: there's the emerging graph ML work in deep learning,\
+  \ the rise of knowledge graphs in industry, semantic technologies, powerful graph\
+  \ algorithms, ginormous graph databases, statistical relational learning with probabilistic\
+  \ graphs, interactive graph visualizations, and so on.  While these different \"\
+  camps\" among graph experts have typically not shared much common ground, and often\
+  \ required special platforms, that's changed.</p>\n<p>A team of open source developers\
+  \ has been working on <a href=\"https://github.com/DerwenAI/kglab\"><code>kglab</code></a>\
+  \ to integrate many different libraries related to graph work into an abstraction\
+  \ that plays well with popular data science tools in Python: pandas, NumPy, scikit-learn,\
+  \ Parquet, spaCy, PyTorch, RAPIDS, etc. Moreover, the graph abstraction layer is\
+  \ engineered to follow data engineering practices and integrate with popular distributed\
+  \ systems for scale-out.</p>\n<p>This session will introduce <em>Graph Data Science</em>,\
+  \ showing how you can leverage these techniques into your data analytics work. We'll\
+  \ show a demo using an open dataset from Kaggle which has a large number of recipes,\
+  \ for a progressive example of graph data science: data preparation, queries, visualizations,\
+  \ inference, etc., as components of a self-supervised pipeline in Python. The intent\
+  \ is to provide integrations for many complementary techniques where one can \"\
+  mix &amp; match\" to build Hybrid AI solutions.  Not much code, with all code samples\
+  \ wrapped as Jupyter notebooks that will run on a laptop. Most of it should feel\
+  \ quite familiar to anyone who works with <code>pandas.</code></p>"
+code: UTHCXW
+speakers:
+- Y9ASNX
+cw:
+youtube_slug:

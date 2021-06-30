@@ -1,0 +1,23 @@
+title: Knock, knock! Who's there?
+start: 2021-09-10 17:00:00+10:00
+end: 2021-09-10 17:30:00+10:00
+room: 6
+track: security
+type: X
+abstract: "<p>It's at the core of most IT systems that surround us. Without it, nobody\
+  \ would know each other on the Internet. And whatever we'd do would not be secure.</p>\n\
+  <p>I'm talking about Identification and Authentication. But which options are out\
+  \ there to identify and authenticate someone?</p>"
+description: <p>Most IT services, such as websites, require us to create some form
+  of account. With that, we can later identify ourselves again, and that allows the
+  operator to authenticate our identity. But identification and authentication is
+  not just between humans and machines, but also between humans and humans, and between
+  machines and machines. But what are the different options out there? Surely, there
+  is more than username and password or email and password, right? But what else?
+  And how do those approaches work? What are their pros and cons? Let's explore them
+  and see how they could be implemented in Python.</p>
+code: QB9EHQ
+speakers:
+- RQANK3
+cw:
+youtube_slug:

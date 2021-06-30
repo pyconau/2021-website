@@ -1,0 +1,35 @@
+title: It doesn't work!
+start: 2021-09-10 11:00:00+10:00
+end: 2021-09-10 11:30:00+10:00
+room: 5
+track: education
+type: X
+abstract: <p>When beginners encounter tracebacks, they are often intimidated and do
+  not know what to do with the information, which may tempt them to give up. In this
+  talk, I will demonstrate a tool that can help them (and you) get all the information
+  necessary to find the exact cause of an exception as well as some possible hints
+  leading you to a solution.</p>
+description: "<p>Python tracebacks contain extremely useful information to debug programs\
+  \ but do not present this information in a way that is easily understandable by\
+  \ beginners. [1]</p>\n<p>What if there was a way to automatically extract more information\
+  \ about the cause of a traceback, and transform it so that it can be shown in a\
+  \ more user-friendly way to beginners? Furthermore, what if it could show additional\
+  \ information that could also be of use to more advanced programmers?</p>\n<p>In\
+  \ this talk, I will use such a tool to demonstrate through various examples how\
+  \ one can improve upon the traditional Python tracebacks, both for runtime and syntax\
+  \ errors. These examples will be shown in various programming environments, each\
+  \ having its own peculiarities: from interpreters run in a terminal or in a web\
+  \ browser (for example: Jupyter notebooks) to program run within editors such as\
+  \ IDLE and Mu.  Additionally, I will demonstrate how the information provided can\
+  \ be made available in languages other than English.</p>\n<p>And, given the intended\
+  \ audience, I will definitely include at least one example dealing with a flipfloperator.\
+  \ :-)</p>\n<p>[1] More informative tracebacks can help advanced users as well: a\
+  \ recent case study revealed that developers at Google found some error messages\
+  \ to be “confusingly worded,” they spent a median of 12 minutes resolving each one,\
+  \ and such errors are common – affecting nearly 30% of all builds [Hyunmin Seo et\
+  \ al, Programmers’ Build Errors: A Case Study (at Google)]</p>"
+code: EKJR9K
+speakers:
+- UQLBHR
+cw:
+youtube_slug:

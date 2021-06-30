@@ -1,0 +1,45 @@
+title: Hey, Python-Web-Community! What's going on?
+start: 2021-09-11 15:30:00+10:00
+end: 2021-09-11 16:00:00+10:00
+room: 1
+track:
+type: X
+abstract: "<p>Django, Flask or FastAPI, ASGI-WSGI, asynchronous-synchronous, protocol\
+  \ or web server, workers or threads, gunicorn-uvicorn - <strong>What</strong> is\
+  \ going on!? What exactly are these? How do they come along together? Do I even\
+  \ need to know about them?</p>\n<p>Developing back-ends for dynamic websites can\
+  \ be done in a lot of different ways, and fortunately, python has a great set of\
+  \ libraries and packages to help us with the implementation. The problem arises\
+  \ when we dive deep and are overwhelmed with the stuff we have at our disposal.</p>\n\
+  <p>During this talk, we'll try to find answers to the above questions. We'll take\
+  \ a look at the high-level and core features of different parts and understand how\
+  \ they are kept compatible with each other to bring out a fantastic web ecosystem.</p>"
+description: "<h3>Who's this talk for?</h3>\n<ul>\n<li>Anyone who wants to start their\
+  \ web-development journey in Python (or who has started with Flask or Django, and\
+  \ want to explore more).</li>\n<li>People who're wondering what's this <em>\"WSGI\"\
+  </em> thing coming up, time and again at different places.</li>\n<li>People who\
+  \ want to understand the role of <em>gunicorn</em> or <em>uWSGI</em>, which they\
+  \ read about in the deployment docs.</li>\n<li>Anyone who wants a smooth transition\
+  \ into asynchronous python web ecosystem.</li>\n<li>Anyone who's overwhelmed with\
+  \ terminologies like the ones stated in the first line of Description.</li>\n<li>Anyone\
+  \ who isn't really sure how the data flows through the different layers of libraries\
+  \ and reach the URL-dispatcher in their favourite framework.</li>\n</ul>\n<h3>Talk\
+  \ Objective</h3>\n<p>The motive is to make the web-developers aware of the different\
+  \ parts of the python web ecosystem so that when they face them either while resolving\
+  \ a bug and reading logs or when they are going for tweaks to improve performance\
+  \ - they'd know in which part they'll have to look out for.</p>\n<h3>Timeline (Outline)</h3>\n\
+  <ul>\n<li>Intro (5 minutes)<ul>\n<li>Speaker Intro</li>\n<li>Static and Dynamic\
+  \ Websites</li>\n<li>HTTP (Request-Response Cycle; Client &amp; Server)</li>\n</ul>\n\
+  </li>\n<li>The ideal web web server (5 minutes)<ul>\n<li>Identification of different\
+  \ parts</li>\n<li>Understanding their significance</li>\n</ul>\n</li>\n<li>Python's\
+  \ web ecosystem (7 minutes)<ul>\n<li>How the different parts map to Python's web\
+  \ ecosystem</li>\n<li>Web Server Gateway Interface (WSGI)</li>\n<li>Code Examples</li>\n\
+  </ul>\n</li>\n<li>Asynchronous World (7 minutes)<ul>\n<li>Event Loop(s) and Concurrency</li>\n\
+  <li>Asynchronous Python Web</li>\n<li>Asynchronous Server Gateway Interface (ASGI)</li>\n\
+  <li>HTTP/2 &amp; Websockets</li>\n</ul>\n</li>\n<li>Takeaways &amp; Conclusion (2\
+  \ minutes)</li>\n<li>Q &amp; A (4 minutes)</li>\n</ul>"
+code: BWN9BP
+speakers:
+- G3HPUE
+cw:
+youtube_slug:

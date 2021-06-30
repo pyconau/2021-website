@@ -1,0 +1,37 @@
+title: No, Maybe and Close Enough! Probabilistic Data Structures with Python and Redis
+start: 2021-09-11 16:45:00+10:00
+end: 2021-09-11 17:15:00+10:00
+room: 2
+track:
+type: X
+abstract: "<p>Being right all the time isn't necessarily the best idea. This talk\
+  \ examines how to count distinct items from a firehose of data, how to determine\
+  \ if we've seen a given item before, and why absolute accuracy may be impractical\
+  \ when doing so.</p>\n<p>Probabilistic data structures trade accuracy for approximate\
+  \ results, speed and economy of resources. They provide fast, scalable solutions\
+  \ to problems such as counting likes on social media posts, or determining which\
+  \ articles on a website a user has previously read.</p>\n<p>I'll introduce the Hyperloglog\
+  \ and Bloom Filter, explain how they work at a high level, and demonstrate different\
+  \ ways in which each can be leveraged in Python.</p>"
+description: "<p>This talk is aimed at Python developers at any experience level who\
+  \ face challenges associated with processing large data sets. It is also for anyone\
+  \ wanting to learn about what problems probabilistic data structures solve, when\
+  \ to use them and different ways in which they can be added to a Python application.\
+  \ Audience members should be familiar with Python syntax and the Pip package installer.\
+  \ This talk will cover basic mathematical set theory, but prior knowledge of this\
+  \ is not required. After watching this talk, the audience should expect to know\
+  \ what Hyperloglogs and Bloom Filters are, when to use them, what trade offs are\
+  \ involved, and where implementations of each are available.</p>\n<p>0-10 minutes:</p>\n\
+  <ul>\n<li>Counting things, and remembering if we've seen them before... how hard\
+  \ can it be?</li>\n<li>Using Sets for absolute accuracy.</li>\n<li>Issues with using\
+  \ Sets...</li>\n<li>Let's use a database instead?</li>\n</ul>\n<p>10-15 minutes:</p>\n\
+  <ul>\n<li>The case for approximation. Do we really need absolute accuracy?</li>\n\
+  <li>Introducing Probabilistic Data Structures and hashing.</li>\n</ul>\n<p>15-25\
+  \ minutes:</p>\n<ul>\n<li>Adding Hyperloglog and Bloom Filters to a Python application\
+  \ with pyprobables.</li>\n<li>Using Redis as a probabilistic data structures server\
+  \ with a Python application.</li>\n</ul>"
+code: XSPVVN
+speakers:
+- GGYYVN
+cw:
+youtube_slug:

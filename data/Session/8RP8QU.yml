@@ -1,0 +1,25 @@
+title: Python Type hints and how they can supercharge CS education.
+start: 2021-09-10 10:15:00+10:00
+end: 2021-09-10 10:45:00+10:00
+room: 5
+track: education
+type: X
+abstract: '<p>This talk will walk through Python type hints: what they are, why they
+  should be taught. Specifically we  will example how it helps us write better code,
+  and how it can teach a better generation of programmatic thinkers, and design better
+  programs.</p>'
+description: "<p>Python's support for type hints has been increasingly growing over\
+  \ the past several years. </p>\n<p>This talk will go over what type hints are, an\
+  \ intro to type theory (and why it can be important to teach) and <strong>specifically</strong>\
+  \ around how type-hints can be used to enable students to understanding better software\
+  \ engineering and critical thinking principles. </p>\n<p>This talk is based of my\
+  \ experience in learning about type systems for the first time in a software engineering\
+  \ course at UNSW. From then talking to a few highschool students about how to design\
+  \ certain aspects of their HSC Major Works - I realised that use of type-hints would\
+  \ significantly improve their ability to design and reason about manufacturing programming\
+  \ projects.</p>"
+code: 8RP8QU
+speakers:
+- DYGRFV
+cw:
+youtube_slug:

@@ -1,0 +1,30 @@
+title: 'Vampires in the Browser: banishing uninvited Javascript from your web app'
+start: 2021-09-10 13:30:00+10:00
+end: 2021-09-10 14:00:00+10:00
+room: 6
+track: security
+type: X
+abstract: "<p>Legend has it that a vampire cannot enter a home unless they are invited\
+  \ to do so.</p>\n<p>Much like vampires, Javascript cannot generally enter your web\
+  \ application unless it is invited in. However, there are many sneaky ways that\
+  \ you may find yourself with ~a vampire~ some Javascript inside your app without\
+  \ realising you've technically allowed it to be there.</p>\n<p>This session will\
+  \ teach you some common ~incantations~ configurations you can deploy to prevent\
+  \ this from happening.</p>"
+description: "<p>Legend has it that a vampire cannot enter a home unless they are\
+  \ invited to do so.</p>\n<p>Much like vampires, Javascript cannot generally enter\
+  \ your web application unless it is invited in. Also like vampires, there are many\
+  \ sneaky ways that you may find yourself with ~a vampire~ someone else's Javascript\
+  \ inside your app without realising you've technically allowed it to be there. What\
+  \ happens next may be a bloodsucking nightmare or an eternal, sparkly romance, but\
+  \ whatever the outcome it's always better to know how to protect your spaces against\
+  \ intruders.</p>\n<p>This session is here to help you solve this problem. Join us\
+  \ for a look at the ways that even the best-intentioned developer may leave loopholes\
+  \ for unwanted, third-party Javascript to creep into their apps, what that code\
+  \ can do when it gets there, and the ~incantations~ configurations you can deploy\
+  \ to prevent this from happening.</p>"
+code: D3WLNR
+speakers:
+- EFKHVF
+cw:
+youtube_slug:

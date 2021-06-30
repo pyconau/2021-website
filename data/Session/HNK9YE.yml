@@ -1,0 +1,36 @@
+title: When a little web app needs to grow up... the journey from a hobby project
+  to production
+start: 2021-09-10 15:00:00+10:00
+end: 2021-09-10 15:30:00+10:00
+room: 4
+track: devoops
+type: X
+abstract: "<p>A year ago a small web application was built with Flask over a weekend\
+  \ allowing customers to order free a free t-shirt for an event being hosted. It\
+  \ was designed for this single purpose and had never been considered to be needed\
+  \ or expanded beyond that.</p>\n<p>Within the next six months, the app was adapted\
+  \ to allow breakfasts, hoodies, socks, pens and rubik's cubes ordered for different\
+  \ events.</p>\n<p>With these new adaptions came added complexities.</p>"
+description: "<p>Originally orders were sent from the app to the supplier via email\
+  \ as soon as customers placed them, whereas as new suppliers were onboarded, a list\
+  \ of all orders were shared at the end of each event. In addition, new and more\
+  \ flexible fields for both customer, shipping and item descriptions were needed\
+  \ to support a wider range of event merchandise. A database was needed!</p>\n<p>Marketing\
+  \ for each product needed to be added so that custom titles, event descriptions,\
+  \ merchandise and branding could be applied to different pages. Image storage and\
+  \ a form builder was investigated to enable others to create events. </p>\n<p>An\
+  \ email notification system was developed to send order updates to customers. Security\
+  \ and data privacy had to be considered for sensitive order data. </p>\n<p>The concept\
+  \ of mini-apps for events was formed so that a subdomain could be generated for\
+  \ each event page. </p>\n<p>An investigation into moving to serverless or containers\
+  \ was examined to assist handle increased traffic. To help reduce deployment time,\
+  \ continuous delivery patterns were implemented and infrastructure creation was\
+  \ automated.</p>\n<p>This is the journey on how my small app needed to grow, the\
+  \ decisions that were made along the way, and the fine balance between having the\
+  \ app ready to handle current needs whilst continuing to update architecture and\
+  \ functionality to suit unexpected growth and business requirements.</p>"
+code: HNK9YE
+speakers:
+- 9J8UMJ
+cw:
+youtube_slug:

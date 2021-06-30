@@ -1,0 +1,31 @@
+title: 4 Things that might go wrong in your data-intensive application
+start: 2021-09-10 14:15:00+10:00
+end: 2021-09-10 14:45:00+10:00
+room: 4
+track: devoops
+type: X
+abstract: <p>This talk is going to brief things that can go wrong while running a
+  large-scaled data-intensive application for a decade. I will like to share my mistakes
+  and aftermath in production. Also, I'll talk about how I remedied what I've done
+  and what I learned afterward. This talk will help audiences avoid making the same
+  mistakes so they don’t suffer as I did. Audiences may be inspired by this talk and
+  help them to build a successful service that stands the test of time.</p>
+description: "<p>This talk is going to brief things that can go wrong while running\
+  \ a large-scaled data-intensive application for a decade.</p>\n<p>We always want\
+  \ to do things right at the very first. Have a magical architecture design, 100%\
+  \ test coverage, things like that. However, after running a service for ten years,\
+  \ I realize that those things are just the tip of the iceberg. So many Unimaginable\
+  \ things can happen in production. </p>\n<p>In this talk, I will like to share my\
+  \ mistakes and aftermath in production. Also, I'll talk about how I remedied what\
+  \ I've done and what I learned afterward. Due to time limitations, I'll share the\
+  \ most \"oops\" ones. This talk will help audiences avoid making the same mistakes\
+  \ so they don’t suffer as I did. Audiences may be inspired by this talk and help\
+  \ them to build a successful service that stands the test of time.</p>\n<p>Targeted\
+  \ audiences: who like stories about running a large-scale service in the real world.</p>\n\
+  <p>Audiences are expected to have basic knowledge and experience about backend and\
+  \ DevOps.</p>"
+code: 8HLVVS
+speakers:
+- EFWXRU
+cw:
+youtube_slug:

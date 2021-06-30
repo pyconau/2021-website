@@ -1,0 +1,19 @@
+title: 'The Butterfly Effect: How a single bit changed my career'
+start: 2021-09-10 09:30:00+10:00
+end: 2021-09-10 10:00:00+10:00
+room: 4
+track: devoops
+type: X
+abstract: <p>I relate the story of a single bit gone wrong back in 2006, which launched
+  my career on a new trajectory of root-cause analysis, continuous improvement, and
+  DevOps.</p>
+description: <p>In 2006 I had just started a new job when a bad release brought every
+  one of our hundreds of customers mail servers to its knees. In this talk, I'll walk
+  through a high-level "incident postmortem" of this event, the lessons I (and my
+  team) learned, and how this years-ago incident changed my career and paved my way
+  toward DevOps.</p>
+code: D38FLT
+speakers:
+- JAYALD
+cw:
+youtube_slug:

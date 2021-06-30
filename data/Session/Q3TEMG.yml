@@ -1,0 +1,22 @@
+title: Working with penetration testers as a developer
+start: 2021-09-10 14:15:00+10:00
+end: 2021-09-10 14:45:00+10:00
+room: 6
+track: security
+type: X
+abstract: <p>As a developer, sooner or later in your career you'll end up working
+  with penetration testers. This talk aims to help you maximise your value from the
+  engagement</p>
+description: "<p>This talk will take a critical look at best practices for engaging\
+  \ with penetration testers, and answer questions such as:\n* Can't I just test my\
+  \ own app?\n* When to (and when NOT to) engage with security consultants\n* What\
+  \ problems will pentesting solve, and what problems WONT it solve?\n* What to look\
+  \ for (and potential red flags) when evaluating pentesting companies\n* Threat modelling\
+  \ and where it fits\n* Working together to get the scope right\n* Working together\
+  \ pre-engagement\n* Communication during the engagement\n* What maximises value\
+  \ during an engagement? What can go wrong?\n* Re-testing and follow-up\n* Q&amp;A</p>"
+code: Q3TEMG
+speakers:
+- WWRGX8
+cw:
+youtube_slug:

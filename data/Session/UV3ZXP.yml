@@ -1,0 +1,20 @@
+title: Making Swiss Cheese of Ticket Sales
+start: 2021-09-10 10:15:00+10:00
+end: 2021-09-10 10:45:00+10:00
+room: 4
+track: devoops
+type: X
+abstract: <p>What do you do when two minutes into ticket sales, your website keels
+  over? When overwhelmed with errors, how can you begin to find the root cause? Or
+  worse, what happens when there is no single root cause?</p>
+description: '<p>Come and explore a recent #hugops case study, where customer demand
+  was high, service availability was low, and stressed sysadmins and devs were frantically
+  trying to get everything up and running again. Along this journey we’ll be visiting
+  MySQL, NodeJS, Docker, Kubernetes, and Linux, to try and piece together the causes
+  behind a real-world service outage earlier this year, and how to prevent it from
+  happening again.</p>'
+code: UV3ZXP
+speakers:
+- P9CXX8
+cw: <p>Brief discussion of Aviation Disasters</p>
+youtube_slug:

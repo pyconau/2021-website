@@ -58,8 +58,10 @@ def parse_markdown(text):
 rooms = {
     "Curlyboi Theatre": 1,
     "Platypus Hall": 2,
-    "Flip Floperator Pavillion": 3,
-    "The One Obvious Room": 4,
+    "Science, Data & Analytics": 3,
+    "DevOops": 4, 
+    "Education": 5,
+    "Snakeoil Academy (Security & Privacy)": 6
 }
 
 tracks = {
@@ -93,12 +95,11 @@ for session in paginate("https://pretalx.com/api/events/pycon-au-2021/talks/"):
     with open(f'data/Session/{session["code"]}.yml', "w") as f:
         start = dateutil.parser.isoparse(session["slot"]["start"])
         end = dateutil.parser.isoparse(session["slot"]["end"])
-        type_answer_id = ("X"
-            # TODO
-            #"P"
-            #if session["internal_notes"]
-            #and "*PREREC:ACCEPT" in session["internal_notes"]
-            #else "L"
+        type_answer_id = (
+            "P"
+            if session["internal_notes"]
+            and "*PREREC:ACCEPT" in session["internal_notes"]
+            else "L"
         )
         try:
             cw = next(

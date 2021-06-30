@@ -1,0 +1,19 @@
+title: Real python, made of blocks
+start: 2021-09-10 14:15:00+10:00
+end: 2021-09-10 14:45:00+10:00
+room: 5
+track: education
+type: X
+abstract: <p>Programming is hard, python is hard, but it could be so much easier.</p>
+description: <p>Imagine if your students could focus on the important parts of programming
+  in Python, the skill of solving a problem step by step. Imagine if they didn't have
+  to remember the syntax or what functions are there for them to use. Imagine that
+  the debugging was easier because they can see clearly what the program is doing
+  and what the problem is. This talk introduces SplootCode, an interface which lets
+  student write real Python code, with no limitations, without the painful and frustrating
+  parts of learning to code.</p>
+code: YW8HGJ
+speakers:
+- EAEYZM
+cw:
+youtube_slug:

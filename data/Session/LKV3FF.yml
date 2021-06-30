@@ -1,0 +1,17 @@
+title: How I caused a million dollar recall and lived to tell the tale
+start: 2021-09-10 13:30:00+10:00
+end: 2021-09-10 14:00:00+10:00
+room: 4
+track: devoops
+type: X
+abstract: <p>A series of small errors over two years combine to cause the recall of
+  a medical device. Hilarity ensues.</p>
+description: '<p>Imagine your name being on the commit that causes a medical device
+  to fail. Imagine that failure costs a about a million dollars to fix. This is the
+  story of that happening to me: how I got into that mess; what led me there, what
+  tripped me up, and how we dealt with it once it happened.</p>'
+code: LKV3FF
+speakers:
+- VKB7VT
+cw:
+youtube_slug:

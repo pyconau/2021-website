@@ -1,0 +1,27 @@
+title: 'From futons to functions: the principles of good API design'
+start: 2021-09-11 11:15:00+10:00
+end: 2021-09-11 11:45:00+10:00
+room: 1
+track:
+type: X
+abstract: <p>What do the designers of sofas and clock radios have to teach us about
+  API design? This talk explores the work of influential industrial designer Dieter
+  Rams, and what it can teach us about the tools we build for each other.</p>
+description: "<p>In the late 1970s, industrial designer Dieter Rams wrote his \"ten\
+  \ principles of good design\", a set of aphorisms outlining how he saw his work.\
+  \ Rams and his ten principles have been hugely influential on design to this day,\
+  \ and that influence extends far beyond Rams' realm of shelving systems, wristwatches\
+  \ and FM radios—Apple chief designer Jony Ive cites him as an influence, and articles\
+  \ applying the principles to web or UI design are a dime a dozen.</p>\n<p>But we\
+  \ as developers are designers too, whether we like it or not, and not just on those\
+  \ occasions where we build something that faces an \"end user\". Our fellow developers\
+  \ are also our users, and the APIs and the developer tools that we build are products\
+  \ that are designed, intentionally or otherwise.</p>\n<p>In this talk, we'll use\
+  \ Rams' ten principles to explore good design of APIs and developer tools, and the\
+  \ things we should keep in our minds to build APIs and developer tools that are\
+  \ designed for our peers to use.</p>"
+code: PGEFYC
+speakers:
+- VCVVRF
+cw:
+youtube_slug:

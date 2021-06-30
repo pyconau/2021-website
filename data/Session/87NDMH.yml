@@ -1,0 +1,28 @@
+title: Ten Tips For Teaching Technical Topics
+start: 2021-09-10 15:00:00+10:00
+end: 2021-09-10 15:30:00+10:00
+room: 5
+track: education
+type: X
+abstract: <p>This talk is a crash course in teaching and communicating technical topics
+  better, regardless of your own technical skill. It was originally part of a workshop
+  I delivered for new tutors in my University CS programs, with tips to help students
+  learn programming more effectively both in one-on-one and group environments. It
+  spans topics from psychology, to lesson design and to communication skills, and
+  in the small and the large will help you communicate topics better.</p>
+description: "<p>Teaching is hard, and it can be hard to find actionable advice to\
+  \ improve. It can also be very useful to have guidelines in your head on how to\
+  \ think about teaching. On the other hand, the ability to teach effectively helps\
+  \ not only in traditional educational institutions but in how we communicate with\
+  \ one another.</p>\n<p>This talk first covers a way of thinking about teaching in\
+  \ general that can help keep you focused while explaining a topic to someone else.\
+  \ It then covers both general and specific techniques to create an environment where\
+  \ teaching is possible. The rest of the talk covers specific places you can focus\
+  \ on improving your teaching, from small</p>\n<p>The talk is based on advice given\
+  \ to new programming tutors, but some advice can be used across many situations\
+  \ -- from explaining a concept to a friend, to giving lectures to hundreds of people.</p>"
+code: 87NDMH
+speakers:
+- HZVCUG
+cw:
+youtube_slug:

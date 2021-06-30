@@ -1,0 +1,29 @@
+title: Time Series Forecasting Techniques in Python
+start: 2021-09-10 14:15:00+10:00
+end: 2021-09-10 14:45:00+10:00
+room: 3
+track: science
+type: X
+abstract: <p>Time series is one of the important as well as lesser-known fields of
+  machine learning. In time series forecasting we analyze the time-dependent data
+  for predicting long-term and seasonality trends.</p>
+description: "<p>Time Series is a collection of data points at constant time intervals.\
+  \ Time series is one of the important as well as lesser-known fields of machine\
+  \ learning. Time series forecasting is very important as many prediction problems\
+  \ have a time component. In time series forecasting we analyze the time-dependent\
+  \ data for predicting long-term and seasonality trends. Making predictions about\
+  \ the future is known as extrapolation in classical statistics. In this talk, we\
+  \ will discuss the basic concepts of time series forecasting, various time-series\
+  \ forecasting techniques such as Autoregression, Moving Average, ARMA, ARIMA, SARIMA,\
+  \ SARIMAX, VARMA, HWES, and Dickey-Fuller test, and a case study that demonstrates\
+  \ the working of time series forecasting techniques on a real-world problem. We\
+  \ will discuss how to perform time series forecasting in Python using Pandas and\
+  \ statsmodels packages.</p>\n<p>Outline\n1. Introduction to Time Series forecasting\
+  \ techniques and basic steps in forecasting (04 Minutes)\n2. Time Series forecasting\
+  \ techniques (15 Minutes)\n3. Case study for Time series forecasting (8 Minutes)\n\
+  4. Summary and Questions (03 Minutes)</p>"
+code: QMZKMZ
+speakers:
+- CPJQQS
+cw:
+youtube_slug:

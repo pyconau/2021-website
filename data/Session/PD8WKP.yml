@@ -1,0 +1,36 @@
+title: On the Use and Misuse of Decorators
+start: 2021-09-11 10:30:00+10:00
+end: 2021-09-11 11:00:00+10:00
+room: 2
+track:
+type: X
+abstract: "<p>What is a decorator? You might say it's a function that accepts a function\
+  \ and returns a function. That's wrong.</p>\n<p>So what's the right answer?</p>\n\
+  <p>Join us for a deep (but standard talk-length) dive into decorators!  You’ll learn\
+  \ what decorators actually are, how they work, how to write your own decorators,\
+  \ and how decorators enable you to do extremely weird things in Python. Most importantly,\
+  \ you’ll understand how to use decorators responsibly, and definitely not to confuse\
+  \ your friends and colleagues.</p>"
+description: "<p>One of the most fraught questions in Python is “What is a decorator?”</p>\n\
+  <p>To a new Python developer, it’s a thing with an <code>@</code> symbol that changes\
+  \ the behaviour of a function or method. To people who want to understand how they\
+  \ work, decorators are functions that change the behaviours of functions by returning\
+  \ new functions.</p>\n<p>These definitions are simple, easy to understand, and wrong.</p>\n\
+  <p>Decorators like <code>@wraps</code> or <code>@classmethod</code> change the behaviour\
+  \ of a callable, and do so by returning a new callable. Other decorators, like <code>@property</code>\
+  \ accept a callable, but leave something completely different in their place. </p>\n\
+  <p>This flexibility isn’t just there for decorators that come with Python. You can\
+  \ use this flexibility in your own decorators, and it offers the potential for you\
+  \ to build interesting and unexpected new behaviour.</p>\n<p>In this talk, we’ll\
+  \ look at why Python has decorators, and how you can build them. </p>\n<p>We’ll\
+  \ look at how some more popular decorators in Python do what they do. Finally, we’ll\
+  \ look at how to harness decorators to do unexpected and potentially horrible things\
+  \ with Python.</p>\n<p>After this talk, you’ll know how decorators work, how to\
+  \ write your own decorators, and how decorators enable you to do extremely weird\
+  \ things in Python. Most importantly, you’ll understand how to use decorators responsibly,\
+  \ and definitely not to confuse your friends and colleagues.</p>"
+code: PD8WKP
+speakers:
+- QWCHX7
+cw:
+youtube_slug:

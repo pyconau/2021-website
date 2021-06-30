@@ -1,0 +1,27 @@
+title: Python Versions and Dependencies Made Easy
+start: 2021-09-11 17:30:00+10:00
+end: 2021-09-11 18:00:00+10:00
+room: 2
+track:
+type: X
+abstract: <p>Presentation on using pyenv, virtual environments, and pipx to build
+  an easy-to-manage Python development setup. Setup, where you can easily switch between
+  different Python versions, and you don't have to worry about messing up packages
+  in your projects.</p>
+description: "<p>Managing Python versions and dependencies can be painful. JavaScript\
+  \ developers have their \"node_modules\" folders, but we don't have \"python_modules\"\
+  \ (yet!) in Python. Instead, we have those mysterious virtual environments. And\
+  \ if you also want to switch between different Python versions, it can quickly turn\
+  \ into a mess.</p>\n<p>It doesn't have to be that way. With a few simple tools and\
+  \ practices, you can easily tame Python and its dependencies. In this talk, I'm\
+  \ going to show you how to do this.</p>\n<p>I will talk about:</p>\n<ul>\n<li>How\
+  \ to manage Python versions with pyenv and set different versions for a folder or\
+  \ a shell session?</li>\n<li>What are virtual environments, what's the difference\
+  \ between different tools (venv, virtualenvwrapper, conda, etc.), and how to use\
+  \ them?</li>\n<li>How to separate global packages with pipx (and why you should\
+  \ do this)</li>\n</ul>"
+code: YHTFLA
+speakers:
+- 8D7B98
+cw:
+youtube_slug:

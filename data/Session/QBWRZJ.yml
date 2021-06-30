@@ -1,0 +1,26 @@
+title: Planning for Failure using Chaos Engineering
+start: 2021-09-10 11:00:00+10:00
+end: 2021-09-10 11:30:00+10:00
+room: 4
+track: devoops
+type: X
+abstract: <p>Failure is just a fact of running software in production. But you can
+  prepare for it in a controlled environment using Chaos Engineering techniques. In
+  this talk, you will learn to make use of chaos engineering practices to plan and
+  assess your production readiness. This means that you are more ready for the failure
+  scenarios, when, not if, they happen.</p>
+description: "<p>When you introduce possible breakage scenarios in your infrastructure\
+  \ in a controlled fashion, it gives you an opportunity to assess your production\
+  \ readiness.</p>\n<p>What happens if your cloud provider's entire availability zone\
+  \ goes down?</p>\n<p>When did you last try restoring from your backup?</p>\n<p>Did\
+  \ the expected alerts fire? Were the alerts tuned right? Or would it wake your engineer\
+  \ up at 3.00 AM for no reason.</p>\n<p>Did you have dashboards setup for the most\
+  \ important metrics? Did you even have metrics for that thing you care about?</p>\n\
+  <p>By practicing chaos engineering in your software infrastructure, you are essentially\
+  \ planning for failure. You plan and assess your readiness for the failure scenarios\
+  \ so that you are equipped to better handle them, when, not if, they happen.</p>"
+code: QBWRZJ
+speakers:
+- WZBAGV
+cw:
+youtube_slug:

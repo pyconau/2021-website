@@ -1,0 +1,25 @@
+title: High performance machine learning with Jax
+start: 2021-09-10 10:15:00+10:00
+end: 2021-09-10 10:45:00+10:00
+room: 3
+track: science
+type: X
+abstract: <p>Jax provides an elegant interface to XLA with automatic differentiation
+  allowing extremely high performance machine learning on modern accelerators; all
+  from within Python. In this talk we'll give an overview to fundamentals of Jax and
+  an intro so some of the libraries being developed on top.</p>
+description: <p>Jax is the next generation machine learning library developed by Google
+  Research. It provides a pure Python interface to the domain-specific compiler XLA
+  (Accelerated Linear Algebra) that targets a range of accelerator hardware including
+  GPUs and TPUs (Google's machine learning developed ASIC). Additionally Jax is the
+  next generation of the autograd library which provides a rich set of optimisation
+  tooling for numerous modern machine learning approaches, with an emphasis on training
+  neural networks with gradient descent. This talk will outline the fundamentals of
+  Jax programming, demonstrate some of the TPU specific capability for large scale
+  distributed training as well as do a  short review of the higher level libraries
+  built on top of Jax.</p>
+code: SUFZ99
+speakers:
+- WPCQ3Q
+cw:
+youtube_slug:

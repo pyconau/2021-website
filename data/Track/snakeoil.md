@@ -1,5 +1,6 @@
 ---
 name: "Snakeoil Academy"
+altname: "Security & Privacy"
 slug: "snakeoil-academy"
 website: https://snakeoil.academy/
 emoji: "🔐"

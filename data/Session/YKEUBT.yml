@@ -1,0 +1,41 @@
+title: Composing algorithmic (notated) music with Python and Abjad
+start: 2021-09-11 14:00:00+10:00
+end: 2021-09-11 14:30:00+10:00
+room: 1
+track:
+type: X
+abstract: <p>When people think of programming and music, electronic music would probably
+  be the first thing that comes to mind. This talk aims to provide some insight into
+  a lesser-known field -- composing traditionally notated music in Python with Abjad,
+  an algorithmic composition software.</p>
+description: "<h2>The problem</h2>\n<p>Although classical music has been moving towards\
+  \ a more algorithmic approach since the beginning of the 20th century with the emergence\
+  \ of serialism and later with spectral music, composers are not utilising technology\
+  \ fully to their advantage. Most notation software offers just a handful of functions\
+  \ for composers to manipulate their music, but often they are not enough for any\
+  \ elaborate composition process. Although there is a couple of algorithmic composition\
+  \ software, the notations generated are often not configurable.</p>\n<h2>Bridging\
+  \ the gap</h2>\n<p>Abjad offers a way to bridge the gap between the algorithmic\
+  \ composition process and music notation. Since Abjad is a Python module, users\
+  \ can utilise functions inside Abjad, built-in Python functions, as well as other\
+  \ Python modules such as NumPy. Abjad exposes the users to a huge possibility to\
+  \ implement their own composition process in Python. Abjad is also a wrapper of\
+  \ the LilyPond music engraving software, which means that it outputs LilyPond code,\
+  \ and can call LilyPond to typeset the music.</p>\n<h2>Okay, but what can Abjad\
+  \ <em>actually</em> do?</h2>\n<p>To illustrate what Abjad can do, I am planning\
+  \ to demonstrate some basic examples of creating music with Abjad.  I am also planning\
+  \ to showcase some of the code behind my compositions.</p>\n<h2>Experience of the\
+  \ speaker</h2>\n<p>I am passionate about programming and maybe more so, music composition.\
+  \  Abjad enables me to indulge myself in both fields.</p>\n<p>I have been an active\
+  \ contributor of Abjad and the maintainer of one of its extension package for more\
+  \ than half a year.  I have also been using Abjad for my own compositions, having\
+  \ completed a solo piano piece and working on a solo flute piece.  Being a user\
+  \ as well as a developer gives me a unique insight into the software, not just in\
+  \ terms of the software architecture, but also in terms of how to make Abjad more\
+  \ composer-friendly.</p>\n<p>I am planning to implement more features on the extension\
+  \ package that I am maintaining while using it for my own composition.</p>"
+code: YKEUBT
+speakers:
+- X7TXQN
+cw:
+youtube_slug:
