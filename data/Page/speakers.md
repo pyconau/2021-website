@@ -18,7 +18,7 @@ For all speakers:
 Speaking **Live**?: 
 
 * [Technical requirents](/speakers/live-tech-reqs/) for presenting live.
-* [Session logistics](/speakers/live-logisitcs/) for how your session will be run. 
+* [Session logistics](/speakers/live-logistics/) for how your session will be run. 
 
 Pre-recording?
 
