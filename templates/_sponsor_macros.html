@@ -29,8 +29,9 @@
   {% endif %} {% if s.twitter and s.website %} | {% endif %} {% if s.twitter %}
   <a href="https://twitter.com/{{s.twitter}}"
     >Follow @{{s.twitter}} on Twitter</a
-  >
-  {% endif %} {% if s.twitter or s.website %}
+  >{% endif %}
+  {% if s.linkedin %} | <a href="{{s.linkedin}}">Follow {{s.title}} on LinkedIn</a>{%endif%}
+  {% if s.twitter or s.website %}
 </p>
 {% endif %} {%- endmacro %} {%- macro workshop(w) %}
 <h2>{{w.title}}, hosted by {% for s in w.sponsor%}{{s.title}}{%endfor%}</h2>
