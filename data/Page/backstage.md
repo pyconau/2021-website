@@ -15,7 +15,7 @@ There are four systems you'll have access to throughout the course of the event:
 
 You'll gain access to both Discord and Venueless through your ticket! The order confirmation screen has all the links you need to get in.
 
-* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around July 14 2021. Then, follow the prompts to redeem your ticket.
+* **If you haven't redeemed your ticket yet**, look for an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around July 11 2021. Then, follow the prompts to redeem your ticket.
 * **If you have redeemed your ticket already**, look for an email with the subject *[PyConline AU 2021] Your order*, sent around the time you redeemed it.
 
 As an outline, these are the key dates, times and locations that are important for presenting at the conference.
@@ -28,7 +28,7 @@ Discord is our ‘back of house’ space, where we have been organising things l
 ### How do I get in to Discord?
 
 
-* Redeem your speaker ticket voucher. You'll have an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around July 14, 2021. 
+* Redeem your speaker ticket voucher. You'll have an email with the subject *[PyConline AU 2021] Your speaker ticket for PyConline AU 2021*, sent around July 11, 2021. 
 * Once you have redeemed your ticket, in the Pretix page, click the link that says *Log me in to the backstage Discord server!*
 
 If you have already redeemed your speaker ticket voucher, instead search your email for an email with the subject *[PyConline AU 2021] Your order*.
