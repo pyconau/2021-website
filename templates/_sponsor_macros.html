@@ -23,14 +23,14 @@
 {# social engagement links #} {% if s.twitter or s.website %}
 <p>
   {% endif %} {% if s.website %}
-  <a href="{{s.website}}"
+  <a href="{{s.website}}" target="_blank"
     >Visit {{s.website | replace("https://", "") | replace("http://", "") }}</a
   >
   {% endif %} {% if s.twitter and s.website %} | {% endif %} {% if s.twitter %}
-  <a href="https://twitter.com/{{s.twitter}}"
+  <a href="https://twitter.com/{{s.twitter}}" target="_blank"
     >Follow @{{s.twitter}} on Twitter</a
   >{% endif %}
-  {% if s.linkedin %} | <a href="{{s.linkedin}}">Follow {{s.title}} on LinkedIn</a>{%endif%}
+  {% if s.linkedin %} | <a href="{{s.linkedin}}" target="_blank">Follow {{s.title}} on LinkedIn</a>{%endif%}
   {% if s.twitter or s.website %}
 </p>
 {% endif %} {%- endmacro %} {%- macro workshop(w) %}
