@@ -8,4 +8,4 @@ bio: "<p>Christopher Neugebauer is an Australian developer, speaker, and serial 
   \ California.</p>\n<p>By day, Christopher is an engineer at Toolchain, working on\
   \ the open source Pants build system, helping make Python’s testing, correctness,\
   \ and style tools accessible and fast for developers, no matter how big their codebase.</p>"
-has_pic: false
+has_pic: true

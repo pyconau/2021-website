@@ -1,9 +1,9 @@
 title: 4 Things that might go wrong in your data-intensive application
 start: 2021-09-10 14:15:00+10:00
 end: 2021-09-10 14:45:00+10:00
-room: 4
+room: 2
 track: devoops
-type: X
+type: P
 abstract: <p>This talk is going to brief things that can go wrong while running a
   large-scaled data-intensive application for a decade. I will like to share my mistakes
   and aftermath in production. Also, I'll talk about how I remedied what I've done

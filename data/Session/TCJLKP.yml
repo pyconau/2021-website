@@ -1,9 +1,9 @@
 title: Classifying Audio into Types using Python
 start: 2021-09-10 11:00:00+10:00
 end: 2021-09-10 11:30:00+10:00
-room: 3
+room: 1
 track: science
-type: X
+type: L
 abstract: <p>What is audio data? How to build features and classification models on
   audio? How to solve audio classification problems in python? This talk will answer
   all those questions and highlight the challenges in classifying using audio, the

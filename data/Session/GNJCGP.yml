@@ -1,0 +1,36 @@
+title: Setting up a machine translation service for Timor-Leste
+start: 2021-09-11 17:30:00+10:00
+end: 2021-09-11 18:00:00+10:00
+room: 1
+track:
+type: L
+abstract: <p>Timor-Leste's lingua franca, Tetun, was not on Google Translate or any
+  other free automated translation service. So we embarked on a project to provide
+  this service, starting from zero language resources to building a complete solution,
+  online and free, all in Python!</p>
+description: "<p>Tetun is the most widely spoken language in Timor-Leste (also known\
+  \ as East Timor). You'll hear it on the streets, on the radio, on TV, and even sung\
+  \ in rap songs. However, one of the main languages of business is English, which\
+  \ many Timorese are eager to learn. Yet there was no free automated translation\
+  \ service between Tetun and English. Therefore, both native Tetun speakers and foreigners\
+  \ learning Tetun were forced to rely on word-for-word translations using dictionaries\
+  \ to translate to and from English. To remedy this, we embarked on a project to\
+  \ create a Tetun-English machine translation service. It’s now used by over 10,000\
+  \ people.</p>\n<p>Tetun is a low-resource language meaning that there are no readily\
+  \ available corpora (annotated or otherwise), lexica, parallel text and other NLP\
+  \ resources that allow us to easily build models and other AI or NLP products for\
+  \ this language, including a machine translation system. However, advances in research\
+  \ into neural machine translation have allowed us to create a good quality machine\
+  \ translation service even with the modest-sized corpora that we had to develop\
+  \ ourselves.</p>\n<p>In this talk we cover how we used Python to create a parallel\
+  \ corpus for training, how we collected and cleaned this data, and trained a neural\
+  \ machine translation encoder-decoder model using Pytorch. Finally, we cover how\
+  \ we serve the machine translation system using a Django web API. We hope that by\
+  \ the end of the talk, you will have a good idea of where to start to create your\
+  \ own machine translation system.</p>"
+code: GNJCGP
+speakers:
+- WVXX8F
+- 8LQNXK
+cw:
+youtube_slug:

@@ -3,7 +3,7 @@ start: 2021-09-11 10:30:00+10:00
 end: 2021-09-11 11:00:00+10:00
 room: 2
 track:
-type: X
+type: P
 abstract: "<p>What is a decorator? You might say it's a function that accepts a function\
   \ and returns a function. That's wrong.</p>\n<p>So what's the right answer?</p>\n\
   <p>Join us for a deep (but standard talk-length) dive into decorators!  You’ll learn\

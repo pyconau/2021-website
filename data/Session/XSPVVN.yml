@@ -3,7 +3,7 @@ start: 2021-09-11 16:45:00+10:00
 end: 2021-09-11 17:15:00+10:00
 room: 2
 track:
-type: X
+type: P
 abstract: "<p>Being right all the time isn't necessarily the best idea. This talk\
   \ examines how to count distinct items from a firehose of data, how to determine\
   \ if we've seen a given item before, and why absolute accuracy may be impractical\

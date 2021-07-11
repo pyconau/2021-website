@@ -1,0 +1,31 @@
+title: Python VS Space Junk
+start: 2021-09-11 15:30:00+10:00
+end: 2021-09-11 16:00:00+10:00
+room: 2
+track:
+type: P
+abstract: <p>A look at some of the systems in place today—data sources, algorithms,
+  libraries, and pipelines—that manage the growing crisis of space debris and protect
+  our critical orbital infrastructure from the ground.</p>
+description: "<p>The accumulation of debris in Earth orbit puts critical satellite-based\
+  \ infrastructure at risk. Methods of precise tracking and accurate path prediction\
+  \ for objects in orbit are required to prevent debris-forming collisions, as well\
+  \ as to enable on-orbit satellite repair and debris removal technologies that are\
+  \ in early development. </p>\n<p>This tracking and prediction process for objects\
+  \ in Earth orbit is known as Space Traffic Management (STM). It's to satellites\
+  \ and space junk what Air Traffic Control is to aviation, but more. STM is made\
+  \ up of a series of tasks that are each challenging for humans or computers to perform\
+  \ for varied reasons: data collection requires high-fidelity analog capture,  data\
+  \ processing requires high-volume stream digitisation and transformation without\
+  \ precision or information loss, data interpretation requires recognition of ambiguous\
+  \ objects, and path extrapolation from current trajectories requires computation\
+  \ of complex and fluctuating physical forces with great precision.</p>\n<p>Let's\
+  \ talk about what's known about how STM systems work (or don't work) today, how\
+  \ you can try some of these steps yourself with Python, and how we can make global\
+  \ STM capabilities better with open source.</p>"
+code: DD7G83
+speakers:
+- TZNKK8
+cw: <p>This talk contains brief discussion of the military and testing of weapons,
+  both in a non-combat context (e.g., firing missiles at uncrewed spacecraft).</p>
+youtube_slug:

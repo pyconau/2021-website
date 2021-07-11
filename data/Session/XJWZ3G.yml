@@ -1,0 +1,23 @@
+title: Snakes all the way down, building Worlds with Python code
+start: 2021-09-11 14:45:00+10:00
+end: 2021-09-11 15:15:00+10:00
+room: 2
+track:
+type: P
+abstract: <p>This talk will introduce and demonstrate a selection of procedural content
+  generation tools built with Python. From planets, to plants, to pantheons of Gods,
+  there is Python code out there to help generate them for you. It doesn't matter
+  why you want to generate content, Python is here to help you get more done in less
+  time.</p>
+description: <p>I'll be covering ready made tools, libraries and open source repositories
+  for creating planets, spaceships, plants, cities, Gods and Goddesses, and even some
+  examples of more advanced techniques, such as the Wave Function Collapse Algorithm,
+  and using Generative Adversarial Networks as part of procedurally generating creative
+  content. Don't worry if the last two sound complicated! This isn't a deeply technical
+  talk; it's a fun tour of the sorts of creative content that you can make using just
+  your computer and some Python code!</p>
+code: XJWZ3G
+speakers:
+- RSUKRU
+cw:
+youtube_slug:

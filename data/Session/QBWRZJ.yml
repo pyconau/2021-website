@@ -1,9 +1,9 @@
 title: Planning for Failure using Chaos Engineering
 start: 2021-09-10 11:00:00+10:00
 end: 2021-09-10 11:30:00+10:00
-room: 4
+room: 2
 track: devoops
-type: X
+type: L
 abstract: <p>Failure is just a fact of running software in production. But you can
   prepare for it in a controlled environment using Chaos Engineering techniques. In
   this talk, you will learn to make use of chaos engineering practices to plan and

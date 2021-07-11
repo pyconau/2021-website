@@ -1,0 +1,9 @@
+name: Alan Green
+pronouns: he, him
+bio: "<p>Alan is a Staff Software Engineer on the Google ChromeOS Platform team. He\
+  \ works on both making existing ML acceleration hardware accessible to the ChromeOS\
+  \ and on projects that require new hardware ML accelerators. Alan also contributes\
+  \ to the CFU-Playground project, exploring software and hardware co-design to accelerate\
+  \ Tensorflow Lite for Microcontrollers models on smaller FPGA platforms.</p>\n<p>In\
+  \ his spare time, Alan likes to play with oscilloscopes and solder.</p>"
+has_pic: true

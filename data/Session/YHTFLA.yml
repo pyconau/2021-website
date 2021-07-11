@@ -3,7 +3,7 @@ start: 2021-09-11 17:30:00+10:00
 end: 2021-09-11 18:00:00+10:00
 room: 2
 track:
-type: X
+type: P
 abstract: <p>Presentation on using pyenv, virtual environments, and pipx to build
   an easy-to-manage Python development setup. Setup, where you can easily switch between
   different Python versions, and you don't have to worry about messing up packages

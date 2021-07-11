@@ -7,4 +7,4 @@ bio: "<p>Tom has been teaching programming professionally for 4 years at the Uni
   <p>Outside teaching, Tom is an avid Python programmer, having worked both professionally\
   \ as a Python software developer, and using it to make tools for teaching such as\
   \ a user-friendly debugging system and assignment marking software for UNSW Sydney.</p>"
-has_pic: false
+has_pic: true

@@ -1,9 +1,9 @@
 title: Python Type hints and how they can supercharge CS education.
 start: 2021-09-10 10:15:00+10:00
 end: 2021-09-10 10:45:00+10:00
-room: 5
+room: 3
 track: education
-type: X
+type: L
 abstract: '<p>This talk will walk through Python type hints: what they are, why they
   should be taught. Specifically we  will example how it helps us write better code,
   and how it can teach a better generation of programmatic thinkers, and design better

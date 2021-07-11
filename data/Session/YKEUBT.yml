@@ -3,7 +3,7 @@ start: 2021-09-11 14:00:00+10:00
 end: 2021-09-11 14:30:00+10:00
 room: 1
 track:
-type: X
+type: L
 abstract: <p>When people think of programming and music, electronic music would probably
   be the first thing that comes to mind. This talk aims to provide some insight into
   a lesser-known field -- composing traditionally notated music in Python with Abjad,

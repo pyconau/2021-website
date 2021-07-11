@@ -1,9 +1,9 @@
 title: Knock, knock! Who's there?
 start: 2021-09-10 17:00:00+10:00
 end: 2021-09-10 17:30:00+10:00
-room: 6
+room: 4
 track: security
-type: X
+type: P
 abstract: "<p>It's at the core of most IT systems that surround us. Without it, nobody\
   \ would know each other on the Internet. And whatever we'd do would not be secure.</p>\n\
   <p>I'm talking about Identification and Authentication. But which options are out\

@@ -2,9 +2,9 @@ title: When a little web app needs to grow up... the journey from a hobby projec
   to production
 start: 2021-09-10 15:00:00+10:00
 end: 2021-09-10 15:30:00+10:00
-room: 4
+room: 2
 track: devoops
-type: X
+type: L
 abstract: "<p>A year ago a small web application was built with Flask over a weekend\
   \ allowing customers to order free a free t-shirt for an event being hosted. It\
   \ was designed for this single purpose and had never been considered to be needed\

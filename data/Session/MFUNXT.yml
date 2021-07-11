@@ -3,7 +3,7 @@ start: 2021-09-11 12:00:00+10:00
 end: 2021-09-11 12:30:00+10:00
 room: 1
 track:
-type: X
+type: L
 abstract: <p>Abstract Syntax Trees are a tool for analysing and manipulating the structure
   and function of code. They can be used to do about a million different useful and
   smart things. This talk is not about those things.</p>

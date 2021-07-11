@@ -1,0 +1,38 @@
+title: A Beginners Guide to GPUs for Pythonistas
+start: 2021-09-10 15:00:00+10:00
+end: 2021-09-10 15:30:00+10:00
+room: 1
+track: science
+type: P
+abstract: <p>In this talk, I will be discussing Python and GPUs! I will give a brief
+  history of Python and parallel computing, take a look at Python’s ‘infamous’ GIL,
+  and share how and why Pythonistas can get started with using GPUs to do more work
+  faster.</p>
+description: "<p>Why GPUs?  </p>\n<p>I will begin with a brief background on the history\
+  \ of Python and parallel computing. Some people would call Python a ‘slow language.’\
+  \ One of the reasons for this is that it doesn’t readily support parallelism because\
+  \ of the GIL. I’ll take a quick look at Python’s ‘infamous’ GIL and how and why\
+  \ people have and are still trying to get around it. For this, I will be referencing\
+  \ some of my favorite PyCon talks on the subject!  </p>\n<p>For slow, CPU-intensive\
+  \ tasks there are several ways to speed up your Python code. Async IO and Numba\
+  \ JIT, are some tools that have become quite popular for improving GIL-related performance\
+  \ issues. More recently, and as it relates to this talk GPUs have been introduced\
+  \ as another way to optimize performance in this regard.   </p>\n<p>What exactly\
+  \ is a GPU?  </p>\n<p>Next, I’ll discuss what a GPU is and how it’s being used in\
+  \ the world today. Historically GPUs have been used primarily in gaming, but more\
+  \ and more people are using them for general-purpose computing. I’ll discuss the\
+  \ differences between CPUs and GPUs and share some examples of various ways Pythonistas\
+  \ are using GPUs to speed up their workflows. I’m currently interning with the RAPIDS\
+  \ team at Nvidia, so I’ll talk a little bit about the work I’m doing there. RAPIDS\
+  \ is an open-source library that accelerates data science using GPUs. I’ll demonstrate\
+  \ the differences in speed of computation with a GPU and without one. </p>\n<p>How\
+  \ can I get started?  </p>\n<p>-Finally, I will end my talk by giving some advice\
+  \ about how Pythonistas can start using GPUs either in their work or as a hobby\
+  \ in their spare time. Even if you don’t personally own a GPU there are several\
+  \ free and affordable resources one can access online. I’ll share some of these\
+  \ resources with the audience.</p>"
+code: 8EKEQS
+speakers:
+- 7NWTAL
+cw:
+youtube_slug:

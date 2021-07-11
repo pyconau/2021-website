@@ -1,0 +1,28 @@
+title: 'Collapsology: Why your biggest threat isn’t exposed RDP'
+start: 2021-09-10 09:30:00+10:00
+end: 2021-09-10 10:00:00+10:00
+room: 4
+track: security
+type: L
+abstract: <p>What can we learn from decades of research on collapsology, the study
+  of industrial civilizations collapsing? What do ancient civilizations have in common
+  with security culture? The answer is a lot more than you think, and it doesn't even
+  involve patching! So come along to discover what we can learn about identifying
+  risks and threats in our security culture. Because if you aren't hacking it, who
+  is?</p>
+description: "<p>For decades, anthropologists, quantitative historians, and sociologists\
+  \ have discussed and proposed various explanations for the collapse of civilizations,\
+  \ from unsustainable complexity, decay of social cohesion, rising inequality and\
+  \ general misfortune.</p>\n<p>Using our time traveling phone booth, we’ll investigate\
+  \ historical collapses and conduct a root cause analysis to investigate why these\
+  \ collapses happened, and how we can observe similar issues in modern business environments.</p>\n\
+  <p>This talk provides an overview of how to identify cultural threats in an rapidly\
+  \ evolving business landscape, and how we can use modern day tools to identify these\
+  \ threats before they result in security culture collapse.</p>\n<p><strong>Key points\
+  \ addressed</strong></p>\n<ul>\n<li>Who is impacting your culture</li>\n<li>Identifying\
+  \ cultural problems</li>\n<li>Building a modern diagnostic toolkit</li>\n</ul>"
+code: JEQDAS
+speakers:
+- QDFYUA
+cw:
+youtube_slug:

@@ -17,22 +17,22 @@
 <s-schedule-outer>
 <s-schedule style="--day-start: {{ first_min }}; --day-end: {{ last_min }}; --total-tracks: {% if day.0 == 'fri'%}4{%else%}2{%endif%};" data-start="{{ first.start.isoformat() }}" data-end="{{ last.end.isoformat() }}">
     {% if day.0 == 'fri' %}
-        <s-track style="--track: 3;">
+        <s-track style="--track: 1;">
             <a href="/program/science-data-and-analytics/">
                 Science, Data and Analytics
             </a>
         </s-track>
-        <s-track style="--track: 4;">
+        <s-track style="--track: 2;">
             <a href="/program/devoops/">
                 DevOops
             </a>
         </s-track>
-        <s-track style="--track: 5;">
+        <s-track style="--track: 3;">
             <a href="/program/education/">
                 Education
             </a>
         </s-track>
-        <s-track style="--track: 6;">
+        <s-track style="--track: 4;">
             <a href="/program/security-and-privacy/">
                 Security and Privacy
             </a>

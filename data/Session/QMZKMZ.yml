@@ -1,9 +1,9 @@
 title: Time Series Forecasting Techniques in Python
 start: 2021-09-10 14:15:00+10:00
 end: 2021-09-10 14:45:00+10:00
-room: 3
+room: 1
 track: science
-type: X
+type: P
 abstract: <p>Time series is one of the important as well as lesser-known fields of
   machine learning. In time series forecasting we analyze the time-dependent data
   for predicting long-term and seasonality trends.</p>

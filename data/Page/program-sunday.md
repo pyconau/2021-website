@@ -1,3 +1,5 @@
-# Social events
+# Sunday social events
 
-# TODO consolidate with /social?
+We are reserving Sunday for our [social](/social) events. 
+
+Want to run something? Let us know!

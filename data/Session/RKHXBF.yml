@@ -1,0 +1,30 @@
+title: 'Fair game: the ethics of telco fraud'
+start: 2021-09-10 09:30:00+10:00
+end: 2021-09-10 10:00:00+10:00
+room: 1
+track: science
+type: L
+abstract: <p>How do we connect high-level fairness principles with day-to-day product
+  decision making? How do we move past the AI Ethics hype and start trying, testing
+  and implementing practical approaches? In this talk the presenter will share stories,
+  discoveries, and pointers from their time as an ‘ethics ops’ consultant embedded
+  with a small fraud detection team in a big telco. From improving the science bit
+  of data science, to developing the collective sensitivity of the team, to designing
+  recourse for false positives, tune in for pragmatic pointers and actionable take-aways.</p>
+description: "<p>In a perfect world we want to build technology that's perfectly fair, responsible\
+  \ and ethical. In reality it's hard, for reasons as varied as the difficulty of\
+  \ recovering trust once it's lost, to pinning down what 'fair' is exactly, anyway,\
+  \ to working out how to design solutions at scale that simultaneously cater to individual\
+  \ preferences. </p>\n<p>Adding to these baseline challenges, we consider the implications\
+  \ of customers acting in bad faith - everything from minor infractions to fully-fledged\
+  \ fraud that costs thousands of dollars a day. What does this mean for interpreting\
+  \ our in-coming data? Hint: it adds both uncertainty and complexity. </p>\n<p>We'll\
+  \ discuss how to acknowledge these uncertainties without becoming paralysed, the\
+  \ challenges of designing alerts and notifications for high-stress situations, and\
+  \ the difference between an exploratory data science practice versus data science\
+  \ outputs that are 'load-bearing'.</p>"
+code: RKHXBF
+speakers:
+- 3QJLK8
+cw:
+youtube_slug:

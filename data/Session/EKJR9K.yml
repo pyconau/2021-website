@@ -1,9 +1,9 @@
 title: It doesn't work!
 start: 2021-09-10 11:00:00+10:00
 end: 2021-09-10 11:30:00+10:00
-room: 5
+room: 3
 track: education
-type: X
+type: P
 abstract: <p>When beginners encounter tracebacks, they are often intimidated and do
   not know what to do with the information, which may tempt them to give up. In this
   talk, I will demonstrate a tool that can help them (and you) get all the information

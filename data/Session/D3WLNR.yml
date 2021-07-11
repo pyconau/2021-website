@@ -1,9 +1,9 @@
 title: 'Vampires in the Browser: banishing uninvited Javascript from your web app'
 start: 2021-09-10 13:30:00+10:00
 end: 2021-09-10 14:00:00+10:00
-room: 6
+room: 4
 track: security
-type: X
+type: L
 abstract: "<p>Legend has it that a vampire cannot enter a home unless they are invited\
   \ to do so.</p>\n<p>Much like vampires, Javascript cannot generally enter your web\
   \ application unless it is invited in. However, there are many sneaky ways that\

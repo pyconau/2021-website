@@ -1,9 +1,9 @@
 title: 'Web Security for Newcomers: how to avoid getting hacked as a software developer'
 start: 2021-09-10 16:15:00+10:00
 end: 2021-09-10 16:45:00+10:00
-room: 6
+room: 4
 track: security
-type: X
+type: L
 abstract: <p>This talk is for software developers who want to understand web security
   fundamentals and prevent common attacks on web projects. We will discuss prepared
   source code examples with an insecure Python backend (and a little insecure JavaScript

@@ -1,9 +1,9 @@
 title: Graph Data Science
 start: 2021-09-10 13:30:00+10:00
 end: 2021-09-10 14:00:00+10:00
-room: 3
+room: 1
 track: science
-type: X
+type: L
 abstract: "<p>Graphs are amazing: there's the emerging graph ML work in deep learning,\
   \ the rise of knowledge graphs in industry, powerful graph algorithms, ginormous\
   \ graph databases, interactive graph visualizations, and so on. While these might\
