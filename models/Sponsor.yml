@@ -4,6 +4,7 @@ level: String
 logo: String
 website: String
 twitter: String
+linkedin: String
 order: Integer
 workshop: Workshop -> sponsor
 
