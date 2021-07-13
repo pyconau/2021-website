@@ -85,3 +85,23 @@ Try [this tip](https://apple.stackexchange.com/a/254381/191618):
   ```
   xcode-select --reset
   ```
+  
+### macOS issues with `clang` errors
+
+It's probably C being fun. 
+
+Try [this tip](https://stackoverflow.com/a/56228387): 
+
+  - (re-)install openssl: 
+  
+  ```
+  brew install openssl
+  ```
+  - set the flags
+  
+  ```
+  export LDFLAGS="-L/usr/local/opt/openssl/lib"
+  export CPPFLAGS="-I/usr/local/opt/openssl/include"
+  ```
+  
+  - run `poetry install` again
