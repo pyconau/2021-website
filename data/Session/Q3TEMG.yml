@@ -8,13 +8,15 @@ abstract: <p>As a developer, sooner or later in your career you'll end up workin
   with penetration testers. This talk aims to help you maximise your value from the
   engagement</p>
 description: "<p>This talk will take a critical look at best practices for engaging\
-  \ with penetration testers, and answer questions such as:\n* Can't I just test my\
-  \ own app?\n* When to (and when NOT to) engage with security consultants\n* What\
-  \ problems will pentesting solve, and what problems WONT it solve?\n* What to look\
-  \ for (and potential red flags) when evaluating pentesting companies\n* Threat modelling\
-  \ and where it fits\n* Working together to get the scope right\n* Working together\
-  \ pre-engagement\n* Communication during the engagement\n* What maximises value\
-  \ during an engagement? What can go wrong?\n* Re-testing and follow-up\n* Q&amp;A</p>"
+  \ with penetration testers, and answer questions such as:</p>\n<ul>\n<li>Can't I\
+  \ just test my own app?</li>\n<li>When to (and when NOT to) engage with security\
+  \ consultants</li>\n<li>What problems will pentesting solve, and what problems WONT\
+  \ it solve?</li>\n<li>What to look for (and potential red flags) when evaluating\
+  \ pentesting companies</li>\n<li>Threat modelling and where it fits</li>\n<li>Working\
+  \ together to get the scope right</li>\n<li>Working together pre-engagement</li>\n\
+  <li>Communication during the engagement</li>\n<li>What maximises value during an\
+  \ engagement? What can go wrong?</li>\n<li>Re-testing and follow-up</li>\n<li>Q&amp;A</li>\n\
+  </ul>"
 code: Q3TEMG
 speakers:
 - WWRGX8

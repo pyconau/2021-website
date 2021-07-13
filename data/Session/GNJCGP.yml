@@ -3,7 +3,7 @@ start: 2021-09-11 17:30:00+10:00
 end: 2021-09-11 18:00:00+10:00
 room: 1
 track:
-type: L
+type: P
 abstract: <p>Timor-Leste's lingua franca, Tetun, was not on Google Translate or any
   other free automated translation service. So we embarked on a project to provide
   this service, starting from zero language resources to building a complete solution,
