@@ -56,32 +56,41 @@ def parse_markdown(text):
 
 
 rooms = {
+    "Backup": 0,
     "Curlyboi Theatre": 1,
-    "Python 2 Memorial Concert Hall": 2,
-    "Flip Floperator Pavillion": 3,
-    "The One Obvious Room": 4,
-}
-
-session_types = {
-    720: "L",
-    721: "P",
-    722: "RL",
-    723: "RP",
+    "Platypus Hall": 2,
+    "Science, Data & Analytics": 1,
+    "DevOops": 2, 
+    "Education": 3,
+    "Snakeoil Academy (Security & Privacy)": 4
 }
 
 tracks = {
     "DevOops": "devoops",
     "Science, Data & Analytics": "science",
     "Education": "education",
-    "DjangoCon AU": "djangoconau",
-    "Security & Privacy": "security",
+    "Snakeoil Academy (Security & Privacy)": "security",
     "Main Conference": None,
+}
+
+answers = {
+    "Presentation Format": 853,
+    "Content Warning": 854, 
+    "Pronouns": 856
+}
+
+format_answer = {
+    1062: "L", # live
+    1063: "P", # prerecord
 }
 
 seen_speakers = set()
 
+# Uncomment when URL setup
+youtube_slugs = {}
+"""
 yt_resp = requests.get(
-    "https://veyepar.nextdayvideo.com/main/C/pyconau/S/pyconau_2020.json"
+    "https://veyepar.nextdayvideo.com/main/C/pyconau/S/pyconau_2021.json"
 )
 yt_resp.raise_for_status()
 youtube_slugs = {
@@ -89,25 +98,30 @@ youtube_slugs = {
     for x in yt_resp.json()
     if x["host_url"] is not None
 }
+""" 
 
 for entry in os.listdir("data/Session/"):
     os.unlink(f"data/Session/{entry}")
 
-for session in paginate("https://pretalx.com/api/events/pycon-au-2020/talks/"):
+for session in paginate("https://pretalx.com/api/events/pycon-au-2021/talks/"):
+
+    # Do not schedule backups
+    # TODO manually add backups if they are unscheduled after the event.
+    if rooms[session["slot"]["room"]["en"]] == 0: 
+        print("not scheduling backup")
+        continue
+
     speakers = [x["code"] for x in session["speakers"]]
     seen_speakers.update(speakers)
     with open(f'data/Session/{session["code"]}.yml', "w") as f:
         start = dateutil.parser.isoparse(session["slot"]["start"])
         end = dateutil.parser.isoparse(session["slot"]["end"])
-        type_answer_id = (
-            "P"
-            if session["internal_notes"]
-            and "*PREREC:ACCEPT" in session["internal_notes"]
-            else "L"
-        )
+        type_answer_id = format_answer[next(
+                x["options"][0]["id"] for x in session["answers"] if x["question"]["id"] == answers["Presentation Format"]
+            )]
         try:
             cw = next(
-                x["answer"] for x in session["answers"] if x["question"]["id"] == 547
+                x["answer"] for x in session["answers"] if x["question"]["id"] == answers["Content Warning"]
             )
         except (StopIteration, IndexError):
             cw = None
@@ -135,7 +149,11 @@ from io import BytesIO
 with open("assets/people/_etags.yml") as f:
     etags = yaml.load(f)
 
-for speaker in paginate("https://pretalx.com/api/events/pycon-au-2020/speakers/"):
+# etags none? ensure empty
+if not etags: 
+    etags = {}
+
+for speaker in paginate("https://pretalx.com/api/events/pycon-au-2021/speakers/"):
     if speaker["code"] not in seen_speakers:
         continue
     has_pic = False
@@ -167,7 +185,7 @@ for speaker in paginate("https://pretalx.com/api/events/pycon-au-2020/speakers/"
                     (
                         x["answer"]
                         for x in speaker["answers"]
-                        if x["question"]["id"] == 474
+                        if x["question"]["id"] == answers["Pronouns"]
                     ),
                     None,
                 ),

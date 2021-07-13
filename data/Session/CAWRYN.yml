@@ -1,0 +1,23 @@
+title: What was your Python up to at 3am?
+start: 2021-09-11 16:45:00+10:00
+end: 2021-09-11 17:15:00+10:00
+room: 1
+track:
+type: L
+abstract: <p>If a customer was hopping mad overnight, but your monitoring dashboard
+  shows its usual green line at 99.5% superb, you might expect to spend your morning
+  wading through logs… but what if you could find out what was happening in a few
+  minutes? Better yet, what if you knew before they did?</p>
+description: "<p>For years, I've barely touched logs: I've instead used structured\
+  \ events and tracing to find the source of someone's trouble and list everyone else\
+  \ affected.  It used to require custom code, but you can do it with open source:\
+  \ <a href=\"https://opentelemetry.io\">OpenTelemetry</a> is an ambitious attempt\
+  \ to standardise application tracing across all languages, frameworks, packages,\
+  \ and deployment environments.</p>\n<p>In this talk you'll learn how to measure\
+  \ your Python's behaviour with OpenTelemetry, how to solve production mysteries,\
+  \ and how to monitor service level indicators for advance warning of trouble.</p>"
+code: CAWRYN
+speakers:
+- RBUZHR
+cw:
+youtube_slug:

@@ -1,5 +1,6 @@
 ---
 name: "Science, Data, and Analytics"
+altname: "Science, Data, and Analytics"
 slug: science-data-and-analytics
 emoji: "📊"
 color: "#f36b35"

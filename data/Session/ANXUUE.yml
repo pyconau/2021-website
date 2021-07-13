@@ -1,0 +1,21 @@
+title: A tale of Python C extensions and cross-platform wheels
+start: 2021-09-11 11:15:00+10:00
+end: 2021-09-11 11:45:00+10:00
+room: 2
+track:
+type: P
+abstract: <p>Learn how to write a Python C extension using pybind11 and package it
+  for all major operating systems by building cross-platform wheels.</p>
+description: "<p>Have you ever wondered why Python is referred to as CPython and what\
+  \ it looks like under the hood? Come to this talk and find out! We'll briefly take\
+  \ a look at what Python's source looks like, how it exposes a C-API using which\
+  \ we can extend its functionality, and how we can write Python C extensions using\
+  \ pybind11.</p>\n<p>Okay now that we have written our Python C extension, how do\
+  \ we package it so that users on all major operating systems can easily install\
+  \ it using pip? We'll take a look at how we can build cross-platform wheels for\
+  \ Linux, macOS, and Windows and automatically push them to PyPI!</p>"
+code: ANXUUE
+speakers:
+- NR33XU
+cw:
+youtube_slug:

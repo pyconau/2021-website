@@ -13,13 +13,11 @@ Talks in this track:
     <li><a href="{% url "session", session %}">{{session.title}}</a> by {% for speaker in session.speakers %}{{ speaker.name }}{% if not loop.last %}, {% endif %}{% endfor %}</li>
     {% endif %}
 {% endfor %}
-<hr>
-{% else %}
-{# Submit a talk for this track in our <a href="/speak">Call for Proposals!</a> #}
 {% endif %}
 <hr>
 
 {{track.content}}
+
 {% if track.organisers %}
 <style>.local-border { border: 3px solid {{track.color}} }</style>
 <hr>

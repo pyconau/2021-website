@@ -1,0 +1,36 @@
+title: Improved Decision Making with Pareto Fronts
+start: 2021-09-10 16:15:00+10:00
+end: 2021-09-10 16:45:00+10:00
+room: 1
+track: science
+type: L
+abstract: "<p>Optimising for multiple objectives is a non-trivial task, especially\
+  \ when they are in conflict. For example how can one best overcome the classic trade-off\
+  \ between quality and cost of production, when the monetary value? In this gentle\
+  \ introduction to multi-objective optimisation you will learn about Pareto Fronts\
+  \ and how they can be used to optimise for multiple objectives. </p>\n<p>As a data\
+  \ driven decision maker you will learn the advantages and shortcomings of the technique\
+  \ and be able to assess applicability for your own projects.</p>"
+description: "<p>Optimising for multiple objectives is a non-trivial task, especially\
+  \ when they are in conflict. For example, how can one best overcome the classic\
+  \ trade-off between quality and cost of production, when the monetary value of quality\
+  \ is not defined? In this talk you will learn about Pareto Fronts and how they can\
+  \ be used to optimise for multiple objectives simultaneously.  </p>\n<p>When applicable,\
+  \ this Pareto Optimisation method provides better results than the common practice\
+  \ of combining multiple parameters into a single parameter heuristic. The reason\
+  \ for this is quite simple. The single heuristic approach is like horse binders\
+  \ limiting the view of the solution space, whereas Pareto Optimisation enables a\
+  \ bird’s eye view.</p>\n<p>Real world applications span from supply chain management,\
+  \ manufacturing, aircraft design to land use planning and therapeutics discovery.</p>\n\
+  <p>This introduction is geared towards anyone who makes data driven decisions or\
+  \ is interested in improving their optimisation skills. You will learn the advantages\
+  \ and shortcomings of the technique and be able to assess applicability for your\
+  \ own projects.</p>\n<p>Specifically I will demonstrate that the Python package\
+  \ <a href=\"https://deap.readthedocs.io/en/master/\">DEAP</a>  is a useful tool\
+  \ for prototyping for solutions in large intractable spaces, such as DNA combinatorial\
+  \ spaces, which require stochastic search techniques such as Genetic Algorithms.</p>"
+code: 87QF7B
+speakers:
+- NLRPSE
+cw:
+youtube_slug:

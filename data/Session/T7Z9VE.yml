@@ -1,0 +1,20 @@
+title: Hacking your way through Python's import machinery for fun and profit
+start: 2021-09-11 14:45:00+10:00
+end: 2021-09-11 15:15:00+10:00
+room: 1
+track:
+type: P
+abstract: "<p>Get your finest top hat and dive into the rabbit hole with me for a\
+  \ magic trick like only the best snakes can do: create Python modules out of thin\
+  \ air. We'll import Python modules that don't exist and yet, Presto, here they are.</p>"
+description: <p>Inspired by recent work on an opensource library, we wanted a Python
+  framework (Django) to believe there were specific Python modules (migrations) inside
+  a folder that was actually empty. This led us to discover the wonderful world of
+  Loaders and MetaPathFinders and a whole menagerie of objects and methods and calls.
+  In this talk, we'll try and recreate the different steps that we went through, and
+  get the opportunity to become friends with the import machinery along the way.</p>
+code: T7Z9VE
+speakers:
+- YWEXYS
+cw:
+youtube_slug:

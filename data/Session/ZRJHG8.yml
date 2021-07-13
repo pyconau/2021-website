@@ -1,0 +1,35 @@
+title: CFU Playground
+start: 2021-09-11 12:00:00+10:00
+end: 2021-09-11 12:30:00+10:00
+room: 2
+track:
+type: P
+abstract: <p>The CFU-Playground allows anyone to build FPGA based accelerators for
+  ML inferencing. With a heavy reliance on the Python based tools LiteX and nMigen,
+  it encourages an interative development style, typically starting with a single
+  multiply-accumulate, and progressing in small steps to a full inner loop.</p>
+description: "<p>This talk describes the CFU Playground, an open-source framework\
+  \ that an engineer, intern, or student can use to design and evaluate enhancements\
+  \ to an FPGA-based soft RISC-V processor, specifically to increase the performance\
+  \ of machine learning (ML) tasks through the addition of custom function units (CFUs).\
+  \ The goal is to abstract away most infrastructure details so that the user can\
+  \ get up to speed quickly and focus solely on adding new processor functions, exploiting\
+  \ them in the computation, and measuring the results.</p>\n<p>The presentation describes\
+  \ the process of identifying hot spots in the code during an inference of a specific\
+  \ model, then addressing those hotspots by building a CFU in nMigen. We examine\
+  \ the process of constructing the gateware building blocks and unittesting them,\
+  \ then integrating them with the Tensorflow Lite kernel library. The goal is to\
+  \ specialize the RISC-V processor and ML kernels to accelerate the model of interest.</p>\n\
+  <p>All IP and software used is open sourced and licensed permissively -- the open\
+  \ RISC-V ISA that allows new custom instructions, the VexRiscv soft core implementation,\
+  \ the LiteX system-on-chip IP, the Symbiflow FPGA toolchain, Renode and Verilator\
+  \ simulators, and TensorFlow Lite kernel libraries.  Thus, the combined CPU, CFU,\
+  \ and kernel libraries that the user develops are not tied to any particular FPGA\
+  \ vendor; there are no licensing restrictions or fees; and there is no dependence\
+  \ on any black box proprietary tools.</p>\n<p>https://github.com/google/CFU-Playground\n\
+  https://cfu-playground.readthedocs.io/</p>"
+code: ZRJHG8
+speakers:
+- DKGHFV
+cw:
+youtube_slug:

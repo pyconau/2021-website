@@ -1,0 +1,24 @@
+title: Metrics for good, not evil
+start: 2021-09-10 16:15:00+10:00
+end: 2021-09-10 16:45:00+10:00
+room: 2
+track: devoops
+type: P
+abstract: <p>SLOs, OKRs, and any metrics are only as good as the processes that allow
+  people to advocate for data-driven approaches, and getting businesses set up to
+  leverage their data for good (enablement) rather than evil (blame) is a big part
+  of Engineering and DevOps maturity.</p>
+description: "<p>This talk walks through the pitfalls of setting the wrong goals and\
+  \ measuring metrics that drive poor outcomes and follows the story of looking for\
+  \ a way to balance the powers of engineering and product with sensible checks and\
+  \ balances born from data. \nIt's a journey of what I have learned and discovered,\
+  \ mistakes I've made, and how to turn data into a business driver, and the DevOps\
+  \ teams who facilitate that data, into business influencers.\nThis talk discusses\
+  \ how we can leverage metrics like SLOs for good (enablement) rather than evil (blame)\
+  \ and the place DevOps has in the wider Engineering team &amp; Business decision-making\
+  \ structure.</p>"
+code: BWPHPK
+speakers:
+- HJY9PA
+cw:
+youtube_slug:
