@@ -13,7 +13,6 @@ Talks in this track:
     <li><a href="{% url "session", session %}">{{session.title}}</a> by {% for speaker in session.speakers %}{{ speaker.name }}{% if not loop.last %}, {% endif %}{% endfor %}</li>
     {% endif %}
 {% endfor %}
-<hr>
 {% endif %}
 <hr>
 
