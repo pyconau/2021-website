@@ -8,7 +8,7 @@ Another year, another amazing [Tania Walker](http://taniawalker.com/) creation!
 
 This year's design is an adorable reimagining of the [Packaging Platypus](https://monotreme.club/#/), with permission of the original artist, [James Turner](https://twitter.com/eruditebaboon).
 
-Our Redbubble is open now, with classic shirts available from ~$26AUD including shipping, which means you may just get to wear your conf shirt on the day!
+Our merchanise store at Redbubble is open now, with classic shirts available from ~$26AUD including shipping, which means you may just get to wear your conf shirt on the day!
 
 <p class='center-content'>
     <a href="https://www.redbubble.com/shop/ap/82428459" class="btn btn-center btn-chonk">
