@@ -5,7 +5,7 @@ order: 3
 
 # Attend PyConline AU!
 
-We’re excited to share that tickets are now available for PyConline AU!
+Tickets are now available for PyConline AU!
 
 As with previous years, we have several types of tickets priced at different levels:
 
@@ -20,8 +20,10 @@ As with previous years, we have several types of tickets priced at different lev
 	</a>
 </p>
 
-Like last year, our event will be hosted on the [Venueless](https://venueless.org/en/) platform, allowing for multiple streaming tracks, text channels, video rooms and more. 
+Like last year, our event will be hosted on the [Venueless](https://venueless.org/en/) platform, allowing for multiple streaming tracks, text channels, video rooms and more. Your link to Venueless will be on your digital ticket.
 
 The full schedule can be seen over on our [program](/program/). 
+
+Swag is available at our [store](/shirt).
 
 See you online!
