@@ -56,7 +56,7 @@ def parse_markdown(text):
 
 
 rooms = {
-    "Backup": 0,
+    "Backup Speakers": 0,
     "Curlyboi Theatre": 1,
     "Platypus Hall": 2,
     "Science, Data & Analytics": 1,
