@@ -11,7 +11,7 @@ This year's design is an adorable reimagining of the [Packaging Platypus](https:
 Our merchanise store at Redbubble is open now, with classic shirts available from ~$26AUD including shipping, which means you may just get to wear your conf shirt on the day!
 
 <p class='center-content'>
-    <a href="https://www.redbubble.com/shop/ap/82428459" class="btn btn-center btn-chonk">
+    <a href="https://www.redbubble.com/people/pyconau/explore" class="btn btn-center btn-chonk">
         Get your PyConline AU 2021 merch
     </a>
 </p>
