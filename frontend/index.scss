@@ -379,14 +379,12 @@ footer {
   color: #777;
   background-color: #eee;
   grid-template:
-    "auspice signup"
-    "auspice copyright";
-  grid-template-columns: 1fr max-content;
-  /*grid-template-columns: 1fr 1fr 1fr max-content;*/
+    "auspice video infra signup"
+    "auspice video infra copyright";
+  grid-template-columns: 1fr 1fr 1fr max-content;
 
   @media only screen and (max-width: 959px) {
-    grid-template: "auspice" "signup" "copyright";
-    /*grid-template: "auspice" "video" "infra" "signup" "copyright";*/
+    grid-template: "auspice" "video" "infra" "signup" "copyright";
   }
 
   section {
