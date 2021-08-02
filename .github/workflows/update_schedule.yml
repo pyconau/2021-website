@@ -1,5 +1,6 @@
 name: Update schedule
 on:
+  workflow_dispatch:
   push:
     branches: [ghci]
   schedule:
