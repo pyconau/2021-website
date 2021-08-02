@@ -1,6 +1,7 @@
 import requests
 from ruamel.yaml import YAML
 import dateutil.parser
+import dateutil.tz
 from datetime import timedelta
 from parse import parse
 from pprint import pprint
@@ -10,6 +11,7 @@ from os import environ
 import os, os.path
 
 PRETALX_TOKEN = environ["PRETALX_TOKEN"]
+AEST = dateutil.tz.gettz("Australia/Melbourne")
 
 yaml = YAML()
 md = Markdown()
@@ -114,8 +116,8 @@ for session in paginate("https://pretalx.com/api/events/pycon-au-2021/talks/"):
     speakers = [x["code"] for x in session["speakers"]]
     seen_speakers.update(speakers)
     with open(f'data/Session/{session["code"]}.yml', "w") as f:
-        start = dateutil.parser.isoparse(session["slot"]["start"])
-        end = dateutil.parser.isoparse(session["slot"]["end"])
+        start = dateutil.parser.isoparse(session["slot"]["start"]).astimezone(AEST)
+        end = dateutil.parser.isoparse(session["slot"]["end"]).astimezone(AEST)
         type_answer_id = format_answer[next(
                 x["options"][0]["id"] for x in session["answers"] if x["question"]["id"] == answers["Presentation Format"]
             )]
