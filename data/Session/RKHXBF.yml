@@ -3,7 +3,7 @@ start: 2021-09-10 09:30:00+10:00
 end: 2021-09-10 10:00:00+10:00
 room: 1
 track: science
-type: L
+type: P
 abstract: <p>How do we connect high-level fairness principles with day-to-day product
   decision making? How do we move past the AI Ethics hype and start trying, testing
   and implementing practical approaches? In this talk the presenter will share stories,
