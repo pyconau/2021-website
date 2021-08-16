@@ -7,7 +7,7 @@ type: L
 abstract: <p>JAX provides an elegant interface to XLA with automatic differentiation
   allowing extremely high performance machine learning on modern accelerators; all
   from within Python. In this talk we'll give an overview to fundamentals of JAX and
-  an intro so some of the libraries being developed on top.</p>
+  an intro to some of the libraries being developed on top.</p>
 description: <p>JAX is the next generation machine learning library developed by Google
   Research. It provides a pure Python interface to the domain-specific compiler XLA
   (Accelerated Linear Algebra) that targets a range of accelerator hardware including
