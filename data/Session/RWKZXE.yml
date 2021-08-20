@@ -1,0 +1,37 @@
+title: At the Turn of the Tide – Teaching Python in Real-Time at Scale
+start: 2021-09-10 13:30:00+10:00
+end: 2021-09-10 14:00:00+10:00
+room: 3
+track: education
+type: L
+abstract: "<p>Teaching a programming language can be challenging, even more so when\
+  \ your classroom is suddenly virtual and you have to teach 1200 students. With some\
+  \ clever thinking our multidisciplinary teaching team turned this crisis to our\
+  \ advantage and achieved an all time high level of student satisfaction. We are\
+  \ now able to reach any student, no matter their location, timezone or computing\
+  \ device with a real-time collaborative coding environment.</p>\n<p>This talk will\
+  \ cover what we consider “must-haves” for teaching in these extreme circumstances\
+  \ and how we have been able to maintain student engagement. We will demonstrate\
+  \ our solution to hosting tutorials online and share the lessons we learnt along\
+  \ the way.</p>"
+description: "<p>We teach Python as part of an introductory Data Science unit for\
+  \ post-graduate students. This unit has dramatically grown in popularity due to\
+  \ the demand for data science education.</p>\n<p>In Semester 1 of 2020, we experienced\
+  \ a significant crisis situation where over 80% of our 800 students were unable\
+  \ to travel to Australia due to COVID. We quickly discovered that our prior teaching\
+  \ practice was inadequate when teaching over Zoom. The situation for Semester 2\
+  \ was dire, with an expected 1200 students. So we outlined our requirements and\
+  \ searched for a solution.</p>\n<p>With some clever thinking our multidisciplinary\
+  \ teaching team turned this crisis to our advantage and achieved an all time high\
+  \ level of student satisfaction. We are now able to reach any student, no matter\
+  \ their location, timezone or computing device with a real-time collaborative coding\
+  \ environment. </p>\n<p>This talk will cover what we consider “must-haves” for teaching\
+  \ in these extreme circumstances and how we have been able to maintain student engagement.\
+  \ We will demonstrate our solution to hosting tutorials online and share the lessons\
+  \ we learnt along the way.</p>"
+code: RWKZXE
+speakers:
+- VXBVLZ
+- 8NDWMQ
+cw:
+youtube_slug:
