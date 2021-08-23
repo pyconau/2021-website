@@ -35,3 +35,7 @@ to = "https://www.redbubble.com/people/pyconau/shop"
 [[redirects]]
 from = "/safety/"
 to = "/conduct/"
+
+[[redirects]]
+from = "/program/sun/"
+to = "/social/"
