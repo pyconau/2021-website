@@ -6,7 +6,7 @@ room: 2
 track: devoops
 type: L
 abstract: "<p>A few years ago a small web application was built with Flask over a\
-  \ weekend allowing customers to order free a free t-shirt for an event being hosted.\
+  \ weekend allowing customers to order a free t-shirt for an event being hosted.\
   \ It was designed for this single purpose and had never been considered to be needed\
   \ or expanded beyond that.</p>\n<p>Within the next six months, the app was adapted\
   \ to allow breakfasts, hoodies, socks, pens and rubik's cubes ordered for different\
