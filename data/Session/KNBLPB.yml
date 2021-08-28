@@ -4,8 +4,83 @@ end: 2021-09-10 17:30:00+10:00
 room: 3
 track: education
 type: L
-abstract: <p>Education Showcase</p>
-description: <p>Education Showcase</p>
+abstract: <p>Join us for 6 fantastic short talks from high school students! You'll
+  learn about Renewable Hearing, Kookaberry apps, 3D Games with Pygame, AI on the
+  Twitter Timeline, Python metaprogramming through bytecode, and Deblurring with Deep
+  Learning.</p>
+description: "<h2>Renewable Hearing - Liv Anne Heaton</h2>\n<p>I am building a hearing\
+  \ aid that can run on solar charged batteries, powered by Raspberry Pi Pico and\
+  \ Circuitpython. It features a fast Fourier transform that is required for altering\
+  \ the volume for different frequencies. What has worked so far is the Fourier algorithm\
+  \ and calculating the decibels from the input. An accessible user interface is still\
+  \ required, and the hardest part is definitely the signal processing from the audio\
+  \ in to the audio out. Live or pre-recorded is fine!</p>\n<h2>Making an isometric\
+  \ 3D game from scratch in python's Pygame - Samuel Price</h2>\n<p>I have made a\
+  \ game with isometric 3D from the 2D graphics engine pygame in python. This game\
+  \ uses a series of menus to decided the parameters for a simulation of a basic ecosystem\
+  \ with noise generated terrain. This game is fully operational, as are a few other\
+  \ of my isometric 3D demos. In addition, I also created a small program to help\
+  \ me to draw the 3D models. Come to this talk to learn about the how and why!</p>\n\
+  <h2>Tweet Aware, using AI to deconstruct your Twitter timeline - Bella Ryan</h2>\n\
+  <p>Tweet Aware' is my year 12 major project for software design development. I built\
+  \ a python program that reconstructs a users feed using the Twitter API and then\
+  \ performs sentiment analysis on it. It is a really cool project that went through\
+  \ a few phases of this would be super cool! - but doesn't quite work, damn. In my\
+  \ presentation I will show my design process for the overall project as well as\
+  \ my tinkering with the API to get a result I am happy with.</p>\n<h2>Python metaprogramming\
+  \ through bytecode -Jonte Deakin</h2>\n<p>This talk is about my project bytecodemacro.\
+  \ It is a python library which allows for easy metaprogramming through making use\
+  \ of a human readable version of python bytecode which can be manipulated to very\
+  \ cool effects! Here is a link to the Github: https://github.com/Glubs9/bytecodemacro\
+  \ </p>\n<p>This worked really well and it enabled me to do lots of cool things!</p>\n\
+  <p>The hardest part of this project was the intentional lack of documentation around\
+  \ bytecode. The python developers intentionally leave the documentation sparse so\
+  \ it was quite hard to understand! The other issue I had is that python code objects\
+  \ (python functions fall under this) are immutable, which is an issue because if\
+  \ you want to make a recursive function you need to give the immutable object a\
+  \ reference to itself! This was solved by emulating pointer behaviour by using python\
+  \ lists which are stored by reference in the code object, thus getting around the\
+  \ immutability.</p>\n<h2>Deblurring with Deep Learning - Manindra de Mel</h2>\n\
+  <p>Deep learning has several complex and interesting mathematics underlying it.\
+  \ I will be exploring my journey utilising Deep learning to deblur images. Furthermore,\
+  \ I will discuss the problems I overcame to create a working image de-blurring program.\
+  \ Specifically overcoming problems such as, understanding and implementing the mathematics,\
+  \ choosing the most optimal training method and the hardest problem being fixing\
+  \ the several logical errors found within the program. Included in the presentation\
+  \ will also be a  demo of the program de-blurring an imagine live.</p>\n<h2>Kookaberry\
+  \ apps for learning - Amelia McLaren, Dalia Hamade, Vianne Stavliotis, Elizabeth\
+  \ Park</h2>\n<p>Given some Kookaberries and some input and output devices we were\
+  \ challenged to create embedded device apps that assist the user in the pursuit\
+  \ of learning or leisure. Some of us decided to code something to help with studying\
+  \ for school, while others coded something aimed towards learning musical instruments.\
+  \ Some of the apps for musicians  include a metronome or song practice counter.\
+  \ Meanwhile apps that would help with school studies included a timetable, pop quiz,\
+  \ study timer along with flashcards and a motivational quote displayer. Overall,\
+  \ each app that we created was effective and reached our aim.</p>\n<p>The majority\
+  \ of our original ideas for our apps ended up being a success as we put lots of\
+  \ time into brainstorming reasonable and useful embedded systems. Because of this,\
+  \ we were all able to spend more time on the actual code for these ideas. Something\
+  \ that worked well for us was being able to use python. Python was useful for example\
+  \ because it let us simplify our code so that it didn’t look bulky and overwhelming.\
+  \ We had also been learning about python for the rest of the semester, so it gave\
+  \ us a chance to try and apply our theory to an actual project. </p>\n<p>There were\
+  \ a few tricky parts in making our projects, but we overcame them with the help\
+  \ of our teacher and our other classmates.The hardest parts for the majority of\
+  \ people were bugs in the code, for example, it was difficult to locate the code\
+  \ sometimes and try to fix it without changing the parts of the code that did work.\
+  \ \nSometimes the code would be in the wrong place and other times we could not\
+  \ figure out how to code something by ourselves. This makes sense considering that\
+  \ we are all new to python this year. Specific examples include, not being able\
+  \ to switch from different display interfaces without messing up the other code,\
+  \ recognising simple errors and mistakes, and problem solving difficult parts of\
+  \ the code.</p>\n<p>With all the obstacles that we faced, we all overcame them by\
+  \ working hard and asking for help. Our teacher Ms Noble assisted us with our code,\
+  \ she helped us compact our code so that it didn’t look chunky and also helped when\
+  \ we couldn’t figure out what was wrong after looking over the code many times.\
+  \ She also provided a cheat sheet for us on how to use Python with the Kookaberry.\
+  \ This cheat sheet helped us a lot since we had to include a bit more coding for\
+  \ the kookaberry part. We also asked each other when we were stuck on a particular\
+  \ code and worked together to form resolutions.\"</p>"
 code: KNBLPB
 speakers:
 - HYXK8D
