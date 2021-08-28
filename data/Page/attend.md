@@ -3,9 +3,12 @@ title: Attend
 order: 3
 ---
 
+
 # Attend PyConline AU!
 
 Tickets are now available for PyConline AU!
+
+**Need to order your 2021 conference gear?** Go to our [store](/shirt).
 
 As with previous years, we have several types of tickets priced at different levels:
 
