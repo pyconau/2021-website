@@ -8,10 +8,11 @@ abstract: <p>We are going to go behind the scene of building a data-intensive sy
   The story includes challenges I have faced and what I learned from those incidents.</p>
 description: "<p>We always want to do things right at the very first. Have a faultless\
   \ architecture design, 100% test coverage, things like that. However, after running\
-  \ a service for many years, I realize so many unimaginable things can happen in\
-  \ production. </p>\n<p>This talk will help audiences avoid making the same mistakes\
-  \ so they don’t suffer as I did. Audiences may be inspired by this talk and help\
-  \ them to build a scalable and reliable system that stands the test of time.</p>"
+  \ a data-intensive system for many years, I realize so many unimaginable things\
+  \ can happen in production. </p>\n<p>This talk will help audiences avoid making\
+  \ the same mistakes so they don’t suffer as I did. Audiences may be inspired by\
+  \ this talk and help them to build a scalable and reliable system that stands the\
+  \ test of time.</p>"
 code: 8HLVVS
 speakers:
 - EFWXRU
