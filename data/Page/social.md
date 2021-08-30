@@ -55,7 +55,7 @@ _When_: 7pm-9pm
 
 _Where_: Zoom meeting, to be announced in Venueless
 
-_Requirements_: A device with [zoom](https://zoom.us/download) installed
+_Requirements_: A device with [Zoom](https://zoom.us/download) installed
 
 _Capacity_: No limits! 
 
