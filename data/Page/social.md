@@ -9,18 +9,41 @@ With the lockdowns in many parts of Australia and New Zealand, we are an extreme
 
 Since we can't have viewing parties, let's ramp up the social with extremely online social events!
 
-We have had many people offering to run many things. Details about capacity, access, etc, will be available closer to the event. 
+We have had many people offering to run many things. Details about capacity, access, etc, will be available closer to the event.
+
+
+**All times shown in AEST (UTC+10:00)**
+
+
 
 ## Friday evening
 
-### Online Karaoke
+### Online Karaoke  
 
 Bring your absolutely best voice and a microphone and let’s sing away our hearts!
+
+_When_: 7pm-8:30pm  
+
+_Where_: Venueless and [Watch2Gether](https://w2g.tv)
+
+_Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
+
+_Capacity_: Up to 30 people can join
+
 
 
 ### Dinner-side chat about machine learning 
 
 Wanna chat about machine learning while enjoying your dinner? Say no more. 
+
+_When_: 7pm-9pm  
+
+_Where_: Venueless
+
+_Requirements_: Camera and microfone
+
+_Capacity_: Up to 20 people can join
+
 
 ## Saturday evening
 
@@ -28,27 +51,99 @@ Wanna chat about machine learning while enjoying your dinner? Say no more.
 
 All attendees, speakers, volunteers and organisers welcomed to our virtual dinner party! Sure, bring your kids, your dogs, cats and pet kangaroos. 
 
+_When_: 7pm-9pm  
+
+_Where_: Zoom meeting, to be announced in venueless
+
+_Requirements_: A device with [zoom](https://zoom.us/download) installed
+
+_Capacity_: No limits! 
+
+
 ## Sunday
 
 ### Lightning talks ⚡️
 
-Yes, they are back this year! Submissions will happen on Saturday, so make sure to submit your ideas! 
+Yes, they are back this year! Submissions will happen until Saturday, so make sure to submit your ideas! 
+
+_When_: 11am-12:30pm
+
+_Where_: Venueless
+
+_Requirements_: TBD for presenters. 
+
+_Capacity_: No limits for expectators. Number of presenters TBD
+
+
 
 ### RPG one-shots
 
 Two sessions will be available on Sunday, each one for 6 people and lasting around 3.5h. Expression of interest will be available by Friday, and participants selected by Saturday. 
 
-### Family-friendly karaoke
+_When_: 9am-12pm for morning session, 1pm-5pm for afternoon session
 
-Got some kids to entertain at home? Fear no more. Yes, we will sing Let It Go until the neighbours complain. 
+_Where_: [FoundryVTT](https://foundryvtt.com/), details to be shared later
 
-### MarioKart and Mario Party
+_Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
-Of course, Mario is back. 
+_Capacity_: 6 per session; expression of interest will be available in venueless
+
 
 ### 0 A.D. ([game site](https://play0ad.com/))
 
 Ancient warfare is your thing? Buckle up then!
+
+_When_: 3-5pm 
+
+_Where_: Venueless and [0 A.D.](https://play0ad.com/)
+
+_Requirements_: A device with 0 A.D. game installed (check [game requirements](https://play0ad.com/download/))
+
+_Capacity_: 5 players
+
+
+### Family-friendly karaoke
+
+Got some kids to entertain at home? Fear no more. Yes, we will sing Let It Go until the neighbours complain. 
+
+Bring your absolutely best voice and a microphone and let’s sing away our hearts!
+
+_When_: 3:30pm-5pm  
+
+_Where_: Venueless and [Watch2Gether](https://w2g.tv)
+
+_Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
+
+_Capacity_: Up to 30 people can join
+
+
+### MarioKart 8 Deluxe
+
+Of course, MarioKart is back. 
+
+
+_When_: TBD
+
+_Where_: Nintendo network
+
+_Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Kart 8 Deluxe game (2 players in the same room can share a console)
+
+_Capacity_: No upper limit
+
+
+### Mario Party
+
+No party is good enough without a Mario Party. 
+
+_When_: TBD
+
+_Where_: Nintendo network
+
+_Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Party game
+
+_Capacity_: 4 max per game, but multiple concurrent games can happen. 
+
+
 
 ## More social!
 
