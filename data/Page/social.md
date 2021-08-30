@@ -26,7 +26,7 @@ _When_: 7pm-8:30pm
 
 _Where_: Venueless and [Watch2Gether](https://w2g.tv)
 
-_Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
+_Requirements_: Camera and microphone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
 _Capacity_: Up to 30 people can join
 
@@ -40,7 +40,7 @@ _When_: 7pm-9pm
 
 _Where_: Venueless
 
-_Requirements_: Camera and microfone
+_Requirements_: Camera and microphone
 
 _Capacity_: Up to 20 people can join
 
@@ -53,7 +53,7 @@ All attendees, speakers, volunteers and organisers welcomed to our virtual dinne
 
 _When_: 7pm-9pm  
 
-_Where_: Zoom meeting, to be announced in venueless
+_Where_: Zoom meeting, to be announced in Venueless
 
 _Requirements_: A device with [zoom](https://zoom.us/download) installed
 
@@ -70,9 +70,9 @@ _When_: 11am-12:30pm
 
 _Where_: Venueless
 
-_Requirements_: TBD for presenters. 
+_Requirements_: TBD for presenters.
 
-_Capacity_: No limits for expectators. Number of presenters TBD
+_Capacity_: No limits on spectators!
 
 
 
@@ -86,7 +86,7 @@ _Where_: [FoundryVTT](https://foundryvtt.com/), details to be shared later
 
 _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
-_Capacity_: 6 per session; expression of interest will be available in venueless
+_Capacity_: 6 per session; expression of interest will be available in Venueless
 
 
 ### 🌐 0 A.D. ([game site](https://play0ad.com/))
