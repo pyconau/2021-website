@@ -3,7 +3,7 @@ title: Social
 order: 3
 ---
 
-# Social Events
+# 🐍 Social Events 👯
 
 With the lockdowns in many parts of Australia and New Zealand, we are an extremely online event. Excessively so.
 
@@ -16,9 +16,9 @@ We have had many people offering to run many things. Details about capacity, acc
 
 
 
-## Friday evening
+## Friday evening 
 
-### Online Karaoke  
+### 🎤  Online Karaoke   
 
 Bring your absolutely best voice and a microphone and let’s sing away our hearts!
 
@@ -32,7 +32,7 @@ _Capacity_: Up to 30 people can join
 
 
 
-### Dinner-side chat about machine learning 
+### 🍣 Dinner-side chat about machine learning 
 
 Wanna chat about machine learning while enjoying your dinner? Say no more. 
 
@@ -47,7 +47,7 @@ _Capacity_: Up to 20 people can join
 
 ## Saturday evening
 
-### Dinner with PyFriends
+### 🥙 Dinner with PyFriends
 
 All attendees, speakers, volunteers and organisers welcomed to our virtual dinner party! Sure, bring your kids, your dogs, cats and pet kangaroos. 
 
@@ -62,7 +62,7 @@ _Capacity_: No limits!
 
 ## Sunday
 
-### Lightning talks ⚡️
+###  ⚡️ Lightning talks
 
 Yes, they are back this year! Submissions will happen until Saturday, so make sure to submit your ideas! 
 
@@ -76,7 +76,7 @@ _Capacity_: No limits for expectators. Number of presenters TBD
 
 
 
-### RPG one-shots
+### 🎲 RPG one-shots
 
 Two sessions will be available on Sunday, each one for 6 people and lasting around 3.5h. Expression of interest will be available by Friday, and participants selected by Saturday. 
 
@@ -89,7 +89,7 @@ _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/r
 _Capacity_: 6 per session; expression of interest will be available in venueless
 
 
-### 0 A.D. ([game site](https://play0ad.com/))
+### 🌐 0 A.D. ([game site](https://play0ad.com/))
 
 Ancient warfare is your thing? Buckle up then!
 
@@ -102,7 +102,7 @@ _Requirements_: A device with 0 A.D. game installed (check [game requirements](h
 _Capacity_: 5 players
 
 
-### Family-friendly karaoke
+### 🎤 Family-friendly karaoke
 
 Got some kids to entertain at home? Fear no more. Yes, we will sing Let It Go until the neighbours complain. 
 
@@ -117,7 +117,7 @@ _Requirements_: Camera and microfone, browser with access to youtube and [Watch2
 _Capacity_: Up to 30 people can join
 
 
-### MarioKart 8 Deluxe
+### 🚗 MarioKart 8 Deluxe
 
 Of course, MarioKart is back. 
 
@@ -131,7 +131,7 @@ _Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Ma
 _Capacity_: No upper limit
 
 
-### Mario Party
+### 🍄 Mario Party
 
 No party is good enough without a Mario Party. 
 
