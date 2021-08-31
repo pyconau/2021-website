@@ -9,8 +9,11 @@
 <hr>
 Talks in this track:
 {% for session in sessions %}
-    {% if track.name not in session.title and track.altname not in session.title %}
+    {% if track.name not in session.title and track.altname not in session.title  %}
     <li><a href="{% url "session", session %}">{{session.title}}</a> by {% for speaker in session.speakers %}{{ speaker.name }}{% if not loop.last %}, {% endif %}{% endfor %}</li>
+    {% endif %}
+    {% if session.title == "Education Showcase"  %}
+    <li><a href="{% url "session", session %}">{{session.title}}</a> hosted by {% for speaker in session.speakers %}{{ speaker.name }}{% if not loop.last %}, {% endif %}{% endfor %}</li>
     {% endif %}
 {% endfor %}
 {% endif %}

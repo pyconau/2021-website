@@ -1,11 +1,12 @@
 ---
 name: "Snakeoil Academy"
+altname: "Security"
 slug: "snakeoil-academy"
 website: https://snakeoil.academy/
 emoji: "🔐"
 color: "#5b57a5"
 
-organisers: ['chris-watt', 'eliza-sorensen']
+organisers: ['BUPFGJ', '7LCU39']
 
 summary: "Come and join us for another Snakeoil Academy day where we’ll learn all about the skills that aid our development and management processes so that we build and maintain the confidence and protection of our users and their information."
 ---

@@ -7,7 +7,7 @@ color: "#f36b35"
 
 summary: Data and number crunching, analysis and visualisation, machine learning, and how those things affect us human beings.
 
-organisers: ['genevieve-buckley', 'maia-sauren', 'ned-letcher', 'javier-candeira', 'rachel-bunder']
+organisers: ['QZ9Q3J', 'RMHYR3', 'HUN8CD', '8M7M33', 'K9ALZS']
 
 ---
 

@@ -6,7 +6,7 @@ emoji: "😱"
 color: "#e01d43"
 summary: "Learn from our failures, or teach us about yours. Lots of conference talks are about how hugely successful something was, or some experiment that worked. We want to learn about all the other times."
 
-organisers: ['justin-warren', 'aurynn-shaw']
+organisers: ['CABYUD', 'W9UFCJ']
 ---
 
 
