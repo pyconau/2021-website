@@ -35,7 +35,9 @@ Talks in this track:
 <p align="center">
 The {{track.name}} track is proudly sponsored by <a href="{{track.sponsor.url}}">{{track.sponsor.title}}.
 <br>
+<a href="{{ track.sponsor.website }}">
 <img src='{% asset "sponsor-logos/" + track.sponsor.logo %}' class="sponsorlogo" alt='{{track.sponsor.title}}'></a></p>
+</a>
 {% endif %}
 
 {% endblock %}
