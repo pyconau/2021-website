@@ -15,6 +15,12 @@
 <hr />
 {% endif %}
 
+{% if gold %}
+<h1>Gold Sponsor{% if gold | length != 1 %}s{% endif %}</h1>
+{% for s in gold %} {{m.sponsor(s)}} {% endfor %}
+<hr />
+{% endif %}
+
 {% if digital %}
 <h1>Digital Sponsor{% if digital | length != 1 %}s{% endif %}</h1>
 {% for s in digital %} {{m.sponsor(s)}} {% endfor %}
