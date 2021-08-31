@@ -2,7 +2,7 @@
 title: Thoughtworks
 logo: thoughtworks.png
 level: digital
-website: https://www.thoughtworks.com/en-au/what-we-do/data-and-ai
+website: https://thoughtworks.com
 twitter: Thoughtworks
 order: 3
 ---
