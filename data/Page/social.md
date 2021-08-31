@@ -70,7 +70,14 @@ _When_: 11am-12:30pm
 
 _Where_: Venueless
 
-_Requirements_: TBD for presenters.
+_Requirements_: 
+  * Lightning talks proposals can be submitted by any ticket-holding attendee.
+  * Talks are 5 minutes, can be on any topic, and must abide by the code of conduct. 
+  * No job advertisements or sales pitches, please. 
+  
+_How to apply_:
+  * Form will be listed here in the days leading up to the event. 
+  * Successful applicants will be notified by the end of Saturday. 
 
 _Capacity_: No limits on spectators!
 
