@@ -10,7 +10,7 @@ path: speakers/live-logistics
 Our community platform will be [Venueless](https://venueless.org); that's where all of our speakers and attendees will be gathering. The videos will feed into there from a video streaming system
 
 - **90 minutes before** your talk, please be on Discord and let us know you're online in #speaker-checkin
-- **60 minutes before** your talk, gplease request a Tech Check in #tech-check.  The AV team will help you check your set-up, and give last minute advice.
+- **60 minutes before** your talk, please request a Tech Check in #tech-check.  The AV team will help you check your set-up, and give last minute advice.
 - **15 minutes before** your talk, the green room AV team will check you are ready. You'll be invited to the streaming backstage for further instructions.
 
 
