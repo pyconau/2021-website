@@ -69,9 +69,9 @@ rooms = {
 
 tracks = {
     "DevOops": "devoops",
-    "Science, Data & Analytics": "science",
+    "Science, Data, and Analytics": "science",
     "Education": "education",
-    "Snakeoil Academy (Security & Privacy)": "security",
+    "Snakeoil Academy (Security & Privacy)": "snakeoil",
     "Main Conference": None,
 }
 

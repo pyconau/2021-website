@@ -1,6 +1,0 @@
----
-name: 
-pronouns:
-twitter:
-
----

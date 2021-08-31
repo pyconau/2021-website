@@ -5,7 +5,7 @@ slug: education
 emoji: "🍎"
 color: "#bd8d00"
 
-organisers: ['nicky-ringland', 'amanda-hogan']
+organisers: ['X99XWA', 'HYXK8D']
 
 summary: "Learn about learning, teach about teaching, and educate about education."
 ---
