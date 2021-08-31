@@ -16,6 +16,17 @@ We keep copies of all uploaded video, so you are welcome to upload improved vers
 Your talk will revert back to a 'live streaming' talk.
 
 
+## On the day, before your talk
+
+Even as a pre-record presenter, we'd love for you to come on our live stage for an introduction and thank-you.
+
+Our community platform will be [Venueless](https://venueless.org); that's where all of our speakers and attendees will be gathering. The videos will feed into there from a video streaming system
+
+- **90 minutes before** your talk, please be on Discord and let us know you're online in #speaker-checkin
+- **60 minutes before** your talk, please request a Tech Check in #tech-check.  The AV team will help you check your set-up, and give last minute advice.
+- **15 minutes before** your talk, the green room AV team will check you are ready. You'll be invited to the streaming backstage for further instructions.
+
+
 ## How much help will I get?
 
 Our AV team and volunteers are able to provide tips and advice. However, in most cases we are unable to provide complex support, debug setups, or edit videos for you.
