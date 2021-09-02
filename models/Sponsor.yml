@@ -8,4 +8,6 @@ linkedin: String
 order: Integer
 workshop: Workshop -> sponsor
 
+attribution: String
+
 content: Content
