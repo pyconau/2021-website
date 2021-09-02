@@ -44,6 +44,8 @@ _Requirements_: Camera and microphone
 
 _Capacity_: Up to 20 people can join
 
+_Host_: Thomas Chen
+
 
 ## Saturday evening
 
@@ -83,7 +85,7 @@ _Capacity_: No limits on spectators!
 
 
 
-### 🎲 RPG one-shots
+### 🎲 RPG one-shots ([Little Trouble in Big Absalom](https://paizo.com/products/btq024ys))
 
 Two sessions will be available on Sunday, each one for 6 people and lasting around 3.5h. Expression of interest will be available by Friday, and participants selected by Saturday. 
 
@@ -94,6 +96,8 @@ _Where_: [FoundryVTT](https://foundryvtt.com/), details to be shared later
 _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
 _Capacity_: 6 per session; expression of interest will be available in Venueless
+
+_Host_: Henry Walshaw
 
 
 ### 🌐 0 A.D. ([game site](https://play0ad.com/))
@@ -153,6 +157,8 @@ _Capacity_: 4 max per game, but multiple concurrent games can happen.
 
 
 ## More social!
+
+There will be _hallway_ video chat rooms in venueless available throughout the whole conference, make sure to check it out. 
 
 If you are keen on hosting online games, there will be plenty of opportunities during breaks or on Sunday. Instructions will be available the week before the conference. 
 
