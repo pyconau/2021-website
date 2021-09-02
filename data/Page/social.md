@@ -137,7 +137,7 @@ _Capacity_: Up to 30 people can join
 Of course, MarioKart is back. 
 
 
-_When_: 2pm
+_When_: 2-3pm
 
 _Where_: Nintendo network
 
@@ -152,7 +152,7 @@ _Host_: Leigh Brenecki
 
 No party is good enough without a Mario Party. 
 
-_When_: 5pm
+_When_: 5-6pm
 
 _Where_: Nintendo network
 
