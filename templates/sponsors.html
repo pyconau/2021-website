@@ -35,11 +35,16 @@
   They are directly helping fund our financial assistance efforts for future
   events:
 </p>
-{% for s in contributors %}
-<li>
-  {{s.title}} {% endfor %}
 
-  <hr />
+<ul class="contributor-sponsors">
+{% for s in contributors %}
+  <li>
+    {{s.title}} {% if s.attribution %}{{s.attribution}}{% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+<hr />
 {% endif %}
 
 <h1>Auspice</h1>

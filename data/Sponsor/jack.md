@@ -1,5 +1,5 @@
 ---
 title: Jack Skinner
 level: contributor
+attribution: "from CTOforHire.com.au"
 ---
-from [CTOforHire.com.au](https://ctoforhire.com.au)
