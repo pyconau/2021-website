@@ -6,15 +6,39 @@ track:
 type: P
 abstract: <p>Ee Durbin has been invited to keynote PyConline 2021. <a href="https://2021.pycon.org.au/news/2021-08-05-keynote">Read
   the announcement post</a>.</p>
-description: <p>The Python Package Index has taken massive strides as a service since
-  its inception in 2002. Through committed volunteer action, two major grants, and
-  a bevy of generous hosting providers this service has long established itself as
-  a mission critical piece of infrastructure for nearly every Python developer globally.
-  This keynote will take some time in retrospect of the growth, trials, tribulations,
-  and successes of PyPI in the last twenty years. It will also raise to the surface
-  the potential concerns for the sustainability PyPI and some of the ways that the
-  Python Software Foundation believes PyPI can continue to reliably serve the Python
-  community for the next twenty years.</p>
+description: "<p>The Python Package Index has taken massive strides as a service since\
+  \ its inception in 2002. Through committed volunteer action, two major grants, and\
+  \ a bevy of generous hosting providers this service has long established itself\
+  \ as a mission critical piece of infrastructure for nearly every Python developer\
+  \ globally. This keynote will take some time in retrospect of the growth, trials,\
+  \ tribulations, and successes of PyPI in the last twenty years. It will also raise\
+  \ to the surface the potential concerns for the sustainability PyPI and some of\
+  \ the ways that the Python Software Foundation believes PyPI can continue to reliably\
+  \ serve the Python community for the next twenty years.</p>\n<p>Links:</p>\n<ul>\n\
+  <li>PyPI: https://pypi.org/</li>\n<li>Creator of \"this is fine dog\": https://www.patreon.com/kcgreen</li>\n\
+  <li>PEP 301: https://www.python.org/dev/peps/pep-0301/</li>\n<li>PyPI First Commit:\
+  \ https://github.com/pypa/pypi-legacy/commit/85d2502cce33d21787f62b1c0de95290af360b40</li>\n\
+  <li>PyPI's first web capture: https://web.archive.org/web/20030402034022/http://www.python.org/pypi/</li>\n\
+  <li>PyPI 2013 web capture: https://web.archive.org/web/20130509061502/https://pypi.python.org/pypi</li>\n\
+  <li>Jacob's \"When PyPI Goes Down\": https://jacobian.org/2010/jul/20/when-pypi-goes-down/</li>\n\
+  <li>Oregon State University's Open Source Lab: https://osuosl.org/communities/</li>\n\
+  <li>Fastly Open Source: https://www.fastly.com/open-source</li>\n<li>PEP 449: https://www.python.org/dev/peps/pep-0449/</li>\n\
+  <li>Rackspace: https://rackspace.com</li>\n<li>PEP 470: https://www.python.org/dev/peps/pep-0470/</li>\n\
+  <li>PyPI's 2018 web capture: https://web.archive.org/web/20180331234612/https://pypi.python.org/pypi</li>\n\
+  <li>Donald Stufft's \"Powering The Python Package Index\": https://caremad.io/posts/2016/05/powering-pypi/</li>\n\
+  <li>Hewlett Packard Enterprise: https://www.hpe.com/us/en/open-source</li>\n<li>PyPI's\
+  \ codebase, \"Warehouse\": https://github.com/pypa/warehouse</li>\n<li>PSF Packaging\
+  \ Working Group: https://www.python.org/psf/committees/#packaging-work-group</li>\n\
+  <li>Mozilla Open Source Support: https://www.mozilla.org/en-US/moss/</li>\n<li>Open\
+  \ Technology Fund: https://www.opentech.fund/results/supported-projects/pypi-improvements/</li>\n\
+  <li>Facebook Research: https://research.fb.com</li>\n<li>Chan Zuckerberg Initiative\
+  \ EOSS: https://chanzuckerberg.com/eoss/</li>\n<li>Dustin Ingram \"What does it\
+  \ take to power the Python Package Index?\": https://dustingram.com/articles/2021/04/14/powering-the-python-package-index-in-2021/</li>\n\
+  <li>Sponsor the PSF: https://www.python.org/sponsors/application/</li>\n<li>Bloomberg\
+  \ Engineering: https://www.techatbloomberg.com</li>\n<li>PSF Annual Report 2021:\
+  \ https://www.python.org/psf/annual-report/2021/</li>\n<li>Donate: https://www.python.org/psf/donations/</li>\n\
+  <li>Sponsor: https://www.python.org/psf/sponsorship/</li>\n<li>Contribute: https://github.com/pypa/warehouse/</li>\n\
+  <li>Discuss: https://discuss.python.org/c/packaging/</li>\n</ul>"
 code: F39RRV
 speakers:
 - YNJPFR
