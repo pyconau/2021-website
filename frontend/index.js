@@ -1,21 +1,8 @@
-import { DateTime, LocalZone, Settings } from "luxon"
+import { DateTime, Settings } from "luxon"
 import backstage from "./backstage"
 import program from "./program"
 
 Settings.defaultLocale = "en-AU"
-
-const FORMATTER_DIFF_DAY = Intl.DateTimeFormat("en-au", {
-  weekday: "short",
-  hour: "numeric",
-  minute: "numeric",
-  timeZoneName: "short",
-})
-
-const FORMATTER_SAME_DAY = Intl.DateTimeFormat("en-au", {
-  hour: "numeric",
-  minute: "numeric",
-  timeZoneName: "short",
-})
 
 function onload() {
   backstage()
