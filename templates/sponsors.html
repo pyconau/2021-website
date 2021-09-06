@@ -47,6 +47,10 @@
 <hr />
 {% endif %}
 
+<table>
+  {% for s in specialsponsor %} {{m.special(s)}} {% endfor %}
+</table>
+
 <h1>Auspice</h1>
   {% for s in auspice %} {{m.sponsor(s)}} {% endfor %}
 
