@@ -6,11 +6,11 @@ track: science
 type: L
 abstract: "<p>Optimising for multiple objectives is a non-trivial task, especially\
   \ when they are in conflict. For example how can one best overcome the classic trade-off\
-  \ between quality and cost of production, when the monetary value? In this gentle\
-  \ introduction to multi-objective optimisation you will learn about Pareto Fronts\
-  \ and how they can be used to optimise for multiple objectives. </p>\n<p>As a data\
-  \ driven decision maker you will learn the advantages and shortcomings of the technique\
-  \ and be able to assess applicability for your own projects.</p>"
+  \ between quality and cost of production, when the monetary value of quality is\
+  \ not defined? In this gentle introduction to multi-objective optimisation you will\
+  \ learn about Pareto Fronts and how they can be used to optimise for multiple objectives.\
+  \ </p>\n<p>As a data driven decision maker you will learn the advantages and shortcomings\
+  \ of the technique and be able to assess applicability for your own projects.</p>"
 description: "<p>Optimising for multiple objectives is a non-trivial task, especially\
   \ when they are in conflict. For example, how can one best overcome the classic\
   \ trade-off between quality and cost of production, when the monetary value of quality\
