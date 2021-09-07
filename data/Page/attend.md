@@ -3,10 +3,21 @@ title: Attend
 order: 3
 ---
 
+# How to get PyConline
+
+To access the event, click the "Join Online Event" on your PyConline AU ticket. Look for an email subject "[PyConline AU 2021] Your order". Our event is hosted on "Venueless". 
+
+For the first time, we are able to offer live captioning for both our Saturday tracks. To access captions, click the "CC" button within Venueless. Please note that this is our first time with live captioning, so please let us know if this improved your experience of the event. 
+
+If you encounter issues accessing our platform, please email contact@pycon.org.au. If you experience issues once in our platform, please use the #support room.
+
+
+---
+
 
 # Attend PyConline AU!
 
-Tickets are now available for PyConline AU!
+Ticket will continue to be available for PyConline AU until the afternoon of Saturday. 
 
 **Need to order your 2021 conference gear?** Go to our [store](/shirt).
 
