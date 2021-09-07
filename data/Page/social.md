@@ -28,7 +28,9 @@ _Where_: Venueless and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microphone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
-_Capacity_: Up to 30 people can join
+_Capacity_: Up to 30 people
+
+_Hosts_: Peter Hall and Harshal
 
 
 
@@ -42,7 +44,7 @@ _Where_: Venueless
 
 _Requirements_: Camera and microphone
 
-_Capacity_: Up to 20 people can join
+_Capacity_: Up to 20 people
 
 _Host_: Thomas Chen
 
@@ -55,16 +57,34 @@ All attendees, speakers, volunteers and organisers welcomed to our virtual dinne
 
 _When_: 7pm-9pm  
 
-_Where_: Zoom meeting, to be announced in Venueless
+_Where_: Zoom meeting, to be announced in Venueless. 
 
-_Requirements_: A device with [Zoom](https://zoom.us/download) installed
+_Requirements_: A device with [Zoom](https://zoom.us/download) installed. Please note that web clients do _not_ support breakout rooms, so should be avoided. 
 
 _Capacity_: No limits! 
 
 _Host_: Cintia Del Rio
 
 
+
 ## Sunday
+
+### ⛰️ Staircase sprint ([docs](www.staircase.dev))
+
+Staircase sprint!
+
+No, not that sort of staircase and not that sort of sprint (thankfully).  Have you been wanting to contribute to an open source project?  This is an opportunity to be guided in contributions to staircase, a python package used for data analysis and designed to operate as part of the "pandas ecosystem".  A backlog has been put together for PyCon AU 2021, with contribution difficulties ranging from beginner to advanced.
+
+_When_: starting from 10:30am
+
+_Where_: Venueless
+
+_Requirements_: git installed (and basic knowledge of operation), Python 3.7 or higher, github account, working knowledge of [pandas](https://pandas.pydata.org/)
+
+_Capacity_: Up to 10 people
+
+_Host_:  Riley Clement
+
 
 ###  ⚡️ Lightning talks
 
@@ -84,6 +104,8 @@ _How to apply_:
   * Successful applicants will be notified by the end of Saturday. 
 
 _Capacity_: No limits on spectators!
+
+_Host_: Christopher Neugebauer
 
 
 
@@ -129,7 +151,9 @@ _Where_: Venueless and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
-_Capacity_: Up to 30 people can join
+_Capacity_: Up to 30 people 
+
+_Hosts_: Peter Hall and Harshal
 
 
 ### 🚗 MarioKart 8 Deluxe
@@ -137,7 +161,7 @@ _Capacity_: Up to 30 people can join
 Of course, MarioKart is back. 
 
 
-_When_: 2pm
+_When_: 2-3pm
 
 _Where_: Nintendo network
 
@@ -152,7 +176,7 @@ _Host_: Leigh Brenecki
 
 No party is good enough without a Mario Party. 
 
-_When_: 5pm
+_When_: 5-6pm
 
 _Where_: Nintendo network
 
