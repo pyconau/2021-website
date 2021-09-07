@@ -1,4 +1,4 @@
-import { DateTime } from "luxon"
+import { DateTime, DateTimeFormatOptions } from "luxon"
 
 const backstageBar = document.createElement("template")
 backstageBar.innerHTML = `
@@ -14,7 +14,7 @@ reltimeSpan.innerHTML = `
 </span>
 `
 
-const TIME_COMPACT = {
+const TIME_COMPACT: DateTimeFormatOptions = {
   weekday: "short",
   day: "2-digit",
   hour: "2-digit",
@@ -23,14 +23,14 @@ const TIME_COMPACT = {
   timeZoneName: "short",
   hour12: false,
 }
-const TIME_COMPACT_MEL = { ...TIME_COMPACT, timeZone: "Australia/Melbourne" }
-const TIME_HRMIN = {
+const TIME_COMPACT_MEL: DateTimeFormatOptions = { ...TIME_COMPACT, timeZone: "Australia/Melbourne" }
+const TIME_HRMIN: DateTimeFormatOptions = {
   hour: "2-digit",
   minute: "2-digit",
   timeZoneName: "short",
   hour12: false,
 }
-const TIME_HRMIN_MEL = { ...TIME_HRMIN, timeZone: "Australia/Melbourne" }
+const TIME_HRMIN_MEL: DateTimeFormatOptions = { ...TIME_HRMIN, timeZone: "Australia/Melbourne" }
 
 function clockTick(output: HTMLElement) {
   const now = DateTime.local()

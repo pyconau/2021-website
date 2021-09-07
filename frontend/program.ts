@@ -1,16 +1,16 @@
-import { DateTime, LocalZone, DateTimeFormatOptions } from "luxon"
+import { DateTime, DateTimeFormatOptions, SystemZone } from "luxon"
 
 const ZONE = "Australia/Melbourne"
 const TIME_ONLY: DateTimeFormatOptions = {
   hour: "numeric",
   minute: "numeric",
 }
-const TIME_ONLY_DIFF_DAY = { ...TIME_ONLY, weekday: "short" }
-const TIME_ONLY_TZ = { ...TIME_ONLY, timeZoneName: "short" }
-const TIME_ONLY_AEST = { ...TIME_ONLY, timeZone: "Australia/Melbourne" }
+const TIME_ONLY_DIFF_DAY: DateTimeFormatOptions = { ...TIME_ONLY, weekday: "short" }
+const TIME_ONLY_TZ: DateTimeFormatOptions = { ...TIME_ONLY, timeZoneName: "short" }
+const TIME_ONLY_AEST = { ...TIME_ONLY, timeZone: ZONE }
 
-const HOUR_MARKER = { hour: "numeric" }
-const HOUR_MARKER_DIFF_DAY = { ...HOUR_MARKER, weekday: "short" }
+const HOUR_MARKER: DateTimeFormatOptions = { hour: "numeric" }
+const HOUR_MARKER_DIFF_DAY: DateTimeFormatOptions = { ...HOUR_MARKER, weekday: "short" }
 
 export default function scheduleInit(schedule: HTMLElement) {
   // Show local times on all time markers
@@ -81,7 +81,7 @@ export default function scheduleInit(schedule: HTMLElement) {
   schedule.appendChild(acstLabel)
   const localLabel = document.createElement("s-tz-header")
   localLabel.classList.add("local")
-  localLabel.innerText = new LocalZone().offsetName(hour.toMillis(), {
+  localLabel.innerText = SystemZone.instance.offsetName(hour.toMillis(), {
     format: "short",
   })
   schedule.appendChild(localLabel)
