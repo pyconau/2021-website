@@ -12,6 +12,10 @@
   <table>
     <tbody>
       <tr>
+        <th>Session Type</th>
+        <td>{% if session.type == "L" %}Live{% elif session.type== "P"%}Pre-Recorded{%else%}session.type{%endif%}</td>
+      </tr>
+      <tr>
         <th>Start time</th>
         <td
           data-reltime="{{ session.start.strftime('%Y-%m-%dT%H:%M:%S') }}+09:30"
