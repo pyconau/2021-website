@@ -5,7 +5,11 @@ import program from "./program"
 Settings.defaultLocale = "en-AU"
 
 function onload() {
-  backstage()
+  try {
+    backstage()
+  } catch (ex) {
+    console.warn("backstage error:", ex)
+  }
   const programEl = document.querySelector("s-schedule")
   if (programEl) program(programEl)
   document.querySelectorAll("time").forEach((t) => {
