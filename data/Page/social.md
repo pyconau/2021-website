@@ -90,7 +90,7 @@ _Host_:  Riley Clement
 
 Yes, they are back this year! Submissions will happen until Saturday, so make sure to submit your ideas! 
 
-_When_: 11am-12:30pm
+_When_: 11am-12:30pm ([See Program](https://2021.pycon.org.au/program/83xwjw/))
 
 _Where_: Venueless
 
@@ -105,7 +105,7 @@ _How to apply_:
 
 _Capacity_: No limits on spectators!
 
-_Host_: Christopher Neugebauer
+_Host_: Christopher Neugebauer and Libby Berrie
 
 
 
