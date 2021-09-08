@@ -1,12 +1,15 @@
-title: Lightning talks (placeholder)
+title: Lightning talks
 start: 2021-09-12 11:00:00+10:00
 end: 2021-09-12 12:30:00+10:00
 room: 1
 track:
 type: L
-abstract: <p>Details TBD</p>
-description: <p>Details TBD</p>
+abstract: <p>The well-loved PyCon AU Lightning talks is back!</p>
+description: <p>Submission details coming, but look forward to seeing many short talks
+  from many speakers!</p>
 code: 83XWJW
-speakers: []
+speakers:
+- QWCHX7
+- EAPYVY
 cw:
 youtube_slug:
