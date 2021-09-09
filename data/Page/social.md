@@ -90,6 +90,7 @@ _Capacity_: Up to 10 people
 _Host_:  Riley Clement
 
 
+<a name="lightning-talks"></a>
 ###  ⚡️ Lightning talks
 
 Yes, they are back this year! Submissions will happen until Saturday, so make sure to submit your ideas! 
@@ -98,13 +99,11 @@ _When_: 11am-12:30pm ([See Program](https://2021.pycon.org.au/program/83xwjw/))
 
 _Where_: Venueless
 
-_Requirements_: 
-  * Lightning talks proposals can be submitted by any ticket-holding attendee.
-  * Talks are 5 minutes, can be on any topic, and must abide by the code of conduct. 
-  * No job advertisements or sales pitches, please. 
-  
 _How to apply_:
-  * Form will be listed here in the days leading up to the event. 
+
+  ⚡️ **[Submit your lightning talks here](https://forms.gle/TEXGB3MiyNsoTpHj7)** ⚡️ 
+
+  * Additional details and requirements are detailed on the form
   * Successful applicants will be notified by the end of Saturday. 
 
 _Capacity_: No limits on spectators!

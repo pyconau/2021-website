@@ -1,3 +1,5 @@
 # Sunday
 
-Go to our [social](/social) events!
+Our sunday is dedicated to [social](/social) events!
+
+We also have our [traditional lightning talks](/social#lightning-talks)!
