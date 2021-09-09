@@ -197,4 +197,4 @@ _Host_: Leigh Brenecki
 
 There will be _hallway_ video chat rooms in venueless available throughout the whole conference, make sure to check it out. 
 
-If you are keen on hosting online games, there will be plenty of opportunities during breaks or on Sunday. If you want a new chat room for your event or book a video chat, drop a message to  **#Social events** channel and we can arrange it. 
+If you are keen on hosting online games, there will be plenty of opportunities during breaks or on Sunday. If you want a new chat room or book a video chat, drop a message to  **#Social events** channel and we can arrange it. 
