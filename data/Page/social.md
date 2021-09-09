@@ -24,7 +24,7 @@ Bring your absolutely best voice and a microphone and let’s sing away our hear
 
 _When_: 7pm-8:30pm  
 
-_Where_: Venueless and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (**Social event video chat [1]** room) and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microphone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
@@ -34,13 +34,14 @@ _Hosts_: Peter Hall and Harshal
 
 
 
+
 ### 🍣 Dinner-side chat about machine learning 
 
 Wanna chat about machine learning while enjoying your dinner? Say no more. 
 
 _When_: 7pm-9pm  
 
-_Where_: Venueless
+_Where_: Venueless (**Social event video chat [2]** room)
 
 _Requirements_: Camera and microphone
 
@@ -57,11 +58,11 @@ All attendees, speakers, volunteers and organisers welcomed to our virtual dinne
 
 _When_: 7pm-9pm  
 
-_Where_: Zoom meeting, to be announced in Venueless. 
+_Where_: Zoom meeting, to be announced in Venueless (channel **#Social events**). 
 
 _Requirements_: A device with [Zoom](https://zoom.us/download) installed. Please note that web clients do _not_ support breakout rooms, so should be avoided. 
 
-_Capacity_: No limits! 
+_Capacity_: Up to 500 people can join
 
 _Host_: Cintia Del Rio
 
@@ -81,7 +82,7 @@ No, not that sort of staircase and not that sort of sprint (thankfully).  Have y
 
 _When_: starting from 10:30am
 
-_Where_: Venueless
+_Where_: Venueless (channel to be announced in **#Social events**)
 
 _Requirements_: git installed (and basic knowledge of operation), Python 3.7 or higher, github account, working knowledge of [pandas](https://pandas.pydata.org/)
 
@@ -120,11 +121,11 @@ No preparation nor previous experience needed.
 
 _When_: 9am-12pm for morning session, 1pm-5pm for afternoon session
 
-_Where_: [FoundryVTT](https://foundryvtt.com/), details to be shared later
+_Where_: [FoundryVTT](https://foundryvtt.com/), detailed instructions will be sent to selected people
 
 _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
-_Capacity_: 6 per session; expression of interest will be available in Venueless
+_Capacity_: 6 per session; register your expression of interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdmGlRUZgeeJ1W9W5SZmHB4p9tEueqZOOStUwR0Ruw6Nf_uWw/viewform)
 
 _Host_: Henry Walshaw
 
@@ -135,11 +136,13 @@ Ancient warfare is your thing? Buckle up then!
 
 _When_: 3-5pm 
 
-_Where_: Venueless and [0 A.D.](https://play0ad.com/)
+_Where_: Venueless (channel to be announced in **#Social events**) and [0 A.D.](https://play0ad.com/)
 
 _Requirements_: A device with 0 A.D. game installed (check [game requirements](https://play0ad.com/download/))
 
-_Capacity_: 5 players
+_Capacity_: Up to 8 players
+
+_Host_: Joshua Hesketh
 
 
 ### 🎤 Family-friendly karaoke
@@ -150,7 +153,7 @@ Bring your absolutely best voice and a microphone and let’s sing away our hear
 
 _When_: 3:30pm-5pm  
 
-_Where_: Venueless and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (**Social event video chat [1]** room) and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
@@ -166,7 +169,7 @@ Of course, MarioKart is back.
 
 _When_: 2-3pm
 
-_Where_: Nintendo network
+_Where_: Nintendo network; instructions to be shared in Venueless channel **#Social events**
 
 _Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Kart 8 Deluxe game (2 players in the same room can share a console)
 
@@ -181,7 +184,7 @@ No party is good enough without a Mario Party.
 
 _When_: 5-6pm
 
-_Where_: Nintendo network
+_Where_: Nintendo network; instructions to be shared in Venueless channel **#Social events**
 
 _Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Party game
 
@@ -194,6 +197,4 @@ _Host_: Leigh Brenecki
 
 There will be _hallway_ video chat rooms in venueless available throughout the whole conference, make sure to check it out. 
 
-If you are keen on hosting online games, there will be plenty of opportunities during breaks or on Sunday. Instructions will be available the week before the conference. 
-
-Do you have anything you’d be interested in hosting that isn’t listed here? Get in contact with us [via email](mailto:contact@pycon.org.au), and we can try to get it on our program. 
+If you are keen on hosting online games, there will be plenty of opportunities during breaks or on Sunday. If you want a new chat room for your event or interest group, or book a video chat, drop a message to  **#Social events** channel and we can arrange that. 
