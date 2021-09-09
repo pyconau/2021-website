@@ -24,7 +24,7 @@ Bring your absolutely best voice and a microphone and let’s sing away our hear
 
 _When_: 7pm-8:30pm  
 
-_Where_: Venueless (**Social event video chat [1]** channel) and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (_# Social event video chat [1]_ channel) and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microphone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
@@ -41,7 +41,7 @@ Wanna chat about machine learning while enjoying your dinner? Say no more.
 
 _When_: 7pm-9pm  
 
-_Where_: Venueless (**Social event video chat [2]** channel)
+_Where_: Venueless (_# Social event video chat [2]_ channel)
 
 _Requirements_: Camera and microphone
 
@@ -58,9 +58,9 @@ All attendees, speakers, volunteers and organisers welcomed to our virtual dinne
 
 _When_: 7pm-9pm  
 
-_Where_: Zoom meeting, to be announced in Venueless (channel **#Social events**). 
+_Where_: Zoom meeting, to be announced in Venueless (channel _#Social events_). 
 
-_Requirements_: A device with [Zoom](https://zoom.us/download) installed. Please note that web clients do _not_ support breakout rooms, so should be avoided. 
+_Requirements_: A device with [Zoom](https://zoom.us/download) installed. Please note that web clients do **not** support breakout rooms, so cannot be used. 
 
 _Capacity_: Up to 500 people can join
 
@@ -76,13 +76,13 @@ Staircase sprint!
 
 No, not that sort of staircase and not that sort of sprint (thankfully).  Have you been wanting to contribute to an open source project?  This is an opportunity to be guided in contributions to staircase, a python package used for data analysis and designed to operate as part of the "pandas ecosystem".  A backlog has been put together for PyCon AU 2021, with contribution difficulties ranging from beginner to advanced.
 
-* Documentation https://www.staircase.dev
-* Repository https://github.com/staircase-dev/staircase
-* Discussion page (github) https://github.com/venaturum/PyConAu2021-staircase/discussions
+* Documentation <https://www.staircase.dev>
+* Repository <https://github.com/staircase-dev/staircase>
+* Discussion page (github) <https://github.com/venaturum/PyConAu2021-staircase/discussions>
 
 _When_: starting from 10:30am
 
-_Where_: Venueless (channel to be announced in **#Social events**)
+_Where_: Venueless (channel to be announced in _#Social events_)
 
 _Requirements_: git installed (and basic knowledge of operation), Python 3.7 or higher, github account, working knowledge of [pandas](https://pandas.pydata.org/)
 
@@ -98,7 +98,7 @@ Yes, they are back this year! Submissions will happen until Saturday, so make su
 
 _When_: 11am-12:30pm ([See Program](https://2021.pycon.org.au/program/83xwjw/))
 
-_Where_: Venueless
+_Where_: Venueless (Stage)
 
 _How to apply_:
 
@@ -136,7 +136,7 @@ Ancient warfare is your thing? Buckle up then!
 
 _When_: 3-5pm 
 
-_Where_: Venueless (channel to be announced in **#Social events**) and [0 A.D.](https://play0ad.com/)
+_Where_: Venueless (channel to be announced in _#Social events_) and [0 A.D.](https://play0ad.com/)
 
 _Requirements_: A device with 0 A.D. game installed (check [game requirements](https://play0ad.com/download/))
 
@@ -153,7 +153,7 @@ Bring your absolutely best voice and a microphone and let’s sing away our hear
 
 _When_: 3:30pm-5pm  
 
-_Where_: Venueless (**Social event video chat [1]** channel) and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (_# Social event video chat [1]_ channel) and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
@@ -169,7 +169,7 @@ Of course, MarioKart is back.
 
 _When_: 2-3pm
 
-_Where_: Nintendo network; instructions to be shared in Venueless channel **#Social events**
+_Where_: Nintendo network; instructions to be shared in Venueless channel _#Social events_
 
 _Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Kart 8 Deluxe game (2 players in the same room can share a console)
 
@@ -184,7 +184,7 @@ No party is good enough without a Mario Party.
 
 _When_: 5-6pm
 
-_Where_: Nintendo network; instructions to be shared in Venueless channel **#Social events**
+_Where_: Nintendo network; instructions to be shared in Venueless channel _#Social events_
 
 _Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Party game
 
@@ -197,4 +197,4 @@ _Host_: Leigh Brenecki
 
 There will be two _hallway_ video chat channels in venueless available throughout the whole conference. Make sure to check them out, it's a great opportunity to hang out and chat and meet amazing new people from our community. 
 
-If you'd like to host a games or organise any social events, there will plenty of time during breaks or on Sunday. If you'd like to [book a video chat](https://docs.google.com/spreadsheets/d/16wtjRBV63Lxzy2p1JqnU0D-qQcqPmRlG2G973d4dQwA/edit#gid=0) or you'd like a new text channel, your drop a message to **#Social events** channel and we can respond to that. 
+If you'd like to host a games or organise any social events, there will plenty of time during breaks or on Sunday. If you'd like to [book a video chat](https://docs.google.com/spreadsheets/d/16wtjRBV63Lxzy2p1JqnU0D-qQcqPmRlG2G973d4dQwA/edit#gid=0) or you'd like a new text channel, your drop a message to _#Social events_ channel and we can respond to that. 
