@@ -24,7 +24,7 @@ Bring your absolutely best voice and a microphone and let’s sing away our hear
 
 _When_: 7pm-8:30pm  
 
-_Where_: Venueless (**Social event video chat [1]** room) and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (**Social event video chat [1]** channel) and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microphone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
@@ -41,7 +41,7 @@ Wanna chat about machine learning while enjoying your dinner? Say no more.
 
 _When_: 7pm-9pm  
 
-_Where_: Venueless (**Social event video chat [2]** room)
+_Where_: Venueless (**Social event video chat [2]** channel)
 
 _Requirements_: Camera and microphone
 
@@ -153,7 +153,7 @@ Bring your absolutely best voice and a microphone and let’s sing away our hear
 
 _When_: 3:30pm-5pm  
 
-_Where_: Venueless (**Social event video chat [1]** room) and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (**Social event video chat [1]** channel) and [Watch2Gether](https://w2g.tv)
 
 _Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
