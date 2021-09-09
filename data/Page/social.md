@@ -125,7 +125,7 @@ _Where_: [FoundryVTT](https://foundryvtt.com/), detailed instructions will be se
 
 _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
-_Capacity_: 6 per session; register your expression of interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdmGlRUZgeeJ1W9W5SZmHB4p9tEueqZOOStUwR0Ruw6Nf_uWw/viewform)
+_Capacity_: 6 per session; register your expression of interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdmGlRUZgeeJ1W9W5SZmHB4p9tEueqZOOStUwR0Ruw6Nf_uWw/viewform). Six people will be randomly selected per session, and they will be notified by Saturday 6pm via venueless and email. 
 
 _Host_: Henry Walshaw
 
@@ -136,7 +136,7 @@ Ancient warfare is your thing? Buckle up then!
 
 _When_: 3-5pm 
 
-_Where_: Venueless (channel to be announced in _#Social events_) and [0 A.D.](https://play0ad.com/)
+_Where_: Venueless (_# Social event video chat [2]_ channel) and [0 A.D.](https://play0ad.com/)
 
 _Requirements_: A device with 0 A.D. game installed (check [game requirements](https://play0ad.com/download/))
 
