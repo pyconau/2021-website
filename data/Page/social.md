@@ -101,7 +101,7 @@ _Where_: Venueless
 
 _How to apply_:
 
-  ⚡️ **[Submit your lightning talks here](https://forms.gle/TEXGB3MiyNsoTpHj7)** ⚡️ 
+  ⚡️ <a href="https://forms.gle/TEXGB3MiyNsoTpHj7" target="_blank">**Submit your lightning talks here**</a> ⚡️ 
 
   * Additional details and requirements are detailed on the form
   * Successful applicants will be notified by the end of Saturday. 
