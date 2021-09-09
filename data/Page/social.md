@@ -195,6 +195,6 @@ _Host_: Leigh Brenecki
 
 ## More social!
 
-There will be two _hallway_ video chat channels in venueless available throughout the whole conference. Make sure to check them out, it's a great opportunity to hang out and chat and meet amazing new people from our community. 
+There will be two _hallway_ video chat channels and one text channel in venueless available throughout the whole conference. Make sure to check them out, it's a great opportunity to hang out and chat and meet amazing new people from our community. 
 
 If you'd like to host a games or organise any social events, there will plenty of time during breaks or on Sunday. If you'd like to [book a video chat](https://docs.google.com/spreadsheets/d/16wtjRBV63Lxzy2p1JqnU0D-qQcqPmRlG2G973d4dQwA/edit#gid=0) or you'd like a new text channel, drop a message to _#Social events_ channel. 
