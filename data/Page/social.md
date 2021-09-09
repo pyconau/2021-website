@@ -69,11 +69,15 @@ _Host_: Cintia Del Rio
 
 ## Sunday
 
-### ⛰️ Staircase sprint ([docs](www.staircase.dev))
+### ⛰️ Staircase sprint ([docs](https://www.staircase.dev))
 
 Staircase sprint!
 
 No, not that sort of staircase and not that sort of sprint (thankfully).  Have you been wanting to contribute to an open source project?  This is an opportunity to be guided in contributions to staircase, a python package used for data analysis and designed to operate as part of the "pandas ecosystem".  A backlog has been put together for PyCon AU 2021, with contribution difficulties ranging from beginner to advanced.
+
+* Documentation https://www.staircase.dev
+* Repository https://github.com/staircase-dev/staircase
+* Discussion page (github) https://github.com/venaturum/PyConAu2021-staircase/discussions
 
 _When_: starting from 10:30am
 
