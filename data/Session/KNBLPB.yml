@@ -3,7 +3,7 @@ start: 2021-09-10 16:15:00+10:00
 end: 2021-09-10 17:30:00+10:00
 room: 3
 track: education
-type: L
+type: P
 abstract: <p>Join us for 6 fantastic short talks from high school students! You'll
   learn about Renewable Hearing, Kookaberry apps, 3D Games with Pygame, AI on the
   Twitter Timeline, Python metaprogramming through bytecode, and Deblurring with Deep
