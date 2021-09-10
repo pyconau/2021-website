@@ -34,6 +34,12 @@ The may include, but are not limited to:
 
 2021's conference logo on our [shirts](/shirt) is based on the Python Packaging Platypus, as seen on [https://monotreme.club](https://monotreme.club/#/). Our artist is [Tania Walker](https://taniawalker.com/)
 
+### "I have a question"
+
+"I HAVE A QUESTION" is a meme started at Kiwi PyCon, in an era where audience interactions were trying to be kindly directed to asking questions of speakers, and not statements. This started a meme of starting questions with "I have a question", and actually asking a question. This also spawned anonymous quoting of people who did not ask questions with "I have a question. (statement). I have no question.")
+
+PyCon AU appreciates this effort, and kindly asks that all questions to questions are in the form of a question, and not to use questions as statements. You are free to make comments in the chat, and interact with speakers, but questions to speakers as part of talks should be in the form of a question. 
+
 ### Snakeoil Academy
 
 <a name="snakeoil-academy"></a>
