@@ -115,6 +115,7 @@ _Host_: Christopher Neugebauer and Libby Berrie
 
 
 
+<a name="rpg"></a>
 ### 🎲 RPG one-shots ([Little Trouble in Big Absalom](https://paizo.com/products/btq024ys))
 
 Two sessions will be available on Sunday, each one for 6 people and lasting around 3.5h. Expression of interest will be available by Friday, and participants selected by Saturday. 
