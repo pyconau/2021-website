@@ -4,22 +4,23 @@ end: 2021-09-10 17:30:00+10:00
 room: 2
 track: devoops
 type: P
-abstract: "<p>'Add this one line of code to your website to avoid being sued!'</p>\n\
-  <p>If you think that that statement sounds like a particularly obnoxious ad, or\
-  \ that it must be too good to be true, you're not alone.  However, over the past\
-  \ several years, a number of companies popped up with products which claimed to\
-  \ do just that.  Their solutions were marketed as a quick and easy way to satisfy\
-  \ legislative requirements, and best of all, ensure that your website would be accessible\
-  \ to anyone, anywhere.</p>\n<p>And then the lawsuits started.</p>\n<p>Welcome to\
-  \ the world of accessibility overlays. According to their creators, they're plug-and-play\
-  \ software which remediates accessibility issues on your website, bringing you into\
-  \ compliance with the Web Content Accessibility Guidelines and disability access\
-  \ laws instantly.  However, if you ask the disabled people who should be reaping\
-  \ the benefits, the answer seems paradoxical: accessibility overlays actually make\
-  \ websites <em>less</em> usable for them.</p>\n<p>Why is that?  And how did we get\
-  \ to a point where the most prominently advertised solutions for software accessibility\
-  \ make the problem worse?  Let's examine this cautionary tale, and find out what\
-  \ it can teach us about both accessibility and the principles of good design.</p>"
+abstract: "<p>Sources: https://github.com/lisushka/overlays</p>\n<p>'Add this one\
+  \ line of code to your website to avoid being sued!'</p>\n<p>If you think that that\
+  \ statement sounds like a particularly obnoxious ad, or that it must be too good\
+  \ to be true, you're not alone.  However, over the past several years, a number\
+  \ of companies popped up with products which claimed to do just that.  Their solutions\
+  \ were marketed as a quick and easy way to satisfy legislative requirements, and\
+  \ best of all, ensure that your website would be accessible to anyone, anywhere.</p>\n\
+  <p>And then the lawsuits started.</p>\n<p>Welcome to the world of accessibility\
+  \ overlays. According to their creators, they're plug-and-play software which remediates\
+  \ accessibility issues on your website, bringing you into compliance with the Web\
+  \ Content Accessibility Guidelines and disability access laws instantly.  However,\
+  \ if you ask the disabled people who should be reaping the benefits, the answer\
+  \ seems paradoxical: accessibility overlays actually make websites <em>less</em>\
+  \ usable for them.</p>\n<p>Why is that?  And how did we get to a point where the\
+  \ most prominently advertised solutions for software accessibility make the problem\
+  \ worse?  Let's examine this cautionary tale, and find out what it can teach us\
+  \ about both accessibility and the principles of good design.</p>"
 description: "<p>In 2010, Donna Jodhan won her case against the Canadian government\
   \ for failing to make their government jobs website accessible to blind people.\
   \  Five years later, Coles settled a lawsuit brought by Gisele Mesnage, a screen\
