@@ -3,6 +3,9 @@ title: Attend
 order: 3
 ---
 
+Quick links: [shirts](/shirt), [culture](/culture), [social](/social). 
+
+
 # How to get PyConline
 
 To access the event, click the "Join Online Event" on your PyConline AU ticket. Look for an email subject "[PyConline AU 2021] Your order". Our event is hosted on "Venueless". 

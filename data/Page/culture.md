@@ -30,6 +30,10 @@ If you're new to Python or PyCon AU, here's some things we will probably mention
 
 The may include, but are not limited to:
 
+### Platypus
+
+2021's conference logo on our [shirts](/shirt) is based on the Python Packaging Platypus, as seen on [https://monotreme.club](https://monotreme.club/#/). Our artist is [Tania Walker](https://taniawalker.com/)
+
 ### Snakeoil Academy
 
 <a name="snakeoil-academy"></a>
