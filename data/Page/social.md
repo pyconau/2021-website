@@ -50,6 +50,7 @@ _Capacity_: Up to 20 people
 _Host_: Thomas Chen
 
 
+<a name="saturday"></a>
 ## Saturday evening
 
 ### 🥙 Dinner with PyFriends
@@ -68,6 +69,7 @@ _Host_: Cintia Del Rio
 
 
 
+<a name="sunday"></a>
 ## Sunday
 
 ### ⛰️ Staircase sprint ([docs](https://www.staircase.dev))
@@ -94,7 +96,7 @@ _Host_:  Riley Clement
 <a name="lightning-talks"></a>
 ###  ⚡️ Lightning talks
 
-Yes, they are back this year! Submissions will happen until Saturday, so make sure to submit your ideas! 
+Yes, they are back this year! Submissions will happen until Saturday 1pm, so make sure to submit your ideas! 
 
 _When_: 11am-12:30pm ([See Program](https://2021.pycon.org.au/program/83xwjw/))
 
@@ -113,6 +115,7 @@ _Host_: Christopher Neugebauer and Libby Berrie
 
 
 
+<a name="rpg"></a>
 ### 🎲 RPG one-shots ([Little Trouble in Big Absalom](https://paizo.com/products/btq024ys))
 
 Two sessions will be available on Sunday, each one for 6 people and lasting around 3.5h. Expression of interest will be available by Friday, and participants selected by Saturday. 
@@ -125,7 +128,7 @@ _Where_: [FoundryVTT](https://foundryvtt.com/), detailed instructions will be se
 
 _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
-_Capacity_: 6 per session; register your expression of interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdmGlRUZgeeJ1W9W5SZmHB4p9tEueqZOOStUwR0Ruw6Nf_uWw/viewform). Six people will be randomly selected per session, and they will be notified by Saturday 6pm via venueless and email. 
+_Capacity_: 6 per session; register your expression of interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdmGlRUZgeeJ1W9W5SZmHB4p9tEueqZOOStUwR0Ruw6Nf_uWw/viewform) Saturday until 5pm. Six people will be randomly selected per session, and they will be notified by Saturday 6pm via venueless and email. 
 
 _Host_: Henry Walshaw
 
@@ -150,14 +153,15 @@ _Host_: Joshua Hesketh
 Got some kids to entertain at home? Fear no more. Yes, we will sing Let It Go until the neighbours complain. 
 
 Bring your absolutely best voice and a microphone and let’s sing away our hearts!
+Yes, bring your musical instrument, that's the best thing I've seen in karaokes. 
 
 _When_: 3:30pm-5pm  
 
-_Where_: Venueless (_# Social event video chat [1]_ channel) and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (_# Social event video chat [1]_ channel) and [Watch2Gether](https://w2g.tv). Send your song requests in advance via this [form](https://docs.google.com/forms/d/e/1FAIpQLSfCaj6peB2NuIgzrQ9n6u-6kWhTiC_1uvTpN10jTyiWZSjQ8Q/viewform)
 
 _Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
-_Capacity_: Up to 30 people 
+_Capacity_: Up to 20 people 
 
 _Hosts_: Peter Hall and Harshal
 
