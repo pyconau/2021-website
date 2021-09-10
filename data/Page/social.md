@@ -157,7 +157,7 @@ Yes, bring your musical instrument, that's the best thing I've seen in karaokes.
 
 _When_: 3:30pm-5pm  
 
-_Where_: Venueless (_# Social event video chat [1]_ channel) and [Watch2Gether](https://w2g.tv)
+_Where_: Venueless (_# Social event video chat [1]_ channel) and [Watch2Gether](https://w2g.tv). Send your song requests in advance via this [form](https://docs.google.com/forms/d/e/1FAIpQLSfCaj6peB2NuIgzrQ9n6u-6kWhTiC_1uvTpN10jTyiWZSjQ8Q/viewform)
 
 _Requirements_: Camera and microfone, browser with access to youtube and [Watch2Gether](https://w2g.tv)
 
