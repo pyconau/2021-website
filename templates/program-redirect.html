@@ -3,9 +3,9 @@
     <head>
         <script type="text/javascript">
         const now = new Date().getTime();
-        if (1631282400000 < now && now < 1631368800)
+        if (Number(Date.parse('10 Sep 2021 16:00:00 GMT')) < now && now < Number(Date.parse('11 Sep 2021 16:00:00 GMT')))
             window.location = '/program/sat/'
-        else if (1631368800 < now && now < 1631455200000)
+        else if (Number(Date.parse('11 Sep 2021 16:00:00 GMT')) < now && now < Number(Date.parse('12 Sep 2021 16:00:00 GMT')))
             window.location = '/program/sun/'
         else
             window.location = '/program/fri/'
