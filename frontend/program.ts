@@ -1,4 +1,4 @@
-import { DateTime, DateTimeFormatOptions, SystemZone } from "luxon"
+import { DateTime, DateTimeFormatOptions } from "luxon"
 
 const ZONE = "Australia/Melbourne"
 const TIME_ONLY: DateTimeFormatOptions = {
@@ -81,9 +81,7 @@ export default function scheduleInit(schedule: HTMLElement) {
   schedule.appendChild(acstLabel)
   const localLabel = document.createElement("s-tz-header")
   localLabel.classList.add("local")
-  localLabel.innerText = SystemZone.instance.offsetName(hour.toMillis(), {
-    format: "short",
-  })
+  localLabel.innerText = DateTime.local().offsetNameShort;
   schedule.appendChild(localLabel)
 
   // now marker
