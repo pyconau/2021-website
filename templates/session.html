@@ -18,7 +18,7 @@
       <tr>
         <th>Start time</th>
         <td
-          data-reltime="{{ session.start.strftime('%Y-%m-%dT%H:%M:%S') }}+09:30"
+          data-reltime="{{ session.start.strftime('%Y-%m-%dT%H:%M:%S') }}+10:00"
         >
           {{ session.start.strftime('%H:%M') }}
         </td>
@@ -26,7 +26,7 @@
       <tr>
         <th>End time</th>
         <td
-          data-reltime="{{ session.end.strftime('%Y-%m-%dT%H:%M:%S') }}+09:30"
+          data-reltime="{{ session.end.strftime('%Y-%m-%dT%H:%M:%S') }}+10:00"
         >
           {{ session.end.strftime('%H:%M') }}
         </td>
@@ -35,7 +35,7 @@
         <th>Countdown link</th>
         <td>
           <a
-            href="https://nextdayvideo.com/tools/countdown-widget/?t={{ session.end.strftime('%Y-%m-%dT%H:%M:%S') }}+09:30&r=0:5:0-1/0:2:0-1/0:1:0-1/0:10:0-1/"
+            href="https://nextdayvideo.com/tools/countdown-widget/?t={{ session.end.strftime('%Y-%m-%dT%H:%M:%S') }}+10:00&r=0:5:0-1/0:2:0-1/0:1:0-1/0:10:0-1/"
           >
             Open timer
           </a>
