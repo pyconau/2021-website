@@ -102,13 +102,6 @@ _When_: 11am-12:30pm ([See Program](https://2021.pycon.org.au/program/83xwjw/))
 
 _Where_: Venueless (Stage)
 
-_How to apply_:
-
-  ⚡️ <a href="https://forms.gle/TEXGB3MiyNsoTpHj7" target="_blank">**Submit your lightning talks here**</a> ⚡️ 
-
-  * Additional details and requirements are detailed on the form
-  * Successful applicants will be notified by the end of Saturday. 
-
 _Capacity_: No limits on spectators!
 
 _Host_: Christopher Neugebauer and Libby Berrie
@@ -128,7 +121,7 @@ _Where_: [FoundryVTT](https://foundryvtt.com/), detailed instructions will be se
 
 _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
-_Capacity_: 6 per session; register your expression of interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdmGlRUZgeeJ1W9W5SZmHB4p9tEueqZOOStUwR0Ruw6Nf_uWw/viewform) Saturday until 5pm. Six people will be randomly selected per session, and they will be notified by Saturday 6pm via venueless and email. 
+_Capacity_: 6 per session; register your expression of interest by Saturday 5pm. Six people will be randomly selected per session, and they will be notified by Saturday 6pm via venueless and email. 
 
 _Host_: Henry Walshaw
 
