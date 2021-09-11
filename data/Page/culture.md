@@ -57,6 +57,12 @@ curlyboi is our multicoloured snake graphic, lovingly designed by [Tania Walker]
 
 'snek' is a cute name for a snake, as seen in many snek-based memes ([example](https://raw.githubusercontent.com/glasnt/talks/gh-pages/2017_05_PyConUS_Snek/pictures/snek.png)).
 
+### maneki-neko
+
+In live in-person events, the AV team commonly places a [maneki-neko](https://en.wikipedia.org/wiki/Maneki-neko) (sometimes known as 'lucky cats' or 'waving cats') on a podium to check that the camera feed is working when a human is not standing at the podium.
+
+This caught the attention of a number of speakers and attendees in particular at linux.conf.au 2018, with people mimicking the arm movement of the maneki-neko.
+
 ### Lightning talk references
 
 The lightning talks from 2018 and 2019 yielded many amazing talks that fed into each other during the event. Some notable references:
