@@ -84,7 +84,7 @@ No, not that sort of staircase and not that sort of sprint (thankfully).  Have y
 
 _When_: starting from 10:30am
 
-_Where_: Venueless (channel to be announced in _#Social events_)
+_Where_: Venueless (channel _#Starcase Dev Sprint_)
 
 _Requirements_: git installed (and basic knowledge of operation), Python 3.7 or higher, github account, working knowledge of [pandas](https://pandas.pydata.org/)
 
@@ -100,7 +100,7 @@ Yes, they are back this year! Submissions will happen until Saturday 1pm, so mak
 
 _When_: 11am-12:30pm ([See Program](https://2021.pycon.org.au/program/83xwjw/))
 
-_Where_: Venueless (Stage)
+_Where_: Venueless (Stage _Lightning Talks_)
 
 _Capacity_: No limits on spectators!
 
