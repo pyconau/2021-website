@@ -89,9 +89,10 @@ format_answer = {
 seen_speakers = set()
 
 # Uncomment when URL setup
-
+youtube_slugs = {}
+"""
 yt_resp = requests.get(
-    "https://portal.nextdayvideo.com.au/main/C/pyconau/S/pyconau_2021.json"
+    "https://veyepar.nextdayvideo.com/main/C/pyconau/S/pyconau_2021.json"
 )
 yt_resp.raise_for_status()
 youtube_slugs = {
@@ -99,7 +100,7 @@ youtube_slugs = {
     for x in yt_resp.json()
     if x["host_url"] is not None
 }
-
+""" 
 
 for entry in os.listdir("data/Session/"):
     os.unlink(f"data/Session/{entry}")
