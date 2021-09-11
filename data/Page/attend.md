@@ -3,26 +3,30 @@ title: Attend
 order: 3
 ---
 
-Quick links: [shirts](/shirt), [culture](/culture), [social](/social). 
+# Thank you for attending PyConline AU 2021!
+
+If you'd like to hear more about PyCon AU 2022 as it's announced, you can <a href="https://twitter.com/PyConAU">follow us on Twitter</a>, or sign up to the mailing list:
+
+<form method='post' action='https://lists.linux.org.au/mailman/subscribe/pycon-au-announce' class='mailing-list-signup-form'>
+    <input type='email' name='email' required placeholder='snek@example.com'>
+    <button type='submit'>
+        Sign up
+    </button>
+</form>
 
 
-# How to get PyConline
-
-To access the event, click the "Join Online Event" on your PyConline AU ticket. Look for an email subject "[PyConline AU 2021] Your order". Our event is hosted on "Venueless". 
-
-For the first time, we are able to offer live captioning for both our Saturday tracks. To access captions, click the "CC" button within Venueless. Please note that this is our first time with live captioning, so please let us know if this improved your experience of the event. 
-
-If you encounter issues accessing our platform, please email contact@pycon.org.au. If you experience issues once in our platform, please use the #support room.
 
 
 ---
 
+*The following is information about how attendance worked in 2021*
+
+
+Quick links for 2021: [shirts](/shirt), [culture](/culture), [social](/social). 
+
 
 # Attend PyConline AU!
 
-Ticket will continue to be available for PyConline AU until the afternoon of Saturday. 
-
-**Need to order your 2021 conference gear?** Go to our [store](/shirt).
 
 As with previous years, we have several types of tickets priced at different levels:
 
@@ -31,11 +35,7 @@ As with previous years, we have several types of tickets priced at different lev
 - **Enthusiast** tickets is your ‘general admission’ ticket to the conference, regardless of your python proficiency.
 - **Student** tickets are available for anyone enrolled in full or part-time  educational courses at any level. (Where possible, please register using your Australian education institution email address).
 
-<p class='center-content'>
-	<a href='https://pretix.eu/pyconau/online2021/' class='btn btn-center btn-chonk'>
-		Get your tickets 'ere!
-	</a>
-</p>
+*You would have got your tickets [here](https://pretix.eu/pyconau/online2021/)*
 
 Like last year, our event will be hosted on the [Venueless](https://venueless.org/en/) platform, allowing for multiple streaming tracks, text channels, video rooms and more. Your link to Venueless will be on your digital ticket.
 
