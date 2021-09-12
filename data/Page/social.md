@@ -84,7 +84,7 @@ No, not that sort of staircase and not that sort of sprint (thankfully).  Have y
 
 _When_: starting from 10:30am
 
-_Where_: Venueless (channel to be announced in _#Social events_)
+_Where_: Venueless (channel _#Starcase Dev Sprint_)
 
 _Requirements_: git installed (and basic knowledge of operation), Python 3.7 or higher, github account, working knowledge of [pandas](https://pandas.pydata.org/)
 
@@ -100,14 +100,7 @@ Yes, they are back this year! Submissions will happen until Saturday 1pm, so mak
 
 _When_: 11am-12:30pm ([See Program](https://2021.pycon.org.au/program/83xwjw/))
 
-_Where_: Venueless (Stage)
-
-_How to apply_:
-
-  ⚡️ <a href="https://forms.gle/TEXGB3MiyNsoTpHj7" target="_blank">**Submit your lightning talks here**</a> ⚡️ 
-
-  * Additional details and requirements are detailed on the form
-  * Successful applicants will be notified by the end of Saturday. 
+_Where_: Venueless (Stage _Lightning Talks_)
 
 _Capacity_: No limits on spectators!
 
@@ -128,7 +121,7 @@ _Where_: [FoundryVTT](https://foundryvtt.com/), detailed instructions will be se
 
 _Requirements_: Check [FoundryVTT requirements](https://foundryvtt.com/article/requirements/)
 
-_Capacity_: 6 per session; register your expression of interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdmGlRUZgeeJ1W9W5SZmHB4p9tEueqZOOStUwR0Ruw6Nf_uWw/viewform) Saturday until 5pm. Six people will be randomly selected per session, and they will be notified by Saturday 6pm via venueless and email. 
+_Capacity_: 6 per session; register your expression of interest by Saturday 5pm. Six people will be randomly selected per session, and they will be notified by Saturday 6pm via venueless and email. 
 
 _Host_: Henry Walshaw
 
