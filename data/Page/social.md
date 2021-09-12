@@ -164,9 +164,9 @@ _Hosts_: Peter Hall and Harshal
 Of course, MarioKart is back. 
 
 
-_When_: 2-3pm
+_When_: 2-3pm 
 
-_Where_: Nintendo network; instructions to be shared in Venueless channel _#Social events_
+_Where_: Nintendo network and Venueless (_# Social event video chat [1]_ channel); instructions to be shared in Venueless channel _#Social events_
 
 _Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Kart 8 Deluxe game (2 players in the same room can share a console)
 
@@ -175,13 +175,13 @@ _Capacity_: No upper limit
 _Host_: Leigh Brenecki
 
 
-### 🍄 Mario Party
+### 🍄 Mario Party 
 
 No party is good enough without a Mario Party. 
 
 _When_: 5-6pm
 
-_Where_: Nintendo network; instructions to be shared in Venueless channel _#Social events_
+_Where_: Nintendo network and Venueless (_# Social event video chat [2]_ channel); instructions to be shared in Venueless channel _#Social events_
 
 _Requirements_: Nintendo Switch console, Nintendo Switch Online subscription, Mario Party game
 
