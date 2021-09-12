@@ -69,7 +69,9 @@ curlyboi is our multicoloured snake graphic, lovingly designed by [Tania Walker]
 
 In live in-person events, the AV team commonly places a [maneki-neko](https://en.wikipedia.org/wiki/Maneki-neko) (sometimes known as 'lucky cats' or 'waving cats') on a podium to check that the camera feed is working when a human is not standing at the podium.
 
-This caught the attention of a number of speakers and attendees in particular at linux.conf.au 2018, with people mimicking the arm movement of the maneki-neko.
+[C3VOC](https://c3voc.de/) (whom our AV team collaborate with) started this practice [as a cheap way to detect video grabber driver lock-ups](https://twitter.com/c3voc/status/946656972480409600). These cats became the mascot of C3VOC, and the practise continued long after the driver bugs were fixed.
+
+Some members of C3VOC visited Sydney for linux.conf.au 2018, where these cats ended up on podiums as a joke. They became infamous at the conference -- a number of speakers and attendees started mimicking maneki-neko's arm movement.
 
 ### Lightning talk references
 
