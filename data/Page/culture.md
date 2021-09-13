@@ -30,6 +30,10 @@ If you're new to Python or PyCon AU, here's some things we will probably mention
 
 The may include, but are not limited to:
 
+### Chiptunes
+
+The music used between presentations was by cTrix, one of our AV crew. [Check out their soundcloud](https://soundc
+loud.com/ctrix)!
 
 ### Platypus
 
