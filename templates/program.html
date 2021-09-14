@@ -7,6 +7,7 @@
 {% set last_min = last.end.timestamp()|int // 60 %}
 
 <div class="switcher">
+    <a href="/program/all/">All</a>
     <a href="/program/fri/"{% if day.0 == 'fri' %} class='selected'{% endif %}>Friday</a>
     <a href="/program/sat/"{% if day.0 == 'sat' %} class='selected'{% endif %}>Saturday</a>
     <a href="/program/sun/" >Sunday</a>

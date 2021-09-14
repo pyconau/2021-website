@@ -1,0 +1,5 @@
+path: /program/all
+context:
+  dynamic:
+    sessions: session.query(Session).order_by(Session.title).all()
+template: program-list

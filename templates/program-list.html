@@ -1,0 +1,20 @@
+{% extends '_base.html' %}
+{% block main %}
+
+<div class="switcher" style="width: 16em; height: ">
+    <a href="/program/all/" class="selected">All</a>
+    <a href="/program/fri/">Friday</a>
+    <a href="/program/sat/">Saturday</a>
+    <a href="/program/sun/" >Sunday</a>
+  </div>
+
+<h1>PyConline AU Talk list</h1>
+
+
+{% for session in sessions %}
+    <li><a href="{% url "session", session %}">{{session.title}}</a> by {% for speaker in session.speakers %}{{ speaker.name }}{% if not loop.last %}, {% endif %}{% endfor %}</li>
+
+{% endfor %}
+
+
+{% endblock %}

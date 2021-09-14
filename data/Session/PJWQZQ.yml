@@ -1,0 +1,47 @@
+title: 'Football (soccer) data analysis: A pedagogic introduction'
+start: 2021-09-10 18:00:00+10:00
+end: 2021-09-10 18:30:00+10:00
+room: 1
+track: science
+type: P
+abstract: '<p><strong>Organisers Note</strong>: This talk was a backup presentation
+  that was not streamed during the event, but is being made available post event.</p>'
+description: "<p>Nowadays data is the key to solving challenges in most fields, say\
+  \ astronomy, applied mathematics, health care, or even sports. Data is everywhere\
+  \ and it is super beneficial to leverage these data and build models for making\
+  \ sense out of them and telling stories. The field of sports, especially football\
+  \ (soccer), is enriched by data analysis that makes us understand the game better\
+  \ and predict outcomes. Many people want to delve deep into football (soccer) data\
+  \ analysis and get their hands dirty. This talk is to help them do so by pedagogically\
+  \ introducing them to the introductory analytical methodologies to overcome the\
+  \ initial barriers of the field and start working with data analyses and visualizations\
+  \ on football data to deduce interesting results.</p>\n&lt;hr /&gt;\n<ol>\n<li>\n\
+  <p>I will start my talk addressing how to get open access football event data using\
+  \ the <a href=\"https://github.com/statsbomb/open-data#:~:text=StatsBomb%20Open%20Data%20Welcome%20to%20the%20StatsBomb%20Open,encourage%20new%20research%20and%20analysis%20at%20all%20levels.\"\
+  ><strong>statsbomb</strong></a> API using Python [3min],</p>\n</li>\n<li>\n<p>The\
+  \ next thing I will talk about is drawing a football pitch using the <a href=\"\
+  https://mplsoccer.readthedocs.io/en/latest/index.html\"><strong>mplsoccer</strong></a>\
+  \ Python module, so that we can start making most of our football data visualizations\
+  \ on this pitch [3 min], </p>\n</li>\n<li>\n<p>I will then talk about simple data\
+  \ visualizations like drawing shot maps, pass maps, and their corresponding heat\
+  \ maps [7 min], </p>\n</li>\n<li>\n<p>Next I will teach how to visualize a passing\
+  \ network on the pitch of a particular team during a particular game. We will further\
+  \ advance our knowledge by analyzing this pass network using the <a href=\"https://networkx.org/\"\
+  ><strong>NetworkX</strong></a> python module that is usually used in complex network\
+  \ analysis in mathematics. We will learn how to calculate pass degree distributions\
+  \ of each player, find out which player was the most central in that pass network\
+  \ by calculating the \"centrality\" of each player node, and so on [8 min], </p>\n\
+  </li>\n<li>\n<p>After that, I will teach how to implement computational geometric\
+  \ concepts like Convex Hulls, Voronoi diagrams, and Delaunay triangulations using\
+  \ the Python package <a href=\"https://docs.scipy.org/doc/scipy/reference/spatial.html\"\
+  ><strong>scipy.spatial</strong></a> and <strong>mplsoccer</strong> on open access\
+  \ football tracking data so that we can analyze how many passes were available to\
+  \ a player at a particular instance of a game, or how a group of players broke down\
+  \ space on the pitch at a particular instance, etc. [7 min], and</p>\n</li>\n<li>\n\
+  <p>I will end my talk by guiding the audience to the references I used for starting\
+  \ with football (soccer) data analysis [2 min].</p>\n</li>\n</ol>"
+code: PJWQZQ
+speakers:
+- WBC8WH
+cw:
+youtube_slug: IBTgHLUS7Xo
