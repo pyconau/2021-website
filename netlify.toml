@@ -2,7 +2,7 @@
 publish = "public/"
 command = """
 export TZ=Australia/Melbourne
-pip3 install -q poetry &&
+pip install -q poetry &&
 poetry config virtualenvs.in-project true &&
 poetry install &&
 yarn install &&
