@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/build/index.css" />
+    <script src="/assets/build/index.js" async></script>
+    <title>PyCon AU 2021</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+  </head>
+  <body>
+    
+    
+    <nav class="">
+      <a id="nav-logo" href="/"
+        ><img src="/assets/Logo_Standard_PyConline.svg"
+      /></a>
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/sponsor">Sponsor</a></li>
+        <li><a href="/attend">Attend</a></li>
+        <li><a href="/program">Program</a></li>
+        <li><a href="/conduct">Conduct</a></li>
+      </ul>
+      <div class="dates">
+        10 - 12 September, 2021 &emsp;&bull;&emsp;<span class="location"
+          >The Internet</span
+        >
+      </div>
+    </nav>
+    
+    
+    <div id="content">
+      
+      <main>
+        
+<h1>When a little web app needs to grow up... the journey from a hobby project to production</h1>
+<div class="time-bar">
+  Fri September 10, 03:00 PM&ndash;03:30 PM &bull;
+  <a href="/program/fri/"
+    >Back to program</a
+  >
+</div>
+
+<div class="backstage-only backstage-block">
+  <table>
+    <tbody>
+      <tr>
+        <th>Session Type</th>
+        <td>Live</td>
+      </tr>
+      <tr>
+        <th>Start time</th>
+        <td
+          data-reltime="2021-09-10T15:00:00+10:00"
+        >
+          15:00
+        </td>
+      </tr>
+      <tr>
+        <th>End time</th>
+        <td
+          data-reltime="2021-09-10T15:30:00+10:00"
+        >
+          15:30
+        </td>
+      </tr>
+      <tr>
+        <th>Countdown link</th>
+        <td>
+          <a
+            href="https://nextdayvideo.com/tools/countdown-widget/?t=2021-09-10T15:30:00+10:00&r=0:5:0-1/0:2:0-1/0:1:0-1/0:10:0-1/"
+          >
+            Open timer
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/dZKe1kCSmHo"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  class="ytembed"
+></iframe>
+
+
+<div class="lede"><p>A few years ago a small web application was built with Flask over a weekend allowing customers to order a free t-shirt for an event being hosted. It was designed for this single purpose and had never been considered to be needed or expanded beyond that.</p>
+<p>Within the next six months, the app was adapted to allow breakfasts, hoodies, socks, pens and rubik's cubes ordered for different events.</p>
+<p>With these new adaptions came added complexities.</p></div>
+
+<p>Originally orders were sent from the app to the supplier via email as soon as customers placed them, whereas as new suppliers were onboarded, a list of all orders were shared at the end of each event. In addition, new and more flexible fields for both customer, shipping and item descriptions were needed to support a wider range of event merchandise. A database was needed!</p>
+<p>Marketing for each product needed to be added so that custom titles, event descriptions, merchandise and branding could be applied to different pages. Image storage and a form builder was investigated to enable others to create events. </p>
+<p>An email notification system was developed to send order updates to customers. Security and data privacy had to be considered for sensitive order data. </p>
+<p>The concept of mini-apps for events was formed so that a subdomain could be generated for each event page. </p>
+<p>An investigation into moving to serverless or containers was examined to assist handle increased traffic. To help reduce deployment time, continuous delivery patterns were implemented and infrastructure creation was automated.</p>
+<p>This is the journey on how my small app needed to grow, the decisions that were made along the way, and the fine balance between having the app ready to handle current needs whilst continuing to update architecture and functionality to suit unexpected growth and business requirements.</p>
+
+
+  
+<div class="profile">
+
+  
+
+  <img class="local-border" src="/assets/people/9J8UMJ.jpg" />
+
+  <div class="details">
+    <b> Matt Coles</b>
+    <small>
+      he/him 
+       
+      
+    </small>
+     <p>Matt has authored and releasing a number of enterprise mobile applications, worked in mobile device security, and developed global innovations within the chatbot technology space. He now works at a cloud provider helping customers scale their applications.</p> 
+  </div>
+</div>
+
+
+
+      </main>
+      
+    </div>
+    <footer>
+      <section class="sponsor auspice">
+        <h1>PyCon AU is an event of</h1>
+        <img src='/assets/sponsor-logos/la.svg' alt="Linux Australia" />
+      </section>
+      <section class="sponsor video">
+        <h1>Platinum Sponsors</h1>
+        <img src='/assets/sponsor-logos/canva.webp' alt="Canva" />
+      </section>
+      <section class="sponsor infra">
+        <h1>&nbsp;</h1>
+        <img src='/assets/sponsor-logos/wsp-digital.png' alt="WSP Digital" />
+      </section>
+      <section class="signup">
+        <h1>Sign up for announcements</h1>
+        <form
+          method="post"
+          action="https://lists.linux.org.au/mailman/subscribe/pycon-au-announce"
+          class="mailing-list-signup-form"
+        >
+          <input
+            type="email"
+            name="email"
+            required
+            placeholder="snek@example.com"
+          />
+          <button type="submit">Sign up</button>
+        </form>
+      </section>
+      <section class="copyright">
+        <b>Contact us:</b>
+        <a href="mailto:contact@pycon.org.au">contact@pycon.org.au</a><br />
+        &copy; 2021, the PyCon AU team
+      </section>
+    </footer>
+  </body>
+  <script type="text/javascript">
+    if (window.location.hash === "#debug") document.body.classList.add("debug")
+  </script>
+</html>

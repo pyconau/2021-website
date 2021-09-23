@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/build/index.css" />
+    <script src="/assets/build/index.js" async></script>
+    <title>PyCon AU 2021</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+  </head>
+  <body>
+    
+    
+    <nav class="">
+      <a id="nav-logo" href="/"
+        ><img src="/assets/Logo_Standard_PyConline.svg"
+      /></a>
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/sponsor">Sponsor</a></li>
+        <li><a href="/attend">Attend</a></li>
+        <li><a href="/program">Program</a></li>
+        <li><a href="/conduct">Conduct</a></li>
+      </ul>
+      <div class="dates">
+        10 - 12 September, 2021 &emsp;&bull;&emsp;<span class="location"
+          >The Internet</span
+        >
+      </div>
+    </nav>
+    
+    
+    <div id="content">
+      
+      <main>
+        
+<h1>CFU Playground</h1>
+<div class="time-bar">
+  Sat September 11, 12:00 PM&ndash;12:30 PM &bull;
+  <a href="/program/sat/"
+    >Back to program</a
+  >
+</div>
+
+<div class="backstage-only backstage-block">
+  <table>
+    <tbody>
+      <tr>
+        <th>Session Type</th>
+        <td>Live</td>
+      </tr>
+      <tr>
+        <th>Start time</th>
+        <td
+          data-reltime="2021-09-11T12:00:00+10:00"
+        >
+          12:00
+        </td>
+      </tr>
+      <tr>
+        <th>End time</th>
+        <td
+          data-reltime="2021-09-11T12:30:00+10:00"
+        >
+          12:30
+        </td>
+      </tr>
+      <tr>
+        <th>Countdown link</th>
+        <td>
+          <a
+            href="https://nextdayvideo.com/tools/countdown-widget/?t=2021-09-11T12:30:00+10:00&r=0:5:0-1/0:2:0-1/0:1:0-1/0:10:0-1/"
+          >
+            Open timer
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/9Oz7C95lVSA"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  class="ytembed"
+></iframe>
+
+
+<div class="lede"><p>The CFU-Playground allows anyone to build FPGA based accelerators for ML inferencing. With a heavy reliance on the Python based tools LiteX and nMigen, it encourages an interative development style, typically starting with a single multiply-accumulate, and progressing in small steps to a full inner loop.</p></div>
+
+<p>This talk describes the CFU Playground, an open-source framework that an engineer, intern, or student can use to design and evaluate enhancements to an FPGA-based soft RISC-V processor, specifically to increase the performance of machine learning (ML) tasks through the addition of custom function units (CFUs). The goal is to abstract away most infrastructure details so that the user can get up to speed quickly and focus solely on adding new processor functions, exploiting them in the computation, and measuring the results.</p>
+<p>The presentation describes the process of identifying hot spots in the code during an inference of a specific model, then addressing those hotspots by building a CFU in nMigen. We examine the process of constructing the gateware building blocks and unittesting them, then integrating them with the Tensorflow Lite kernel library. The goal is to specialize the RISC-V processor and ML kernels to accelerate the model of interest.</p>
+<p>All IP and software used is open sourced and licensed permissively -- the open RISC-V ISA that allows new custom instructions, the VexRiscv soft core implementation, the LiteX system-on-chip IP, the Symbiflow FPGA toolchain, Renode and Verilator simulators, and TensorFlow Lite kernel libraries.  Thus, the combined CPU, CFU, and kernel libraries that the user develops are not tied to any particular FPGA vendor; there are no licensing restrictions or fees; and there is no dependence on any black box proprietary tools.</p>
+<p>https://github.com/google/CFU-Playground
+https://cfu-playground.readthedocs.io/</p>
+
+
+  
+<div class="profile">
+
+  
+
+  <img class="local-border" src="/assets/people/DKGHFV.jpg" />
+
+  <div class="details">
+    <b> Alan Green</b>
+    <small>
+      he, him 
+       
+      
+    </small>
+     <p>Alan is a Staff Software Engineer on the Google ChromeOS Platform team. He works on both making existing ML acceleration hardware accessible to the ChromeOS and on projects that require new hardware ML accelerators. Alan also contributes to the CFU-Playground project, exploring software and hardware co-design to accelerate Tensorflow Lite for Microcontrollers models on smaller FPGA platforms.</p>
+<p>In his spare time, Alan likes to play with oscilloscopes and solder.</p> 
+  </div>
+</div>
+
+
+
+      </main>
+      
+    </div>
+    <footer>
+      <section class="sponsor auspice">
+        <h1>PyCon AU is an event of</h1>
+        <img src='/assets/sponsor-logos/la.svg' alt="Linux Australia" />
+      </section>
+      <section class="sponsor video">
+        <h1>Platinum Sponsors</h1>
+        <img src='/assets/sponsor-logos/canva.webp' alt="Canva" />
+      </section>
+      <section class="sponsor infra">
+        <h1>&nbsp;</h1>
+        <img src='/assets/sponsor-logos/wsp-digital.png' alt="WSP Digital" />
+      </section>
+      <section class="signup">
+        <h1>Sign up for announcements</h1>
+        <form
+          method="post"
+          action="https://lists.linux.org.au/mailman/subscribe/pycon-au-announce"
+          class="mailing-list-signup-form"
+        >
+          <input
+            type="email"
+            name="email"
+            required
+            placeholder="snek@example.com"
+          />
+          <button type="submit">Sign up</button>
+        </form>
+      </section>
+      <section class="copyright">
+        <b>Contact us:</b>
+        <a href="mailto:contact@pycon.org.au">contact@pycon.org.au</a><br />
+        &copy; 2021, the PyCon AU team
+      </section>
+    </footer>
+  </body>
+  <script type="text/javascript">
+    if (window.location.hash === "#debug") document.body.classList.add("debug")
+  </script>
+</html>
