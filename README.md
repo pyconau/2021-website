@@ -1,5 +1,9 @@
 # PyConline AU 2021 website
 
+This repo is now in archive. See infrastructure.md for setup details
+
+# old information
+
 This website is generated using [statik](https://github.com/thanethomson/statik) with automatic deployments by [Netlify](https://www.netlify.com/)
 
 For more information, see [infrastructure.md](infrastructure.md)

@@ -1,4 +1,14 @@
-# Infrastructure
+# Archive Infrastructure
+
+This repo now lives as an archive of the original website without automation. 
+
+For publishing updates, run the contents of the build steps in `netlify.yml`, then push the generated `public/` folder to the gh-pages branch: 
+
+```
+git subtree push --prefix public origin gh-pages
+```
+
+# Original Infrastructure
 
 [Statik](https://github.com/thanethomson/statik) uses data models to assist in developing a staticly generated website.
  
