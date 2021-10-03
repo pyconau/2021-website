@@ -3,6 +3,13 @@ title: Conduct
 order: 999 # always rightmost link
 ---
 
+# Safety Team Transparency Report
+
+The safety team has published their transparency report for 2021.
+
+You can [read it here](/news/2021-10-04-transparency/).
+
+
 # Code of conduct
 
 All attendees of PyConline AU agree to be bound by the Linux Australia code of conduct.
