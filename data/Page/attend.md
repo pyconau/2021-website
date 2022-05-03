@@ -5,16 +5,7 @@ order: 3
 
 # Thank you for attending PyConline AU 2021!
 
-If you'd like to hear more about PyCon AU 2022 as it's announced, you can <a href="https://twitter.com/PyConAU">follow us on Twitter</a>, or sign up to the mailing list:
-
-<form method='post' action='https://lists.linux.org.au/mailman/subscribe/pycon-au-announce' class='mailing-list-signup-form'>
-    <input type='email' name='email' required placeholder='snek@example.com'>
-    <button type='submit'>
-        Sign up
-    </button>
-</form>
-
-
+If you'd like to hear more about future PyCon AU events, you can <a href="https://twitter.com/PyConAU">follow us on Twitter</a>, or sign up to our <a href="https://lists.linux.org.au/mailman/listinfo/pycon-au-announce">low-volume announcement list.</a>
 
 
 ---
